@@ -13,8 +13,6 @@ https://salam-2.rutube.ru/dive/river-3-302.rutube.ru/Wvv9TJLNP-0YsewXcSdpOw/stre
 
 #EXTINF:-1 tvg-id="Channel5.ru" tvg-logo="https://i.imgur.com/KPXMa3U.png" group-title="General" user-agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.84 Safari/537.36 CrKey/1.21a.76178",Пятый Канал (540p) [Geo-blocked]
 http://213.172.73.170:8081/nimble_live/1034__5_kanal/playlist.m3u8
-#EXTINF:0 tvg-country="RU" tvg-logo="https://izak.ru/upload/medialibrary/9ae/12311233.png",Россия-Культура
-http://213.172.73.170:8081/nimble_live/1059__Rossiya_Kultura/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCentrInternational.ru" tvg-logo="https://i.imgur.com/fIkd01t.png" group-title="Undefined",ТВЦ (Международный) (576p)
 http://213.172.73.170:8081/nimble_live/1030__TVC/playlist.m3u8
 #EXTINF:-1 tvg-id="CTC.ru" tvg-logo="https://i.imgur.com/ilUzAeb.png" group-title="Family" user-agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.84 Safari/537.36 CrKey/1.21a.76178",СТС (540p) [Geo-blocked]
