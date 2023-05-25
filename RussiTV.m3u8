@@ -12,13 +12,13 @@ https://edge02.beetv.kz/btv/icon/RussiaK/RussiaK_576p_2000kbps.m3u8
 https://salam-2.rutube.ru/dive/river-3-302.rutube.ru/Wvv9TJLNP-0YsewXcSdpOw/stream/genetta-301.m9.rutube.ru/SOUXx1o0vXIazrYhWoOpPQ/1685033152/c37cd74192c6bc3d6cd6077c0c4fd686/360p_stream.m3u8
 
 #EXTINF:-1 tvg-id="Channel5.ru" tvg-logo="https://i.imgur.com/KPXMa3U.png" group-title="General" user-agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.84 Safari/537.36 CrKey/1.21a.76178",Пятый Канал (540p) [Geo-blocked]
-http://213.172.73.170:8081/nimble_live/1034__5_kanal/playlist.m3u8
-#EXTINF:-1 tvg-id="TVCentrInternational.ru" tvg-logo="https://i.imgur.com/fIkd01t.png" group-title="Undefined",ТВЦ (Международный) (576p)
-http://213.172.73.170:8081/nimble_live/1030__TVC/playlist.m3u8
+http://50.7.120.164:8081/5kanal/index.m3u8?wmsAuthSign=ff999179561e548c78befe1736758dea-1685037770-03i771i411i64
 #EXTINF:-1 tvg-id="CTC.ru" tvg-logo="https://i.imgur.com/ilUzAeb.png" group-title="Family" user-agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.84 Safari/537.36 CrKey/1.21a.76178",СТС (540p) [Geo-blocked]
-http://213.172.73.170:8081/nimble_live/1087__STS/playlist.m3u8
+https://frv3.sysnet.top/video/5iGSliT_Nw-4mmtzeZVPHA/9/playlist.m3u8
 #EXTINF:-1 tvg-id="Domashniy.ru" tvg-logo="https://i.imgur.com/XVRwgom.png" group-title="Entertainment" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Домашний (540p) [Geo-blocked]
-http://213.172.73.170:8081/nimble_live/1021__Domashniy/playlist.m3u8
+http://50.7.120.164:8081/domashni/index.m3u8?wmsAuthSign=7c0eba58cae166317e2cd555ed5190ed-1685038392-03i771i411i64
+#EXTINF:-1 tvg-id="Enisey.ru" tvg-logo="https://i.imgur.com/57deE7f.png" group-title="Undefined",Енисей (1080p) [Not 24/7]
+http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV3.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TV-3_logo_%282015%29.png/512px-TV-3_logo_%282015%29.png" group-title="Entertainment" user-agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.84 Safari/537.36 CrKey/1.21a.76178",ТВ-3 (540p) [Geo-blocked]
 http://213.172.73.170:8081/nimble_live/1060__TV3/playlist.m3u8
@@ -46,8 +46,6 @@ http://213.172.73.170:8081/nimble_live/1127__Dom_Kino/playlist.m3u8
 #EXTINF:-1 tvg-id="Kinomiks.ru" tvg-logo="https://i.imgur.com/OGUMa1A.png" group-title="Movies",Киномикс (1080p) [Not 24/7]
 http://82.209.197.187:8080/udp/239.0.100.33:1234
 
-#EXTINF:-1 tvg-id="Enisey.ru" tvg-logo="https://i.imgur.com/57deE7f.png" group-title="Undefined",Енисей (1080p) [Not 24/7]
-http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="1Plus1.ua" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="Undefined",1+1 (1080p)
 https://ythls.onrender.com/channel/UCVEaAWKfv7fE1c-ZuBs7TKQ.m3u8
 #EXTINF:-1 tvg-id="2x2.ru" tvg-logo="https://i.imgur.com/fhQFLEl.png" group-title="Entertainment",2x2 (720p) [Not 24/7]
