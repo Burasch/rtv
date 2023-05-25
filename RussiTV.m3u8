@@ -28,7 +28,7 @@ http://50.7.120.164:8081/domashni/index.m3u8?wmsAuthSign=7c0eba58cae166317e2cd55
 http://50.7.120.164:8081/zvezda/index.m3u8?wmsAuthSign=bcbc6382c9e8b46880617e175263753d-1685041832-03i771i411i64
 #EXTINF:-1 tvg-id="TNT4.ru" tvg-logo="https://i.imgur.com/4GiD9xN.png" group-title="Entertainment",ТНТ4 (576p) [Not 24/7]
 http://50.7.120.164:8081/tnt_com/index.m3u8?wmsAuthSign=aa69b776792b225ecbc4fee2565aa770-1685041932-03i771i411i64
-#EXTINF:0 tvg-country="RU" tvg-logo=""https://kino.tricolor.tv/upload/iblock/c16/m9d3o3t2duwvfs8lkn2wke9xlzffdak6.webp?utm_source=yandex.ru&utm_medium=organic&utm_campaign=yandex.ru&utm_referrer=yandex.ru",Cinema
+#EXTINF:0 tvg-country="RU" tvg-logo="https://kino.tricolor.tv/upload/iblock/c16/m9d3o3t2duwvfs8lkn2wke9xlzffdak6.webp?utm_source=yandex.ru&utm_medium=organic&utm_campaign=yandex.ru&utm_referrer=yandex.ru",Cinema
 http://50.7.120.164:8081/cinema/index.m3u8?wmsAuthSign=9e7975067f2325530d957dc88533cac7-1685042006-03i771i411i64
 #EXTINF:-1 tvg-id="Ostrosyuzhetnoye.ru" tvg-logo="https://i.imgur.com/xGIEXoa.png" group-title="Undefined",Остросюжетное (540p)
 http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
