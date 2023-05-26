@@ -16,7 +16,7 @@ http://50.7.120.164:8081/5kanal/index.m3u8?wmsAuthSign=b3646eff8f8dcce94349a7f1e
 #EXTINF:-1 tvg-id="CTC.ru" tvg-logo="https://i.imgur.com/ilUzAeb.png" group-title="Family" user-agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.84 Safari/537.36 CrKey/1.21a.76178",СТС (540p) [Geo-blocked]
 http://50.7.120.164:8081/sts_/index.m3u8?wmsAuthSign=1b5fcecd9485bc7eb1725d43b59c7c11-1685115823-012i602i191i77
 #EXTINF:-1 tvg-id="Domashniy.ru" tvg-logo="https://i.imgur.com/XVRwgom.png" group-title="Entertainment" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Домашний (540p) [Geo-blocked]
-http://50.7.120.164:8081/domashni/index.m3u8?wmsAuthSign=7c0eba58cae166317e2cd555ed5190ed-1685038392-03i771i411i64
+http://50.7.120.164:8081/domashni/index.m3u8?wmsAuthSign=4d529fdb1cf31532f80618b9356b7df9-1685116097-012i602i191i77
 #EXTINF:-1 tvg-id="Enisey.ru" tvg-logo="https://i.imgur.com/57deE7f.png" group-title="Undefined",Енисей (1080p) [Not 24/7]
 http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="TV3.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TV-3_logo_%282015%29.png/512px-TV-3_logo_%282015%29.png" group-title="Entertainment" user-agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.84 Safari/537.36 CrKey/1.21a.76178",ТВ-3 (540p) [Geo-blocked]
