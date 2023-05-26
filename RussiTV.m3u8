@@ -20,16 +20,16 @@ http://50.7.120.164:8081/domashni/index.m3u8?wmsAuthSign=4d529fdb1cf31532f80618b
 #EXTINF:-1 tvg-id="Enisey.ru" tvg-logo="https://i.imgur.com/57deE7f.png" group-title="Undefined",Енисей (1080p) [Not 24/7]
 http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="TV3.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TV-3_logo_%282015%29.png/512px-TV-3_logo_%282015%29.png" group-title="Entertainment" user-agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.84 Safari/537.36 CrKey/1.21a.76178",ТВ-3 (540p) [Geo-blocked]
-http://50.7.120.164:8081/domashni/index.m3u8?wmsAuthSign=d31ef726252484387dc77dd170a39036-1685116148-012i602i191i77
+https://frv4.sysnet.top/video/2JcQwshqR1KX9rlF7bthEg/18/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FridayInternational.ru" tvg-logo="https://i.imgur.com/N2z3EZC.png" group-title="Entertainment" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Пятница! International (480p)
-http://50.7.120.164:8081/domashni/index.m3u8?wmsAuthSign=d31ef726252484387dc77dd170a39036-1685116148-012i602i191i77
+http://50.7.120.164:8081/pjatnica/index.m3u8?wmsAuthSign=e704ec8f7a6e41c5b1687e448b296d2f-1685116808-012i602i191i77
 #EXTINF:-1 tvg-id="Zvezda.ru" tvg-logo="https://i.imgur.com/4PAcpfM.png" group-title="General",Звезда (1080p) [Not 24/7]
 http://50.7.120.164:8081/zvezda/index.m3u8?wmsAuthSign=27594c477cf06715fdc7a57bdac27918-1685116492-012i602i191i77
 #EXTINF:-1 tvg-id="TNT4.ru" tvg-logo="https://i.imgur.com/4GiD9xN.png" group-title="Entertainment",ТНТ4 (576p) [Not 24/7]
 http://50.7.120.164:8081/tnt_com/index.m3u8?wmsAuthSign=8f910b7ce43c31c0509377d9ff2b53d0-1685116527-012i602i191i77
 #EXTINF:0 tvg-country="RU" tvg-logo="https://kino.tricolor.tv/upload/iblock/c16/m9d3o3t2duwvfs8lkn2wke9xlzffdak6.webp?utm_source=yandex.ru&utm_medium=organic&utm_campaign=yandex.ru&utm_referrer=yandex.ru",Cinema
-http://50.7.120.164:8081/cinema/index.m3u8?wmsAuthSign=9e7975067f2325530d957dc88533cac7-1685042006-03i771i411i64
+http://50.7.120.164:8081/cinema/index.m3u8?wmsAuthSign=58d4de807b384572c4ada660172df62f-1685117069-012i602i191i77
 #EXTINF:-1 tvg-id="Ostrosyuzhetnoye.ru" tvg-logo="https://i.imgur.com/xGIEXoa.png" group-title="Undefined",Остросюжетное (540p)
 http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
 
