@@ -3,18 +3,18 @@
 #EXTINF:0 tvg-country="RU" tvg-logo="https://static.tildacdn.com/tild3038-3430-4531-b130-373435623236/03.png",Первый канал
 https://pkvc-hls4.cdnvideo.ru/Poehali/smil:Poehali.smil/playlist.m3u8
 #EXTINF:0 tvg-country="RU" tvg-logo="https://ante55.ru/upload/medialibrary/77d/77ddfab582f26f47935ce83525aa7c18.png",Россия 1
-https://salam-2-47.rutube.ru/dive/river-6-602.rutube.ru/euv_Q7yMJQTto_91QdCxZQ/stream/musang-602.cvt.rutube.ru/HNQZjGiC-XGEB17iwIIdrQ/1685032863/03929f2f53f4eeb0c9095043d6c55096/360p_stream.m3u8
+https://salam-2-47.rutube.ru/dive/river-7-702.rutube.ru/anaprMAwBvfQ6c5mK66oZw/stream/musang-602.cvt.rutube.ru/dvvReuA_3i9LnWsp693DkQ/1685107948/03929f2f53f4eeb0c9095043d6c55096/360p_stream.m3u8
 #EXTINF:0 tvg-country="RU" tvg-logo="https://ntvplus.tv/files/image/01/17/61/z0z.png",Россия 24
-https://salam-2-47.rutube.ru/dive/river-3-302.rutube.ru/nwJryINWx9DNcWYyVX06rg/stream/musang-604.cvt.rutube.ru/y5U7s34jkIqXD1GXUzifpQ/1685033516/4e9fd1bde11535b4787690052883f3d4/360p_stream.m3u8
+https://salam-2.rutube.ru/dive/river-3-302.rutube.ru/JGefLt99XhJ8TTl1d6EPFQ/stream/musang-604.cvt.rutube.ru/Fq-BlT3txsFOKPr_409ahg/1685108049/4e9fd1bde11535b4787690052883f3d4/360p_stream.m3u8#
 #EXTINF:0 tvg-country="RU" tvg-logo="https://izak.ru/upload/medialibrary/9ae/12311233.png",Россия-Культура
 https://edge02.beetv.kz/btv/icon/RussiaK/RussiaK_576p_2000kbps.m3u8
 #EXTINF:-1 tvg-id="NTVStyle.ru" tvg-logo="https://bosts-online.my1.ru/4logoTV/ntv111.png" group-title="Lifestyle" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",НТВ Стиль (480p)
-https://salam-2.rutube.ru/dive/river-3-302.rutube.ru/Wvv9TJLNP-0YsewXcSdpOw/stream/genetta-301.m9.rutube.ru/SOUXx1o0vXIazrYhWoOpPQ/1685033152/c37cd74192c6bc3d6cd6077c0c4fd686/360p_stream.m3u8
+https://salam-2.rutube.ru/dive/river-3-302.rutube.ru/kRtZheQCVa7RCs_IiB8NLg/stream/genetta-304.m9.rutube.ru/1AR9a1ARudmIzFarYx3LCA/1685108192/c37cd74192c6bc3d6cd6077c0c4fd686/360p_stream.m3u8
 
 #EXTINF:-1 tvg-id="Channel5.ru" tvg-logo="https://i.imgur.com/KPXMa3U.png" group-title="General" user-agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.84 Safari/537.36 CrKey/1.21a.76178",Пятый Канал (540p) [Geo-blocked]
-http://50.7.120.164:8081/5kanal/index.m3u8?wmsAuthSign=ff999179561e548c78befe1736758dea-1685037770-03i771i411i64
+https://mix.streamsport.net:8080/hls/5kanal/chunks.m3u8?nimblesessionid=15353810&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNi8yMDIzIDc6Mzk6MjcgQU0maGFzaF92YWx1ZT1IOVhFWmQ5WWlOMTdvaENvL043eTFRPT0mdmFsaWRtaW51dGVzPTE0NDAwMDAwMDAw
 #EXTINF:-1 tvg-id="CTC.ru" tvg-logo="https://i.imgur.com/ilUzAeb.png" group-title="Family" user-agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.84 Safari/537.36 CrKey/1.21a.76178",СТС (540p) [Geo-blocked]
-https://frv3.sysnet.top/video/5iGSliT_Nw-4mmtzeZVPHA/9/playlist.m3u8
+http://50.7.120.164:8081/sts_/index.m3u8?wmsAuthSign=ed54eb25960aa87114d4ac9b16ad441b-1685104997-67i771i411i64
 #EXTINF:-1 tvg-id="Domashniy.ru" tvg-logo="https://i.imgur.com/XVRwgom.png" group-title="Entertainment" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Домашний (540p) [Geo-blocked]
 http://50.7.120.164:8081/domashni/index.m3u8?wmsAuthSign=7c0eba58cae166317e2cd555ed5190ed-1685038392-03i771i411i64
 #EXTINF:-1 tvg-id="Enisey.ru" tvg-logo="https://i.imgur.com/57deE7f.png" group-title="Undefined",Енисей (1080p) [Not 24/7]
