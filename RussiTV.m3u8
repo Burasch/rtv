@@ -2,6 +2,7 @@
 
 #EXTINF:0 tvg-country="RU" tvg-logo="https://static.tildacdn.com/tild3038-3430-4531-b130-373435623236/03.png",Первый канал
 https://pkvc-hls4.cdnvideo.ru/Poehali/smil:Poehali.smil/playlist.m3u8
+#EXTINF:0 tvg-country="RU" tvg-logo="https://iconape.com/wp-content/files/mu/285489/png/285489.png",Россия 1
 http://50.7.120.164:8081/ros_1/index.m3u8?wmsAuthSign=567e29983ffed794cd91adde74f1c978-1685742705-14i771i411i64
 https://salam-2-47.rutube.ru/dive/river-7-702.rutube.ru/anaprMAwBvfQ6c5mK66oZw/stream/musang-602.cvt.rutube.ru/dvvReuA_3i9LnWsp693DkQ/1685107948/03929f2f53f4eeb0c9095043d6c55096/360p_stream.m3u8
 #EXTINF:0 tvg-country="RU" tvg-logo="https://ntvplus.tv/files/image/01/17/61/z0z.png",Россия 24
