@@ -9,7 +9,7 @@ https://salam-2.rutube.ru/dive/river-3-302.rutube.ru/JGefLt99XhJ8TTl1d6EPFQ/stre
 #EXTINF:0 tvg-country="RU" tvg-logo="https://izak.ru/upload/medialibrary/9ae/12311233.png",Россия-Культура
 https://edge02.beetv.kz/btv/icon/RussiaK/RussiaK_576p_2000kbps.m3u8
 #EXTINF:-1 tvg-id="NTVStyle.ru" tvg-logo="https://bosts-online.my1.ru/4logoTV/ntv111.png" group-title="Lifestyle" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",НТВ Стиль (480p)
-https://salam-2.rutube.ru/dive/river-3-302.rutube.ru/kRtZheQCVa7RCs_IiB8NLg/stream/genetta-304.m9.rutube.ru/1AR9a1ARudmIzFarYx3LCA/1685108192/c37cd74192c6bc3d6cd6077c0c4fd686/360p_stream.m3u8
+http://50.7.120.164:8081/ntv/index.m3u8?wmsAuthSign=2f33919cbeffb92d6016db81703795a7-1685836494-91i081i411i64
 
 #EXTINF:-1 tvg-id="Channel5.ru" tvg-logo="https://i.imgur.com/KPXMa3U.png" group-title="General" user-agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.84 Safari/537.36 CrKey/1.21a.76178",Пятый Канал (540p) [Geo-blocked]
 http://50.7.120.164:8081/5kanal/index.m3u8?wmsAuthSign=b3646eff8f8dcce94349a7f1eba2d8c1-1685115733-012i602i191i77
