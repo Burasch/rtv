@@ -184,5 +184,7 @@ http://stream0.tv41.ru/live.m3u8?checkedby:iptvcat.com
 http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RU" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ugra_tv.jpg" group-title="Local",Югра
 http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ugra_tv.jpg" group-title="Local",Ю
+https://vgtrksmotrim.cdnvideo.ru
 
 
