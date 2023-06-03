@@ -185,6 +185,5 @@ http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8?checkedby:iptvcat
 #EXTINF:0 tvg-country="RU" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ugra_tv.jpg" group-title="Local",Югра
 http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RU" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ugra_tv.jpg" group-title="Local",Ю
-https://vgtrksmotrim.cdnvideo.ru
-
+https://vgtrksmotrim.cdnvideo.ru/hls2/russia_hd/playlist.m3u8?md5=xQdgY9uTQW58QVuZD0h5kg&e=1685828280
 
