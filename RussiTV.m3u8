@@ -17,7 +17,7 @@ http://50.7.120.164:8081/5kanal/index.m3u8?wmsAuthSign=b3646eff8f8dcce94349a7f1e
 http://50.7.120.164:8081/sts_/index.m3u8?wmsAuthSign=1b5fcecd9485bc7eb1725d43b59c7c11-1685115823-012i602i191i77
 #EXTINF:-1 tvg-id="Domashniy.ru" tvg-logo="https://i.imgur.com/XVRwgom.png" group-title="Entertainment" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Домашний 
 https://dom-live-megafon2.mediavitrina.ru/hls-livef1/ctc-dom/index.m3u8?token_version=v2&hash1=OVc2V7dr6-xgvA181W-0bY3lietXxuDTSYdcFK4u02E&hash2=IN3OqwsTyvZwQhIbNLUpMlW2AVhWxUJ9BrYakALKau4&timestamp=1686424591&random=ec57e2d44a0f9fb8a1705e12cb09e442
-#EXTINF:-1 tvg-id="Enisey.ru" tvg-logo="https://i.imgur.com/57deE7f.png" group-title="Undefined",Енисей (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="Enisey.ru" tvg-logo="https://i.imgur.com/57deE7f.png" group-title="Undefined",Енисей 
 http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="TV3.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TV-3_logo_%282015%29.png/512px-TV-3_logo_%282015%29.png" group-title="Entertainment" user-agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.84 Safari/537.36 CrKey/1.21a.76178",ТВ-3 
 https://live-s-106.uma.media/LIVE/LIVE:317846/HLS/live-s/1685909456/wpPOk2X8dr5dPt8hBoIJQw/live/317846_2/chunklist.m3u8
@@ -30,9 +30,9 @@ http://50.7.120.164:8081/pjatnica/index.m3u8?wmsAuthSign=e704ec8f7a6e41c5b1687e4
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
 #EXTINF:-1 tvg-id="FridayInternational.ru" tvg-logo="https://i.imgur.com/N2z3EZC.png" group-title="Entertainment" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Пятница! International 
 http://50.7.120.164:8081/pjatnica/index.m3u8?wmsAuthSign=e704ec8f7a6e41c5b1687e448b296d2f-1685116808-012i602i191i77
-#EXTINF:-1 tvg-id="Zvezda.ru" tvg-logo="https://i.imgur.com/4PAcpfM.png" group-title="General",Звезда (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="Zvezda.ru" tvg-logo="https://i.imgur.com/4PAcpfM.png" group-title="General",Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
-#EXTINF:0 tvg-country="RU" tvg-logo="https://i.imgur.com/CrFWXTD.png" group-title="Undefined",Мир (+4)
+#EXTINF:0 tvg-country="RU" tvg-logo="https://i.imgur.com/CrFWXTD.png" group-title="Undefined",Мир 
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RU" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mir_24_ru.jpg" group-title="News",Мир 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8?checkedby:iptvcat.com
@@ -41,8 +41,8 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8?checked
 http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RU" tvg-logo="http://mirbelogorya.ru/images/stories/news/2014/08/мир%20белогорья_логотип.jpg" group-title="Undefined",Мир Белогорья,Мир Белогорья (Белгород)
 http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="TNT4.ru" tvg-logo="https://i.imgur.com/4GiD9xN.png" group-title="Entertainment",ТНТ4 (576p) [Not 24/7]
-http://50.7.120.164:8081/tnt_com/index.m3u8?wmsAuthSign=8f910b7ce43c31c0509377d9ff2b53d0-1685116527-012i602i191i77
+#EXTINF:-1 tvg-id="TNT4.ru" tvg-logo="https://i.imgur.com/4GiD9xN.png" group-title="Entertainment",ТНТ4 
+https://vb4.uma.media/1685910852/yKIaE2Zos3HJF9kzLoAMVg/default/live-s/317849.m3u8?streams=3:vb:4614144,2:vb:2883584,1:vb:1153024
 #EXTINF:0 tvg-country="RU" tvg-logo="https://kino.tricolor.tv/upload/iblock/c16/m9d3o3t2duwvfs8lkn2wke9xlzffdak6.webp?utm_source=yandex.ru&utm_medium=organic&utm_campaign=yandex.ru&utm_referrer=yandex.ru",Cinema
 http://50.7.120.164:8081/cinema/index.m3u8?wmsAuthSign=58d4de807b384572c4ada660172df62f-1685117069-012i602i191i77
 #EXTINF:-1 tvg-id="Ostrosyuzhetnoye.ru" tvg-logo="https://i.imgur.com/xGIEXoa.png" group-title="Undefined",Остросюжетное (540p)
