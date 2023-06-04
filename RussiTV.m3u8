@@ -28,6 +28,10 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1685836555/ei/q
 http://50.7.120.164:8081/pjatnica/index.m3u8?wmsAuthSign=e704ec8f7a6e41c5b1687e448b296d2f-1685116808-012i602i191i77
 #EXTINF:-1 tvg-id="Zvezda.ru" tvg-logo="https://i.imgur.com/4PAcpfM.png" group-title="General",Звезда (1080p) [Not 24/7]
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
+#EXTINF:-1 tvg-id="FridayInternational.ru" tvg-logo="https://i.imgur.com/N2z3EZC.png" group-title="Entertainment" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Пятница! International (480p)
+http://50.7.120.164:8081/pjatnica/index.m3u8?wmsAuthSign=e704ec8f7a6e41c5b1687e448b296d2f-1685116808-012i602i191i77
+#EXTINF:-1 tvg-id="Zvezda.ru" tvg-logo="https://i.imgur.com/4PAcpfM.png" group-title="General",Звезда (1080p) [Not 24/7]
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
 #EXTINF:0 tvg-country="RU" tvg-logo="https://i.imgur.com/CrFWXTD.png" group-title="Undefined",Мир (+4)
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RU" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mir_24_ru.jpg" group-title="News",Мир 24
