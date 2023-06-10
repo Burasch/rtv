@@ -1,15 +1,15 @@
 #EXTM3U
 
 #EXTINF:0 tvg-country="RU" tvg-logo="https://static.tildacdn.com/tild3038-3430-4531-b130-373435623236/03.png",Первый канал
-https://pkvc-hls4.cdnvideo.ru/Poehali/smil:Poehali.smil/playlist.m3u8
+https://salam-2.rutube.ru/dive/river-1-401.rutube.ru/gUJcWBeO2G5Z-OcIyWG_9w/stream/musang-604.cvt.rutube.ru/Zx5o9bo3Ba0VczJBrq4RwQ/1686402207/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
 #EXTINF:0 tvg-country="RU" tvg-logo="https://iconape.com/wp-content/files/mu/285489/png/285489.png",Россия 1
-https://bl.rutube.ru/livestream/03929f2f53f4eeb0c9095043d6c55096/index.m3u8?s=Pg6V6_jeCyDw6P1Bh3-Tqg&e=1685975951&scheme=https
+https://mhd158.iptv2022.com/p/9k2pR2Wm36rml8ZWkOndqw,1686468743/streaming/rossia1ott/324/1/index.m3u8
 #EXTINF:0 tvg-country="RU" tvg-logo="https://ntvplus.tv/files/image/01/17/61/z0z.png",Россия 24
-https://edge02.beetv.kz/btv/icon/R24/R24.m3u8
+https://mhd158.iptv2022.com/p/jtbNUDLIzrxEEjyEXC96qg,1686468828/streaming/rossia24nn/324/1/tracks-v4a1/mono.m3u8?filter.tracks=v1v2v3v4a1t1
 #EXTINF:0 tvg-country="RU" tvg-logo="https://izak.ru/upload/medialibrary/9ae/12311233.png",Россия-Культура
 https://edge02.beetv.kz/btv/icon/RussiaK/RussiaK_576p_2000kbps.m3u8
 #EXTINF:-1 tvg-id="NTVStyle.ru" tvg-logo="https://bosts-online.my1.ru/4logoTV/ntv111.png" group-title="Lifestyle" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",НТВ Стиль 
-http://50.7.120.164:8081/ntv/index.m3u8?wmsAuthSign=2f33919cbeffb92d6016db81703795a7-1685836494-91i081i411i64
+https://us2.justv.org:8080/hls/ntv_hd/chunks.m3u8?nimblesessionid=6912870&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMC8yMDIzIDc6MjQ6NTMgQU0maGFzaF92YWx1ZT1ndjNlWUpRcUo1S3JSNXVJYzhPaDNRPT0mdmFsaWRtaW51dGVzPTE0NDAwMDAwMDAw
 
 #EXTINF:-1 tvg-id="Channel5.ru" tvg-logo="https://i.imgur.com/KPXMa3U.png" group-title="General" user-agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.84 Safari/537.36 CrKey/1.21a.76178",Пятый Канал 
 http://50.7.120.164:8081/5kanal/index.m3u8?wmsAuthSign=b3646eff8f8dcce94349a7f1eba2d8c1-1685115733-012i602i191i77
@@ -42,7 +42,7 @@ http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RU" tvg-logo="http://mirbelogorya.ru/images/stories/news/2014/08/мир%20белогорья_логотип.jpg" group-title="Undefined",Мир Белогорья,Мир Белогорья (Белгород)
 http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="TNT4.ru" tvg-logo="https://i.imgur.com/4GiD9xN.png" group-title="Entertainment",ТНТ4 
-https://vb4.uma.media/1685910852/yKIaE2Zos3HJF9kzLoAMVg/default/live-s/317849.m3u8?streams=3:vb:4614144,2:vb:2883584,1:vb:1153024
+https://live-s-106.uma.media/LIVE/LIVE:317849/HLS/live-s/1686396418/F5V9Xlj5sYS3PukaOA1atg/live/317849_3/chunklist.m3u8
 #EXTINF:0 tvg-country="RU" tvg-logo="https://kino.tricolor.tv/upload/iblock/c16/m9d3o3t2duwvfs8lkn2wke9xlzffdak6.webp?utm_source=yandex.ru&utm_medium=organic&utm_campaign=yandex.ru&utm_referrer=yandex.ru",Cinema
 http://50.7.120.164:8081/cinema/index.m3u8?wmsAuthSign=58d4de807b384572c4ada660172df62f-1685117069-012i602i191i77
 #EXTINF:-1 tvg-id="Ostrosyuzhetnoye.ru" tvg-logo="https://i.imgur.com/xGIEXoa.png" group-title="Undefined",Остросюжетное (540p)
