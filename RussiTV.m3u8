@@ -16,7 +16,7 @@ http://50.7.120.164:8081/5kanal/index.m3u8?wmsAuthSign=b3646eff8f8dcce94349a7f1e
 #EXTINF:-1 tvg-id="CTC.ru" tvg-logo="https://i.imgur.com/ilUzAeb.png" group-title="Family" user-agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.84 Safari/537.36 CrKey/1.21a.76178",СТС 
 https://mhd128.iptv2022.com/p/YHxzdu55-zdy6EvAbm3OBQ,1686672241/streaming/stsott/324/1/tracks-v2a1/mono.m3u8?filter.tracks=v1v2v3v4a1t
 #EXTINF:-1 tvg-id="Domashniy.ru" tvg-logo="https://i.imgur.com/XVRwgom.png" group-title="Entertainment" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Домашний 
-https://mhd128.iptv2022.com/p/6KX19V91n6Ee_NRxOQGieA,1686672317/streaming/domashiyott/324/1/tracks-v4a1/mono.m3u8?filter.tracks=v1v2v3v4a1t1
+http://65.108.8.151/hls/23/index.m3u8?md=EAftBnDKEPO5N1RIrNeUDQ&e=1686599254
 #EXTINF:-1 tvg-id="Enisey.ru" tvg-logo="https://i.imgur.com/57deE7f.png" group-title="Undefined",Енисей 
 http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="TV3.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TV-3_logo_%282015%29.png/512px-TV-3_logo_%282015%29.png" group-title="Entertainment" user-agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.84 Safari/537.36 CrKey/1.21a.76178",ТВ-3 
