@@ -1,15 +1,15 @@
 #EXTM3U
 
 #EXTINF:0 tvg-country="RU" tvg-logo="https://static.tildacdn.com/tild3038-3430-4531-b130-373435623236/03.png",Первый канал
-https://mhd140.iptv2022.com/p/MS_h0yZBD2RYJ7Cg5ITnLw,1686893411/streaming/1kanalott/324/1/tracks-v4a1/mono.m3u8?filter.tracks=v1v2v3v4a1t1
+https://mhd109.iptv2022.com/p/EdpPQJ_frx_JmL07OeH7IA,1687068465/streaming/1kanalott/324/1/tracks-v4a1/mono.m3u8?filter.tracks=v1v2v3v4a1t1
 #EXTINF:0 tvg-country="RU" tvg-logo="https://iconape.com/wp-content/files/mu/285489/png/285489.png",Россия 1
-https://mhd140.iptv2022.com/p/BrrO1Cd6ZkdUT4nJ-Eat9A,1686893213/streaming/rossia1ott/324/1/index.m3u8
+https://mhd109.iptv2022.com/p/lMSEqkNokAs7mC7tQQhyzQ,1687068619/streaming/rossia1ott/324/1/index.m3u8
 #EXTINF:0 tvg-country="RU" tvg-logo="https://ntvplus.tv/files/image/01/17/61/z0z.png",Россия 24
-https://mhd140.iptv2022.com/p/qM90Zp1Wa7LhUZEjoMUPTw,1686893566/streaming/rossia24nn/324/1/tracks-v4a1/mono.m3u8?filter.tracks=v1v2v3v4a1t1
+https://mhd109.iptv2022.com/p/MghI4z3gZMKoC-7zLLKt2g,1687068735/streaming/rossia24nn/324/1/index.m3u8
 #EXTINF:0 tvg-country="RU" tvg-logo="https://izak.ru/upload/medialibrary/9ae/12311233.png",Россия-Культура
-https://edge02.beetv.kz/btv/icon/RussiaK/RussiaK_576p_2000kbps.m3u8
+https://mhd109.iptv2022.com/p/E4EjHLNOHujyAo7_R56fGQ,1687068818/streaming/rossiak/324/1/tracks-v4a1/mono.m3u8?filter.tracks=v1v2v3v4a1t1
 #EXTINF:-1 tvg-id="NTVStyle.ru" tvg-logo="https://bosts-online.my1.ru/4logoTV/ntv111.png" group-title="Lifestyle" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",НТВ Стиль 
-https://mhd140.iptv2022.com/p/zl0oR2WWMolG9gtCvnm0kw,1686893638/streaming/ntvnn/324/1/tracks-v4a1/mono.m3u8?filter.tracks=v1v2v3v4a1t1
+https://mhd109.iptv2022.com/p/CF5wo7DvBaynv8d_Y9D8Rw,1687068858/streaming/ntvnn/324/1/tracks-v4a1/mono.m3u8?filter.tracks=v1v2v3v4a1t1
 
 #EXTINF:-1 tvg-id="Channel5.ru" tvg-logo="https://i.imgur.com/KPXMa3U.png" group-title="General" user-agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.84 Safari/537.36 CrKey/1.21a.76178",Пятый Канал 
 https://mhd140.iptv2022.com/p/N9thNxUD2zdbEpMJfjPhqQ,1686893697/streaming/5kanalott/324/1/tracks-v4a1/mono.m3u8?filter.tracks=v1v2v3v4a1t1
