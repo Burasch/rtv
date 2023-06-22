@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:0 tvg-country="RU" tvg-logo="https://static.tildacdn.com/tild3038-3430-4531-b130-373435623236/03.png",Первый канал
-https://v1-rtc.1internet.tv/video/multibitrate/video/2023/06/02/adac8fad-ceda-4f63-a5eb-82c7183c2db8_HD-news-2023_06_03-22_38_22_,350,950,3800,.mp4.urlset/master.m3u8
+https://pkvc-hls4.cdnvideo.ru/Poehali/smil:Poehali.smil/chunklist_b2628000_slru.m3u8?hls_proxy_host=6629500d2dbfd5d4bb54110b620706c6
 #EXTINF:0 tvg-country="RU" tvg-logo="https://iconape.com/wp-content/files/mu/285489/png/285489.png",Россия 1
 https://mhd109.iptv2022.com/p/lMSEqkNokAs7mC7tQQhyzQ,1687068619/streaming/rossia1ott/324/1/index.m3u8
 #EXTINF:0 tvg-country="RU" tvg-logo="https://ntvplus.tv/files/image/01/17/61/z0z.png",Россия 24
