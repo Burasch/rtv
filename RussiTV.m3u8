@@ -22,37 +22,32 @@ http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="TV3.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TV-3_logo_%282015%29.png/512px-TV-3_logo_%282015%29.png" group-title="Entertainment" user-agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.84 Safari/537.36 CrKey/1.21a.76178",ТВ-3 
 http://89.107.33.137:81/udp/239.195.1.115:1234
 
-#EXTINF:0 tvg-country="RU" tvg-logo="", Сваты
-https://okkotv-live.cdnvideo.ru/channel/Che_OTT_2.m3u8
 #EXTINF:-1 tvg-id="FridayInternational.ru" tvg-logo="https://i.imgur.com/N2z3EZC.png" group-title="Entertainment" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Пятница! 
-http://50.7.120.164:8081/pjatnica/index.m3u8?wmsAuthSign=e704ec8f7a6e41c5b1687e448b296d2f-1685116808-012i602i191i77
-#EXTINF:-1 tvg-id="Zvezda.ru" tvg-logo="https://i.imgur.com/4PAcpfM.png" group-title="General",Звезда 
-https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
-#EXTINF:-1 tvg-id="FridayInternational.ru" tvg-logo="https://i.imgur.com/N2z3EZC.png" group-title="Entertainment" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Пятница! International 
+http://178.163.89.211:4022/udp/234.0.0.235:2000
 http://50.7.120.164:8081/pjatnica/index.m3u8?wmsAuthSign=e704ec8f7a6e41c5b1687e448b296d2f-1685116808-012i602i191i77
 #EXTINF:-1 tvg-id="Zvezda.ru" tvg-logo="https://i.imgur.com/4PAcpfM.png" group-title="General",Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
 #EXTINF:0 tvg-country="RU" tvg-logo="https://i.imgur.com/CrFWXTD.png" group-title="Undefined",Мир 
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RU" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mir_24_ru.jpg" group-title="News",Мир 24
+http://93.100.142.220:4022/udp/239.239.2.7:5239
+#EXTINF:0 tvg-country="RU" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-mir-24.png" group-title="News",Мир 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Entertainment;Undefined",Мир Premium
-http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8?checkedby:iptvcat.com
+http://178.163.37.37:4022/udp/234.0.0.5:2000
 #EXTINF:0 tvg-country="RU" tvg-logo="http://mirbelogorya.ru/images/stories/news/2014/08/мир%20белогорья_логотип.jpg" group-title="Undefined",Мир Белогорья,Мир Белогорья (Белгород)
 http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="TNT4.ru" tvg-logo="https://i.imgur.com/4GiD9xN.png" group-title="Entertainment",ТНТ4 
-https://live-s-106.uma.media/LIVE/LIVE:317849/HLS/live-s/1686396418/F5V9Xlj5sYS3PukaOA1atg/live/317849_3/chunklist.m3u8
-#EXTINF:0 tvg-country="RU" tvg-logo="https://kino.tricolor.tv/upload/iblock/c16/m9d3o3t2duwvfs8lkn2wke9xlzffdak6.webp?utm_source=yandex.ru&utm_medium=organic&utm_campaign=yandex.ru&utm_referrer=yandex.ru",Cinema
-http://50.7.120.164:8081/cinema/index.m3u8?wmsAuthSign=58d4de807b384572c4ada660172df62f-1685117069-012i602i191i77
-#EXTINF:-1 tvg-id="Ostrosyuzhetnoye.ru" tvg-logo="https://i.imgur.com/xGIEXoa.png" group-title="Undefined",Остросюжетное (540p)
+http://93.100.142.220:4022/udp/239.239.3.36:5239
+#EXTINF:0 tvg-country="RU" tvg-logo="...",Cinema
+http://62.76.20.44:81/udp/239.195.4.100:1234
+#EXTINF:-1 tvg-id="Ostrosyuzhetnoye.ru" tvg-logo="https://i.imgur.com/xGIEXoa.png" group-title="Undefined",Остросюжетное
 http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DomKino.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png/512px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png" group-title="Movies",Дом кино (576p)
-http://213.172.73.170:8081/nimble_live/1127__Dom_Kino/playlist.m3u8
-#EXTINF:-1 tvg-id="Kinomiks.ru" tvg-logo="https://i.imgur.com/OGUMa1A.png" group-title="Movies",Киномикс (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="DomKino.ru" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-dom-kino.png" group-title="Movies",Дом кинo
+http://178.163.101.28:4022/udp/234.0.0.219:2000
+#EXTINF:-1 tvg-id="Kinomiks.ru" tvg-logo="https://i.imgur.com/OGUMa1A.png" group-title="Movies",Киномик
 http://82.209.197.187:8080/udp/239.0.100.33:1234
-#EXTINF:-1 tvg-id="1Plus1.ua" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="Undefined",1+1 (1080p)
+#EXTINF:-1 tvg-id="1Plus1.ua" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="Undefined",1+1
 https://ythls.onrender.com/channel/UCVEaAWKfv7fE1c-ZuBs7TKQ.m3u8
 #EXTINF:-1 tvg-id="2x2.ru" tvg-logo="https://i.imgur.com/fhQFLEl.png" group-title="Entertainment",2x2 (720p) [Not 24/7]
 https://bl.uma.media/live/317805/HLS/4614144_3,2883584_2,1153024_1/1613019214/3754dbee773afc02014172ca26d3bb79/playlist.m3u8
