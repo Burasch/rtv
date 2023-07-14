@@ -8,19 +8,19 @@ http://37.9.153.66:4022/udp/232.0.3.2:1234
 http://178.163.36.227:4022/udp/234.0.0.207:2000
 #EXTINF:0 tvg-country="RU" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-rossiya-k.jpg",Россия-Культура
 http://37.9.159.188:4022/udp/232.0.3.6:1234
-#EXTINF:-1 tvg-id="NTVStyle.ru" tvg-logo="https://bosts-online.my1.ru/4logoTV/ntv111.png" group-title="Lifestyle" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",НТВ Стиль 
-https://mhd109.iptv2022.com/p/CF5wo7DvBaynv8d_Y9D8Rw,1687068858/streaming/ntvnn/324/1/tracks-v4a1/mono.m3u8?filter.tracks=v1v2v3v4a1t1
+#EXTINF:-1 tvg-id="NTVStyle.ru" tvg-logo="https://bosts-online.my1.ru/4logoTV/ntv111.png",НТВ Стиль 
+http://178.163.89.76:4022/udp/234.0.0.206:2000
 
-#EXTINF:-1 tvg-id="Channel5.ru" tvg-logo="https://i.imgur.com/KPXMa3U.png" group-title="General" user-agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.84 Safari/537.36 CrKey/1.21a.76178",Пятый Канал 
-https://mhd140.iptv2022.com/p/N9thNxUD2zdbEpMJfjPhqQ,1686893697/streaming/5kanalott/324/1/tracks-v4a1/mono.m3u8?filter.tracks=v1v2v3v4a1t1
-#EXTINF:-1 tvg-id="CTC.ru" tvg-logo="https://i.imgur.com/ilUzAeb.png" group-title="Family" user-agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.84 Safari/537.36 CrKey/1.21a.76178",СТС 
-https://mhd140.iptv2022.com/p/dQQPI04Z5arcAXbqAMUbAw,1686893764/streaming/stsott/324/1/tracks-v4a1/mono.m3u8?filter.tracks=v1v2v3v4a1t1
-#EXTINF:-1 tvg-id="Domashniy.ru" tvg-logo="https://i.imgur.com/XVRwgom.png" group-title="Entertainment" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Домашний 
-https://mhd140.iptv2022.com/p/tja45HMU4nJqX4wu03lJVg,1686893855/streaming/domashiyott/324/1/tracks-v3a1/mono.m3u8?filter.tracks=v1v2v3v4a1t1
+#EXTINF:-1 tvg-id="Channel5.ru" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-pyatuyi-kanal.png",Пятый Канал 
+http://89.107.33.137:81/udp/239.195.1.105:1234
+#EXTINF:-1 tvg-id="CTC.ru" tvg-logo="https://i.imgur.com/ilUzAeb.png",СТС 
+http://178.163.28.42:4022/udp/234.0.0.239:2000
+#EXTINF:-1 tvg-id="Domashniy.ru" tvg-logo="https://i.imgur.com/XVRwgom.png",Домашний 
+http://89.107.33.137:81/udp/239.195.1.114:1234
 #EXTINF:-1 tvg-id="Enisey.ru" tvg-logo="https://i.imgur.com/57deE7f.png" group-title="Undefined",Енисей 
 http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="TV3.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TV-3_logo_%282015%29.png/512px-TV-3_logo_%282015%29.png" group-title="Entertainment" user-agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.84 Safari/537.36 CrKey/1.21a.76178",ТВ-3 
-https://mhd140.iptv2022.com/p/53AvapJX7rS2E20o2WI8Tw,1686893950/streaming/tv3ott/324/1/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3v4a1t18
+http://89.107.33.137:81/udp/239.195.1.115:1234
 
 #EXTINF:0 tvg-country="RU" tvg-logo="", Сваты
 https://okkotv-live.cdnvideo.ru/channel/Che_OTT_2.m3u8
