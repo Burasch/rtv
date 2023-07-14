@@ -1,6 +1,5 @@
 #EXTM3U
 
-#EXTM3U list-autor="© ProxyBot"
 #EXTINF:-1 tvch-id="6032" group-title="ИНФ/РАЗВЛЕКАТЕЛЬНЫЕ",ПЕРВЫЙ КАНАЛ HD-6032
 http://178.163.21.155:4022/udp/234.0.0.172:2000
 #EXTINF:0 tvg-country="RU" tvg-logo="https://iconape.com/wp-content/files/mu/285489/png/285489.png",Россия 1
