@@ -14,7 +14,7 @@ http://178.163.89.76:4022/udp/234.0.0.206:2000
 #EXTINF:-1 tvg-id="Channel5.ru" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-pyatuyi-kanal.png",Пятый Канал 
 http://89.107.33.137:81/udp/239.195.1.105:1234
 #EXTINF:-1 tvg-id="CTC.ru" tvg-logo="https://i.imgur.com/ilUzAeb.png",СТС 
-http://178.163.28.42:4022/udp/234.0.0.239:2000
+http://92.240.138.25:4022/udp/232.0.3.13:1234
 #EXTINF:-1 tvg-id="Domashniy.ru" tvg-logo="https://i.imgur.com/XVRwgom.png",Домашний 
 http://89.107.33.137:81/udp/239.195.1.114:1234
 #EXTINF:-1 tvg-id="Enisey.ru" tvg-logo="https://i.imgur.com/57deE7f.png" group-title="Undefined",Енисей 
