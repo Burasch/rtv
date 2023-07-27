@@ -3,20 +3,20 @@
 #EXTINF:0 group-title="Undefined" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-perviy-kanal-hd.png" ,ПЕРВЫЙ КАНАЛ
 http://178.163.21.155:4022/udp/234.0.0.172:2000
 #EXTINF:0 tvg-logo="https://iconape.com/wp-content/files/mu/285489/png/285489.png" ,Россия 1
-http://37.9.153.66:4022/udp/232.0.3.2:1234
+
 #EXTINF:0 tvg-logo="https://ntvplus.tv/files/image/01/17/61/z0z.png" ,Россия 24
 http://178.163.36.227:4022/udp/234.0.0.207:2000
 #EXTINF:0 tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-rossiya-k.jpg" ,Россия-Культура
 http://37.9.159.188:4022/udp/232.0.3.6:1234
 #EXTINF:-1 tvg-id="NTVStyle.ru" tvg-logo="https://bosts-online.my1.ru/4logoTV/ntv111.png" ,НТВ Стиль
-http://178.163.89.76:4022/udp/234.0.0.206:2000
+
 
 #EXTINF:-1 tvg-id="Channel5.ru" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-pyatuyi-kanal.png" ,Пятый Канал
-http://89.107.33.137:81/udp/239.195.1.105:1234
+
 #EXTINF:-1 tvg-id="CTC.ru" tvg-logo="https://i.imgur.com/ilUzAeb.png" ,СТС
-http://92.240.138.25:4022/udp/232.0.3.13:1234
+
 #EXTINF:-1 tvg-id="Domashniy.ru" tvg-logo="https://i.imgur.com/XVRwgom.png" ,Домашний
-http://89.107.33.137:81/udp/239.195.1.114:1234
+
 #EXTINF:-1 group-title="Undefined" tvg-id="Enisey.ru" tvg-logo="https://i.imgur.com/57deE7f.png" ,Енисей
 http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="TV3.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TV-3_logo_%282015%29.png/512px-TV-3_logo_%282015%29.png" ,ТВ3
