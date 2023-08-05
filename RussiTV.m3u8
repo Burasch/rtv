@@ -21,7 +21,7 @@ http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 http://89.107.33.137:81/udp/239.195.1.115:1234
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="FridayInternational.ru" tvg-logo="https://i.imgur.com/N2z3EZC.png" ,Пятница!
-http://178.163.89.211:4022/udp/234.0.0.235:2000
+https://live-s-206.uma.media/LIVE/LIVE:317843/HLS/live-s/1691267336/98KNEOadFaArHyKnXLqtfw/live/317843_3/chunklist.m3u8
 #EXTINF:-1 group-title="General" tvg-id="Zvezda.ru" tvg-logo="https://i.imgur.com/4PAcpfM.png" ,Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
 #EXTINF:0 group-title="Undefined" tvg-logo="https://i.imgur.com/CrFWXTD.png" ,Мир
