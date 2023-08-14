@@ -18,7 +18,7 @@ http://178.163.50.79:4022/udp/234.0.0.191:2000
 #EXTINF:-1 group-title="Undefined" tvg-id="Enisey.ru" tvg-logo="https://i.imgur.com/57deE7f.png" ,Енисей
 http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="TV3.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TV-3_logo_%282015%29.png/512px-TV-3_logo_%282015%29.png" ,ТВ3
-http://89.107.33.137:81/udp/239.195.1.115:1234
+http://109.171.45.88:81/udp/239.54.5.86:1224
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="FridayInternational.ru" tvg-logo="https://i.imgur.com/N2z3EZC.png" ,Пятница!
 http://178.163.3.201:4022/udp/234.0.0.235:2000
