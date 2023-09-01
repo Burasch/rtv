@@ -25,9 +25,9 @@ http://178.163.3.201:4022/udp/234.0.0.235:2000
 #EXTINF:-1 group-title="General" tvg-id="Zvezda.ru" tvg-logo="https://i.imgur.com/4PAcpfM.png" ,Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
 #EXTINF:0 group-title="Undefined" tvg-logo="https://i.imgur.com/CrFWXTD.png" ,Мир
-http://93.100.142.220:4022/udp/239.239.2.7:5239
+https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:0 group-title="News" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-mir-24.png" ,Мир 24
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8?checkedby:iptvcat.com
+https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:0 group-title="Entertainment;Undefined" ,Мир Premium
 http://178.163.37.37:4022/udp/234.0.0.5:2000
 
