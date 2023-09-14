@@ -19,7 +19,7 @@ http://178.163.50.79:4022/udp/234.0.0.191:2000
 http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="TV3.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TV-3_logo_%282015%29.png/512px-TV-3_logo_%282015%29.png" ,ТВ3
 http://109.171.45.88:81/udp/239.54.5.86:1224
-#EXTINF:-1 tvg-logo="https://tvrain.tv/static/svg/tvrain-v2.svg?1694710202",TVRain
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Tvrain.svg/311px-Tvrain.svg.png",TVRain
 https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="FridayInternational.ru" tvg-logo="https://i.imgur.com/N2z3EZC.png" ,Пятница!
