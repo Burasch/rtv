@@ -8,9 +8,9 @@ http://178.163.107.33:4022/udp/234.0.0.201:2000
 http://178.163.36.227:4022/udp/234.0.0.207:2000
 #EXTINF:-1 tvg-id="NTVStyle.ru" tvg-logo="https://bosts-online.my1.ru/4logoTV/ntv111.png" ,НТВ
 http://178.163.76.56:4022/udp/234.0.0.206:2000
-
 #EXTINF:-1 tvg-id="Channel5.ru" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-pyatuyi-kanal.png" ,Пятый Канал
 http://178.163.64.73:4022/udp/234.0.0.205:2000
+
 #EXTINF:-1 tvg-id="CTC.ru" tvg-logo="https://i.imgur.com/ilUzAeb.png" ,СТС
 http://178.163.76.62:4022/udp/234.0.0.239:2000
 #EXTINF:-1 tvg-id="Domashniy.ru" tvg-logo="https://i.imgur.com/XVRwgom.png" ,Домашний
@@ -19,6 +19,8 @@ http://178.163.50.79:4022/udp/234.0.0.191:2000
 http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="TV3.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TV-3_logo_%282015%29.png/512px-TV-3_logo_%282015%29.png" ,ТВ3
 http://109.171.45.88:81/udp/239.54.5.86:1224
+#EXTINF:-1 tvg-logo="https://tvrain.tv/static/svg/tvrain-v2.svg?1694710202",TVRain
+https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="FridayInternational.ru" tvg-logo="https://i.imgur.com/N2z3EZC.png" ,Пятница!
 http://178.163.3.201:4022/udp/234.0.0.235:2000
