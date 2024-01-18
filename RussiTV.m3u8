@@ -1,7 +1,7 @@
 #EXTM3U m3uautoload=1 deinterlace=1 #EXTM3U url-tvg="http://epg.it999.ru/ru2.xml.gz, https://iptvx.one/epg/epg.xml.gz" catchup="append" catchup-source="&offset=-${offset}&utcstart=${timestamp}" catchup-days="3" cache=1500
 
 #EXTINF:0 group-title="Undefined" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-perviy-kanal-hd.png" ,ПЕРВЫЙ КАНАЛ
-http://178.163.61.121:4022/udp/234.0.0.172:2000
+http://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:0 tvg-logo="https://iconape.com/wp-content/files/mu/285489/png/285489.png" ,Россия 1
 http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://ntvplus.tv/files/image/01/17/61/z0z.png" ,Россия 24
