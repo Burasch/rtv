@@ -1,7 +1,7 @@
 #EXTM3U m3uautoload=1 deinterlace=1 #EXTM3U url-tvg="http://epg.it999.ru/ru2.xml.gz, https://iptvx.one/epg/epg.xml.gz" catchup="append" catchup-source="&offset=-${offset}&utcstart=${timestamp}" catchup-days="3" cache=1500
 
 #EXTINF:0 group-title="Undefined" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-perviy-kanal-hd.png" ,ПЕРВЫЙ КАНАЛ
-https://pkvc-hls4.cdnvideo.ru/Poehali/smil:Poehali.smil/playlist.m3u8
+https://pkvc-hls4.cdnvideo.ru/Poehali/smil:Poehali.smil/chunklist_b1128000_slru.m3u8?hls_proxy_host=6629500d2dbfd5d4bb54110b620706c6
 #EXTINF:0 tvg-logo="https://iconape.com/wp-content/files/mu/285489/png/285489.png" ,Россия 1
 http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://ntvplus.tv/files/image/01/17/61/z0z.png" ,Россия 24
