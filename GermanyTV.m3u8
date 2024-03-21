@@ -12,7 +12,7 @@ http://176.10.117.3:5000/play/a00o/index.m3u8
 #EXTINF:-1 tvg-name="kabel eins"tvg-id=""tvg-logo="https://raw.githubusercontent.com/Vasilich/mediaportal-german-logos/master/tv/kabel%20eins.png"group-title="",
 http://176.10.117.3:5000/play/a00n/index.m3u8
 #EXTINF:-1 tvg-name="WELT"tvg-id="WELT.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/welt.png"group-title="Nachrichten;Dokumentationen",WELT
-https://broadcast.welt.personalstream.tv/v1/manifest/bed31ae6b23b93b0843b9825ea57f506cf4da916/welt-tv-prod/a1f1dd9c-e843-4031-8f6f-243622eebc93/6.m3u8
+https://welt.personalstream.tv/v1/master.m3u8
 #EXTINF:-1 tvg-name="rbb Berlin"tvg-id=""tvg-logo="https://raw.githubusercontent.com/Vasilich/mediaportal-german-logos/master/tv/RBB%20HD.png"group-title="",
 https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/master-main.m3u8
 https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/master-1080p-5000.m3u8
