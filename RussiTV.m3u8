@@ -1,13 +1,13 @@
 #EXTM3U m3uautoload=1 deinterlace=1 #EXTM3U url-tvg="http://epg.it999.ru/ru2.xml.gz, https://iptvx.one/epg/epg.xml.gz" catchup="append" catchup-source="&offset=-${offset}&utcstart=${timestamp}" catchup-days="3" cache=1500
 
 #EXTINF:0 group-title="Undefined" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-perviy-kanal-hd.png" ,ПЕРВЫЙ КАНАЛ
-http://202.21.104.6:88/ort-tv/mono.m3u8
+http://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:0 tvg-logo="https://iconape.com/wp-content/files/mu/285489/png/285489.png" ,Россия 1
 http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://ntvplus.tv/files/image/01/17/61/z0z.png" ,Россия 24
 http://178.163.36.227:4022/udp/234.0.0.207:2000
 #EXTINF:-1 tvg-id="NTVStyle.ru" tvg-logo="https://bosts-online.my1.ru/4logoTV/ntv111.png" ,НТВ
-http://178.163.65.200:4022/udp/234.0.0.206:2000
+http://cdn2.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Channel5.ru" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-pyatuyi-kanal.png" ,Пятый Канал
 http://178.163.27.168:4022/udp/234.0.0.205:2000
 
