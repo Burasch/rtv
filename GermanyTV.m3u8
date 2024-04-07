@@ -5,7 +5,7 @@ http://176.10.117.3:5000/play/a00l/index.m3u8
 http://176.10.117.3:5000/play/a00j/index.m3u8
 #EXTINF:-1 tvg-name="SAT.1"tvg-id=""tvg-logo="https://raw.githubusercontent.com/Vasilich/mediaportal-german-logos/master/tv/Sat.1.png"group-title="",SAT.1
 http://176.10.117.3:5000/play/a00k/index.m3u8
-#EXTINF:-1 tvg-name="VOX"tvg-id=""tvg-logo="https://github.com/Vasilich/mediaportal-german-logos/blob/master/tv/VOX.png"group-title="",VOX
+#EXTINF:-1 tvg-name="VOX"tvg-id=""tvg-logo="https://github.com/cytec/tvlogos/blob/master/vox.png"group-title="",VOX
 http://176.10.117.3:5000/play/a00m/index.m3u8
 #EXTINF:-1 tvg-name="RTLZWEI"tvg-id=""tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/rtl2.png"group-title="",RTLZWEI
 http://176.10.117.3:5000/play/a00o/index.m3u8
