@@ -1,5 +1,4 @@
-#EXTM3U http://uiptv.xyz:80/xmltv.php?username=johndoe&password=J2ddj3J2@dj2
-
+#EXTM3U
 #EXTINF:-1 tvg-name="ProSieben"tvg-id=""tvg-logo="https://raw.githubusercontent.com/Vasilich/mediaportal-german-logos/master/tv/ProSieben.png"group-title="",ProSieben
 http://176.10.117.3:5000/play/a00l/index.m3u8
 #EXTINF:-1 tvg-name="RTL"tvg-id=""tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/rtl.png"group-title="",
