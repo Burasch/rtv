@@ -1,4 +1,4 @@
-#EXTM3U  url-tvg="https://iptv-org.github.io/epg/guides/de/hd-plus.de.xml" tvg-shift="+3" abs="true"
+#EXTM3U  
 
 #EXTINF:-1 tvg-name="ProSieben"tvg-id=""tvg-logo="https://raw.githubusercontent.com/Vasilich/mediaportal-german-logos/master/tv/ProSieben.png"group-title="",ProSieben
 http://176.10.117.3:5000/play/a00l/index.m3u8
