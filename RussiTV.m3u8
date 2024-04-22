@@ -30,19 +30,19 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
 https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:0  group-title="News" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-mir-24.png" ,Мир 24
 https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:0 tvg-country="Russland" tvg-lnguage="Russisch" group-title="Entertainment" ,Мир Premium
-http://178.163.37.37:4022/udp/234.0.0.5:2000
 
 #EXTINF:0 tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-mir-belogorya.jpg" ,Мир Белогорья,Мир Белогорья
 http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Entertainment" tvg-id="TNT4.ru" tvg-logo="https://i.imgur.com/4GiD9xN.png" ,ТНТ4
 http://91.205.199.3:80/tnt4/index.m3u8
-#EXTINF:0 tvg-logo="..." ,Cinema ?
+#EXTINF:0 tvg-logo="https://epgx.site/p/cinema.png" ,Cinema ?
 https://strm.yandex.ru/kal/cinema_tv_belarus/cinema_tv_belarus0.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Ostrosyuzhetnoye.ru" tvg-logo="https://i.imgur.com/xGIEXoa.png" ,Остросюжетное
 http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="DomKino.ru" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-dom-kino.png" ,Дом кинo
-http://178.163.101.28:4022/udp/234.0.0.219:2000
+#EXTINF:-1 tvg-id="domkino" tvg-logo="https://epgx.site/p/domkino.png" group-title="Русский кинозал",Дом Кино
+https://stream01.vnet.am/DomKino/mono.m3u8
+#EXTINF:-1 tvg-id="domkino-premium" tvg-logo="https://epgx.site/p/domkino-premium.png" group-title="Русский кинозал",Дом кино Премиум
+http://188.113.190.15/91/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-id="Kinomiks.ru" tvg-logo="https://i.imgur.com/OGUMa1A.png" ,Киномик
 http://82.209.197.187:8080/udp/239.0.100.33:1234
