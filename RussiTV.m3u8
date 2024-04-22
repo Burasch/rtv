@@ -10,8 +10,7 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia24-sd/index.m3u8
 https://s87.glaz.tv:8082/liveg/ntv-hq.stream/chunks.m3u8?nimblesessionid=405729411&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMi8yMDI0IDEyOjM3OjI2IFBNJmhhc2hfdmFsdWU9SDdiWjNYM1RTN3BMVnAyTjg1VlZIQT09JnZhbGlkbWludXRlcz0yMDA=
 
 #EXTINF:-1 tvg-id="Channel5.ru" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-pyatuyi-kanal.png" ,Пятый Канал
-http://178.163.27.168:4022/udp/234.0.0.205:2000
-
+http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8
 #EXTINF:-1 tvg-id="CTC.ru" tvg-logo="https://i.imgur.com/ilUzAeb.png" ,СТС
 http://178.163.76.62:4022/udp/234.0.0.239:2000
 #EXTINF:-1 tvg-id="Domashniy.ru" tvg-logo="https://i.imgur.com/XVRwgom.png" ,Домашний
@@ -24,7 +23,7 @@ http://109.171.45.88:81/udp/239.54.5.86:1224
 https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="FridayInternational.ru" tvg-logo="https://i.imgur.com/N2z3EZC.png" ,Пятница!
-http://178.163.3.201:4022/udp/234.0.0.235:2000
+https://streaming.televizor-24-tochka.ru/live/19-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="General" tvg-id="Zvezda.ru" tvg-logo="https://i.imgur.com/4PAcpfM.png" ,Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
 #EXTINF:0 group-title="Undefined" tvg-logo="https://i.imgur.com/CrFWXTD.png" ,Мир
@@ -37,9 +36,9 @@ http://178.163.37.37:4022/udp/234.0.0.5:2000
 #EXTINF:0 tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-mir-belogorya.jpg" ,Мир Белогорья,Мир Белогорья
 http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Entertainment" tvg-id="TNT4.ru" tvg-logo="https://i.imgur.com/4GiD9xN.png" ,ТНТ4
-http://178.163.58.232:4022/udp/234.0.0.181:2000
+http://91.205.199.3:80/tnt4/index.m3u8
 #EXTINF:0 tvg-logo="..." ,Cinema ?
-http://62.76.20.44:81/udp/239.195.4.100:1234
+https://strm.yandex.ru/kal/cinema_tv_belarus/cinema_tv_belarus0.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Ostrosyuzhetnoye.ru" tvg-logo="https://i.imgur.com/xGIEXoa.png" ,Остросюжетное
 http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="DomKino.ru" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-dom-kino.png" ,Дом кинo
