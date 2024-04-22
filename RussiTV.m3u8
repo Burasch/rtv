@@ -7,7 +7,7 @@ http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://ntvplus.tv/files/image/01/17/61/z0z.png" ,Россия 24
 https://player.smotrim.ru/iframe/stream/live_id/21
 #EXTINF:-1 tvg-id="NTVStyle.ru" tvg-logo="https://bosts-online.my1.ru/4logoTV/ntv111.png" ,НТВ
-https://s2.viks.tv/JvkAKpDdJ0CS_4fU0RJihQ/537/1713807165/index.m3u8
+https://s87.glaz.tv:8082/liveg/ntv-hq.stream/chunks.m3u8?nimblesessionid=405729411&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMi8yMDI0IDEyOjM3OjI2IFBNJmhhc2hfdmFsdWU9SDdiWjNYM1RTN3BMVnAyTjg1VlZIQT09JnZhbGlkbWludXRlcz0yMDA=
 
 #EXTINF:-1 tvg-id="Channel5.ru" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-pyatuyi-kanal.png" ,Пятый Канал
 http://178.163.27.168:4022/udp/234.0.0.205:2000
