@@ -14,7 +14,7 @@ http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8
 #EXTINF:-1 tvg-id="CTC.ru" tvg-logo="https://i.imgur.com/ilUzAeb.png" ,СТС
 http://178.163.76.62:4022/udp/234.0.0.239:2000
 #EXTINF:-1 tvg-id="Domashniy.ru" tvg-logo="https://i.imgur.com/XVRwgom.png" ,Домашний
-https://streaming.televizor-24-tochka.ru/live/17.m3u8
+https://serv30.vintera.tv/provider/domashnij/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDI0IDI6NTY6MjEgUE0maGFzaF92YWx1ZT05a3lYSVhWY1BVclVGWFRSc3BpZzNRPT0mdmFsaWRtaW51dGVzPTQ4MA==
 #EXTINF:-1 group-title="Undefined" tvg-id="Enisey.ru" tvg-logo="https://i.imgur.com/57deE7f.png" ,Енисей
 http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="TV3.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TV-3_logo_%282015%29.png/512px-TV-3_logo_%282015%29.png" ,ТВ3
