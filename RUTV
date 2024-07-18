@@ -12,7 +12,7 @@ https://streaming.goodstream.cyou/live/213.m3u8
 #EXTINF:-1 tvg-id="Channel5.ru" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-pyatuyi-kanal.png" ,Пятый Канал
 http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8
 #EXTINF:-1 tvg-id="sts" tvg-logo="https://i.imgur.com/ilUzAeb.png" ,СТС
-http://178.163.76.62:4022/udp/234.0.0.239:2000
+https://s2.domatv.net/591/index.m3u8?k=1721344145p031i051i16i5Safbf32a8931653c1b908b2a2b458fb2f
 #EXTINF:-1 tvg-id="Domashniy.ru" tvg-logo="https://i.imgur.com/XVRwgom.png" ,Домашний
 https://serv30.vintera.tv/provider/domashnij/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDI0IDI6NTY6MjEgUE0maGFzaF92YWx1ZT05a3lYSVhWY1BVclVGWFRSc3BpZzNRPT0mdmFsaWRtaW51dGVzPTQ4MA==
 #EXTINF:-1 group-title="Undefined" tvg-id="Enisey.ru" tvg-logo="https://i.imgur.com/57deE7f.png" ,Енисей
