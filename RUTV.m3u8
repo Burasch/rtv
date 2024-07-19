@@ -25,7 +25,7 @@ https://streaming.televizor-24-tochka.ru/live/19-req_offset_28000000-req_window_
 #EXTINF:-1 tvg-id="zvezda"tvg-logo="https://i.imgur.com/4PAcpfM.png"group-title="General":http-user-agent="",Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="mir"tvg-logo="https://i.imgur.com/CrFWXTD.png"group-title="Undefined":http-user-agent="",Мир
-https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="mir-24"tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-mir-24.png"group-title="News":http-user-agent="",Мир 24
 https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-mir-belogorya.jpg"group-title="":http-user-agent="",Мир Белогорья
