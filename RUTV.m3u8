@@ -7,7 +7,7 @@ http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://ntvplus.tv/files/image/01/17/61/z0z.png" ,Россия 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia24-sd/index.m3u8
 #EXTINF:-1 tvg-id="ntv" tvg-logo="https://bosts-online.my1.ru/4logoTV/ntv111.png" ,НТВ
-https://tvcdnpotok.com/ntv/index.m3u8?wmsAuthSign=01f6a93522fcba7319ce65c3bcd8f6e5-1721437697-031i051i16i5
+https://tvcdnpotok.com/ntv/index.m3u8?wmsAuthSign=dc25fca7167063a9fa5b174b3b6ffe2a-1721438066-031i051i16i5
 
 #EXTINF:-1 tvg-id="5kanal" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-pyatuyi-kanal.png" ,Пятый Канал
 https://a5.pokaz.me/524/index.m3u8?k=1721436417p031i051i16i5S985ff48f3e4cc9fb207271c73bdc1e9d
