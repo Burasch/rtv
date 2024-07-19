@@ -27,7 +27,7 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="mir"tvg-logo="https://i.imgur.com/CrFWXTD.png"group-title="Undefined":http-user-agent="",Мир
 https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="mir-24"tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-mir-24.png"group-title="News":http-user-agent="",Мир 24
-https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+https://tvcdnpotok.com/mir24/index.m3u8?wmsAuthSign=f8d60511e56cb22809c967c571a56d0b-1721440171-031i051i16i5
 #EXTINF:-1 tvg-id=""tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-mir-belogorya.jpg"group-title="":http-user-agent="",Мир Белогорья
 http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="tnt4"tvg-logo="https://i.imgur.com/4GiD9xN.png"group-title="Entertainment":http-user-agent="",ТНТ4
