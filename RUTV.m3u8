@@ -7,7 +7,7 @@ https://player.smotrim.ru/iframe/stream/live_id/2961?e=.m3u8
 #EXTINF:-1 tvg-id="rossiya-24"tvg-logo="https://ntvplus.tv/files/image/01/17/61/z0z.png"group-title="":http-user-agent="",Россия 24
 https://player.smotrim.ru/iframe/stream/live_id/21?ext=.m3u8
 #EXTINF:-1 tvg-id="ntv"tvg-logo="https://bosts-online.my1.ru/4logoTV/ntv111.png"group-title="":http-user-agent="",НТВ
-https://tvcdnpotok.com/ntv/index.m3u8?wmsAuthSign=81f0288f5eebd4edce3653b92dda005e-1721439830-031i051i16i5
+https://tvcdnpotok.com/ntv/index.m3u8?wmsAuthSign=a50d110c4ad29230966952e356ab63cd-1721524220-031i051i16i5
 #EXTINF:-1 tvg-id="pyatyj-kanal"tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-pyatuyi-kanal.png"group-title="":http-user-agent="",Пятый Канал
 http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8
 #EXTINF:-1 tvg-id="sts"tvg-logo="https://i.imgur.com/ilUzAeb.png"group-title="":http-user-agent="",СТС
