@@ -38,31 +38,31 @@ https://strm.yandex.ru/kal/cinema_tv_belarus/cinema_tv_belarus0.m3u8
 http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
 #EXTINF:-1 tvg-id="dom-kino"tvg-logo="https://epgx.site/p/domkino.png"group-title="Русский кинозал":http-user-agent="",Дом Кино
 https://stream01.vnet.am/DomKino/mono.m3u8
-#EXTINF:-1 tvg-id="domkino-premium"tvg-logo="https://epgx.site/p/domkino-premium.png"group-title="Русский кинозал":http-user-agent="",Дом кино Премиум
+#EXTINF:-1 tvg-id="dom-kino-premium"tvg-logo="https://epgx.site/p/domkino-premium.png"group-title="Русский кинозал":http-user-agent="",Дом кино Премиум
 http://188.113.190.15/91/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="kinomiks"tvg-logo="https://i.imgur.com/OGUMa1A.png"group-title="Movies":http-user-agent="",Киномик
 http://82.209.197.187:8080/udp/239.0.100.33:1234
 #EXTINF:-1 tvg-id="2x2"tvg-logo="https://i.imgur.com/fhQFLEl.png"group-title="Entertainment":http-user-agent="",2x2
 https://bl.uma.media/live/317805/HLS/4614144_3,2883584_2,1153024_1/1613019214/3754dbee773afc02014172ca26d3bb79/playlist.m3u8
-#EXTINF:-1 tvg-id="4Kanal.ua"tvg-logo="https://i.imgur.com/JtqdPlY.png"group-title="Undefined":http-user-agent="",4 канал (1080p)
+#EXTINF:-1 tvg-id="4Kanal"tvg-logo="https://i.imgur.com/JtqdPlY.png"group-title="Undefined":http-user-agent="",4 канал (1080p)
 https://ythls.onrender.com/channel/UCQdSS9GSBbtSqW3oNB39KTw.m3u8
-#EXTINF:-1 tvg-id="9Volna.ru"tvg-logo="https://i.imgur.com/zmnSoBA.png"group-title="Entertainment":http-user-agent="",9 Волна
+#EXTINF:-1 tvg-id="9Volna"tvg-logo="https://i.imgur.com/zmnSoBA.png"group-title="Entertainment":http-user-agent="",9 Волна
 http://cdn-01.bonus-tv.ru:8080/9volna/playlist.m3u8
-#EXTINF:-1 tvg-id="24Kanal.ua"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/24_Group_Ukraine_04.png/512px-24_Group_Ukraine_04.png"group-title="News":http-user-agent="",24 Канал (1080p)
+#EXTINF:-1 tvg-id="24Kanal"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/24_Group_Ukraine_04.png/512px-24_Group_Ukraine_04.png"group-title="News":http-user-agent="",24 Канал (1080p)
 http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo=""group-title="Undefined":http-user-agent="",43 канал (720p)
 http://sochinskayatrk.ru/hdtv/hls/43Channel_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="360deg.ru"tvg-logo="https://i.imgur.com/VTJqdoX.png"group-title="General":http-user-agent="",360°
+#EXTINF:-1 tvg-id="360deg"tvg-logo="https://i.imgur.com/VTJqdoX.png"group-title="General":http-user-agent="",360°
 https://edge2-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
-#EXTINF:-1 tvg-id="A1.ru"tvg-logo="https://i.imgur.com/tHLmAvq.png"group-title="Series":http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",A1
+#EXTINF:-1 tvg-id="A1"tvg-logo="https://i.imgur.com/tHLmAvq.png"group-title="Series":http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",A1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s45/index.m3u8
-#EXTINF:-1 tvg-id="A2.ru"tvg-logo="https://i.imgur.com/WzjFuij.png"group-title="Series":http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",A2
+#EXTINF:-1 tvg-id="A2"tvg-logo="https://i.imgur.com/WzjFuij.png"group-title="Series":http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",A2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s33/index.m3u8
-#EXTINF:-1 tvg-id="AbazaTV.ru"tvg-logo="https://i.imgur.com/7Jo7UAf.png"group-title="Undefined":http-user-agent="",Abaza TV
+#EXTINF:-1 tvg-id="AbazaTV"tvg-logo="https://i.imgur.com/7Jo7UAf.png"group-title="Undefined":http-user-agent="",Abaza TV
 http://clients.apsny.camera/tv_abaza_tv/index.m3u8
-#EXTINF:-1 tvg-id="AmediaPremium.ru"tvg-logo="https://i.imgur.com/L3c9gNk.png"group-title="Movies;Series":http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Amedia Premium
+#EXTINF:-1 tvg-id="AmediaPremium"tvg-logo="https://i.imgur.com/L3c9gNk.png"group-title="Movies;Series":http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Amedia Premium
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s64/index.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="http://online-red.com/images/tv/86.png"group-title="Local;Undefined":http-user-agent="",Телеканал 86
