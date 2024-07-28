@@ -1,17 +1,19 @@
-#EXTM3U  
+#EXTM3U
 
 #EXTINF:-1 tvg-name="ProSieben"tvg-id=""tvg-logo="https://raw.githubusercontent.com/Vasilich/mediaportal-german-logos/master/tv/ProSieben.png"group-title="",ProSieben
-http://176.10.117.3:5000/play/a00l/index.m3u8
+http://86.121.38.93:8000/play/a04u/index.m3u8
 #EXTINF:-1 tvg-name="RTL"tvg-id=""tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/rtl.png"group-title="",RTL
 http://176.10.117.3:5000/play/a00j/index.m3u8
 #EXTINF:-1 tvg-name="SAT.1"tvg-id=""tvg-logo="https://raw.githubusercontent.com/Vasilich/mediaportal-german-logos/master/tv/Sat.1.png"group-title="",SAT.1
-http://176.10.117.3:5000/play/a00k/index.m3u8
-#EXTINF:-1 tvg-name="VOX"tvg-id=""tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/vox.png"group-title="",VOX
+http://86.121.38.93:8000/play/a04t/index.m3u8
+#EXTINF:-1 tvg-name="VOX"tvg-id=""tvg-logo="https://github.com/Vasilich/mediaportal-german-logos/blob/master/tv/VOX.png"group-title="",VOX
 http://176.10.117.3:5000/play/a00m/index.m3u8
 #EXTINF:-1 tvg-name="RTLZWEI"tvg-id=""tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/rtl2.png"group-title="",RTLZWEI
 http://176.10.117.3:5000/play/a00o/index.m3u8
 #EXTINF:-1 tvg-name="kabel eins"tvg-id=""tvg-logo="https://raw.githubusercontent.com/Vasilich/mediaportal-german-logos/master/tv/kabel%20eins.png"group-title="",kabel eins
-http://176.10.117.3:5000/play/a00n/index.m3u8
+http://86.121.38.93:8000/play/a04v/index.m3u8
+#EXTINF:-1 tvg-name="kabel eins Doku"tvg-id=""tvg-logo=""group-title="",kabel eins Doku
+http://86.121.38.93:8000/play/a051/index.m3u8
 #EXTINF:-1 tvg-name="WELT"tvg-id="WELT.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/welt.png"group-title="Nachrichten;Dokumentationen",WELT
 https://welt.personalstream.tv/v1/master.m3u8
 #EXTINF:-1 tvg-name="rbb Berlin"tvg-id=""tvg-logo="https://raw.githubusercontent.com/Vasilich/mediaportal-german-logos/master/tv/RBB%20HD.png"group-title="",rbb Berlin
@@ -56,14 +58,18 @@ https://auto-bild.personalstream.tv/v1/bildde/master.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-name="ANIXE HD"tvg-id="Anixe.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/anixehd.png"group-title="Spartenprogramm",ANIXE HD
 https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
+#EXTINF:-1 tvg-name="TELE 5"tvg-id=""tvg-logo=""group-title="",TELE 5
+http://86.121.38.93:8000/play/a04j/index.m3u8
 #EXTINF:-1 tvg-name="Dokusat"tvg-id="Dokusat.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/dokusat.png"group-title="Spartenprogramm",Dokusat
 https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
 #EXTINF:-1 tvg-name="NITRO"tvg-id=""tvg-logo="https://raw.githubusercontent.com/Vasilich/mediaportal-german-logos/master/tv/RTL%20Nitro%20HD.png"group-title="",NITRO
 http://176.10.117.3:5000/play/a00p/index.m3u8
+#EXTINF:-1 tvg-name="DMAX"tvg-id=""tvg-logo=""group-title="",DMAX
+http://86.121.38.93:8000/play/a04k/index.m3u8
 #EXTINF:-1 tvg-name="ProSieben MAXX"tvg-id=""tvg-logo="https://raw.githubusercontent.com/Vasilich/mediaportal-german-logos/master/tv/ProSieben%20Maxx.png"group-title="",ProSieben MAXX
-http://176.10.117.3:5000/play/a00q/index.m3u8
+http://86.121.38.93:8000/play/a04y/index.m3u8
 #EXTINF:-1 tvg-name="SIXX"tvg-id=""tvg-logo="https://raw.githubusercontent.com/Vasilich/mediaportal-german-logos/master/tv/sixx.png"group-title="",SIXX
-http://176.10.117.3:5000/play/a00r/index.m3u8
+http://86.121.38.93:8000/play/a04z/index.m3u8
 #EXTINF:-1 tvg-name="Disney Channel"tvg-id=""tvg-logo="https://raw.githubusercontent.com/Vasilich/mediaportal-german-logos/master/tv/Disney%20Channel.png"group-title="Kinder / Jugend",Disney Channel
 http://176.10.117.3:5000/play/a00w/index.m3u8
 #EXTINF:-1 tvg-name="Super RTL"tvg-id=""tvg-logo="https://raw.githubusercontent.com/Vasilich/mediaportal-german-logos/master/tv/Super%20RTL.png"group-title="Kinder / Jugend",Super RTL
@@ -73,14 +79,12 @@ https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
 #EXTINF:-1 tvg-name="Lilo.TV"tvg-id="lilo.tv"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/lilotv.png"group-title="Spartenprogramm",Lilo.TV
 https://lilo.iptv-playoutcenter.de/lilo/lilo-sat1/playlist.m3u8
 #EXTINF:-1 tvg-name="Nickelodeon"tvg-id="Nickelodeon.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nickelodeon.png"group-title="Kinder / Jugend",Nickelodeon
-https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/nick1999.m3u8
+http://86.121.38.93:8000/play/a04a/index.m3u8
 #EXTINF:-1 tvg-name="MTV HD"tvg-id=""tvg-logo="https://raw.githubusercontent.com/Vasilich/mediaportal-german-logos/master/tv/MTV.png"group-title="Musik",MTV HD
 http://176.10.117.3:5000/play/a00y/index.m3u8
 #EXTINF:-1 tvg-name="Rockland TV"tvg-id="Rockland.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rocklandtv.png"group-title="Musik",Rockland TV
 https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="DELUXE MUSIC"tvg-id="DeLuxeMusic.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deluxemusic.png"group-title="Musik",DELUXE MUSIC
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+http://86.121.38.93:8000/play/a04b/index.m3u8
 #EXTINF:-1 tvg-name="DELUXE MUSIC ROCK"tvg-id="DeLuxeMusicRock.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deluxemusicrock.png"group-title="Musik",DELUXE MUSIC ROCK
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65181/65181_264_live.m3u8
-#EXTINF:-1 tvg-name="ALEX Berlin" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/alexberlin.png",ALEX Berlin
-https://alex-stream.rosebud-media.de/live/alexlivetv40.smil/playlist.m3u8
