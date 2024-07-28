@@ -1,19 +1,19 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-name="ProSieben"tvg-id=""tvg-logo="https://raw.githubusercontent.com/Vasilich/mediaportal-german-logos/master/tv/ProSieben.png"group-title="",ProSieben
-http://86.121.38.93:8000/play/a04u/index.m3u8
+https://s.hdtvizlecanli.com/pro7a.m3u8
 #EXTINF:-1 tvg-name="RTL"tvg-id=""tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/rtl.png"group-title="",RTL
-http://176.10.117.3:5000/play/a00j/index.m3u8
+https://s.hdtvizlecanli.com/rtl.m3u8
 #EXTINF:-1 tvg-name="SAT.1"tvg-id=""tvg-logo="https://raw.githubusercontent.com/Vasilich/mediaportal-german-logos/master/tv/Sat.1.png"group-title="",SAT.1
-http://86.121.38.93:8000/play/a04t/index.m3u8
+https://s.hdtvizlecanli.com/sat1.m3u8
 #EXTINF:-1 tvg-name="VOX"tvg-id=""tvg-logo="https://github.com/Vasilich/mediaportal-german-logos/blob/master/tv/VOX.png"group-title="",VOX
-http://176.10.117.3:5000/play/a00m/index.m3u8
+https://s.hdtvizlecanli.com/voxc.m3u8
 #EXTINF:-1 tvg-name="RTLZWEI"tvg-id=""tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/rtl2.png"group-title="",RTLZWEI
-http://176.10.117.3:5000/play/a00o/index.m3u8
+https://s.hdtvizlecanli.com/rtl2d.m3u8
 #EXTINF:-1 tvg-name="kabel eins"tvg-id=""tvg-logo="https://raw.githubusercontent.com/Vasilich/mediaportal-german-logos/master/tv/kabel%20eins.png"group-title="",kabel eins
-http://86.121.38.93:8000/play/a04v/index.m3u8
+https://s.hdtvizlecanli.com/kabel1a.m3u8
 #EXTINF:-1 tvg-name="kabel eins Doku"tvg-id=""tvg-logo=""group-title="",kabel eins Doku
-http://86.121.38.93:8000/play/a051/index.m3u8
+https://stream.hdtvizlecanli.com/kabel1doku.m3u8
 #EXTINF:-1 tvg-name="WELT"tvg-id="WELT.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/welt.png"group-title="Nachrichten;Dokumentationen",WELT
 https://welt.personalstream.tv/v1/master.m3u8
 #EXTINF:-1 tvg-name="rbb Berlin"tvg-id=""tvg-logo="https://raw.githubusercontent.com/Vasilich/mediaportal-german-logos/master/tv/RBB%20HD.png"group-title="",rbb Berlin
