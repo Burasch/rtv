@@ -14,14 +14,6 @@
     {
         "url": "https://onlinetv.su/tv/public/10-domashnij.html?ysclid=lzcplkc4w9624368679",
         "tvg_id": "domashnij"
-    },
-    {
-        "url": "https://example.com/another-channel.html",
-        "tvg_id": "another-channel"
-    },
-    {
-        "url": "https://example.com/yet-another-channel.html",
-        "tvg_id": "yet-another-channel"
     }
   
 ]
