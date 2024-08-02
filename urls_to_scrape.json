@@ -1,30 +1,27 @@
 [
-  {
+    {
         "url": "https://televizor24tochka.ru/tv/pervyi-kanal.html",
         "tvg_id": "pervyj-kanal"
-  },
-    
-{        "url": "https://televizor24tochka.ru/tv/pervyi-kanal.html",
-        "tvg_id": "pervyj-kanal"
-},
-        
-{        "url": "https://televizor24tochka.ru/tv/ntv.html", 
+    },
+    {
+        "url": "https://televizor24tochka.ru/tv/ntv.html",
         "tvg_id": "ntv"
-},
-       
-{        "url": "http://telik.live/sts.html", 
+    },
+    {
+        "url": "http://telik.live/sts.html",
         "tvg_id": "sts"
-},
-    
-{        "url": "https://televizor24tochka.ru/tv/domashnii.html", 
+    },
+    {
+        "url": "https://televizor24tochka.ru/tv/domashnii.html",
         "tvg_id": "domashnij"
-},    
-    
-{        "url": "http://telik.live/2x2.html", 
-        "tvg_id": "2x2"
-},
-    
-{        "url": "http://telik.live/ostrosyuzhetnoe-hd.html", 
-        "tvg_id": "ostrosyuzhetnoe-hd"
-},
+    },
+    {
+        "url": "https://example.com/another-channel.html",
+        "tvg_id": "another-channel"
+    },
+    {
+        "url": "https://example.com/yet-another-channel.html",
+        "tvg_id": "yet-another-channel"
+    }
+  
 ]
