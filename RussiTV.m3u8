@@ -11,7 +11,7 @@ https://streaming.goodstream.cyou/live/213.m3u8
 #EXTINF:-1 tvg-id="pyatyj-kanal"tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-pyatuyi-kanal.png"group-title="":http-user-agent="",Пятый Канал
 http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8
 #EXTINF:-1 tvg-id="sts"tvg-logo="https://i.imgur.com/ilUzAeb.png"group-title="":http-user-agent="",СТС
-https://ser2.meningilovam.uz/tv/ctc_web/index.m3u8?token=550a821efee94f7c14a2c65f63f4505bef1a9461-d86be843a1a3733132d39163fc252164-1722614463-1722603663&remote=5.61.150.130
+https://ser2.meningilovam.uz/tv/ctc_web/index.m3u8?token=7cd819adaed54095d890f30f0aa44a96832cee48-9fd3d941f2ed37511ad6bd53d1f0766b-1722620242-1722609442&remote=5.61.150.130
 #EXTINF:-1 tvg-id="domashnij"tvg-logo="https://i.imgur.com/XVRwgom.png"group-title="":http-user-agent="",Домашний
 https://streaming.televizor-24-tochka.ru/live/17.m3u8
 #EXTINF:-1 tvg-id="enisey"tvg-logo="https://i.imgur.com/57deE7f.png"group-title="Undefined":http-user-agent="",Енисей
