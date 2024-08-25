@@ -5,15 +5,15 @@ http://85.187.13.40:18000/ProSieben
 #EXTINF:-1 tvg-name="RTL"tvg-id=""tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/rtl.png"group-title="",RTL
 https://s6.hopslan.com/rtlq22/index.m3u8?token=01b924155a049dd299b64bd8856b7446b6f9c59d-d43702e02977836062e6552eca61ea91-1724623698-1724612898
 #EXTINF:-1 tvg-name="SAT.1"tvg-id=""tvg-logo="https://raw.githubusercontent.com/Vasilich/mediaportal-german-logos/master/tv/Sat.1.png"group-title="",SAT.1
-https://s.hdtvizlecanli.com/sat1.m3u8
+http://premiumiptvmk.com:8080/F32962/7a3112d7/2107
 #EXTINF:-1 tvg-name="VOX"tvg-id=""tvg-logo="https://github.com/Vasilich/mediaportal-german-logos/blob/master/tv/VOX.png"group-title="",VOX
-https://s.hdtvizlecanli.com/voxc.m3u8
+http://premiumiptvmk.com:8080/F32962/7a3112d7/894
 #EXTINF:-1 tvg-name="RTLZWEI"tvg-id=""tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/rtl2.png"group-title="",RTLZWEI
-https://s.hdtvizlecanli.com/rtl2d.m3u8
+http://premiumiptvmk.com:8080/F32962/7a3112d7/888
 #EXTINF:-1 tvg-name="kabel eins"tvg-id=""tvg-logo="https://raw.githubusercontent.com/Vasilich/mediaportal-german-logos/master/tv/kabel%20eins.png"group-title="",kabel eins
-https://s.hdtvizlecanli.com/kabel1a.m3u8
-#EXTINF:-1 tvg-name="kabel eins Doku"tvg-id=""tvg-logo=""group-title="",kabel eins Doku
-https://stream.hdtvizlecanli.com/kabel1doku.m3u8
+http://premiumiptvmk.com:8080/F32962/7a3112d7/891
+#EXTINF:-1 tvg-id="kabeleinsdoku.de" tvg-name="AT: Kabel Eins Doku" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-09/ead8e32ff3a0346a0970a4c71e875d6a.png" group-title="Austria",AT: Kabel Eins Doku
+http://premiumiptvmk.com:8080/F32962/7a3112d7/2074
 #EXTINF:-1 tvg-name="WELT"tvg-id="WELT.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/welt.png"group-title="Nachrichten;Dokumentationen",WELT
 https://welt.personalstream.tv/v1/master.m3u8
 #EXTINF:-1 tvg-name="rbb Berlin"tvg-id=""tvg-logo="https://raw.githubusercontent.com/Vasilich/mediaportal-german-logos/master/tv/RBB%20HD.png"group-title="",rbb Berlin
@@ -67,9 +67,9 @@ http://176.10.117.3:5000/play/a00p/index.m3u8
 #EXTINF:-1 tvg-name="DMAX"tvg-id=""tvg-logo=""group-title="",DMAX
 http://86.121.38.93:8000/play/a04k/index.m3u8
 #EXTINF:-1 tvg-name="ProSieben MAXX"tvg-id=""tvg-logo="https://raw.githubusercontent.com/Vasilich/mediaportal-german-logos/master/tv/ProSieben%20Maxx.png"group-title="",ProSieben MAXX
-http://86.121.38.93:8000/play/a04y/index.m3u8
+http://premiumiptvmk.com:8080/F32962/7a3112d7/2077
 #EXTINF:-1 tvg-name="SIXX"tvg-id=""tvg-logo="https://raw.githubusercontent.com/Vasilich/mediaportal-german-logos/master/tv/sixx.png"group-title="",SIXX
-http://86.121.38.93:8000/play/a04z/index.m3u8
+http://premiumiptvmk.com:8080/F32962/7a3112d7/2072
 #EXTINF:-1 tvg-name="Disney Channel"tvg-id=""tvg-logo="https://raw.githubusercontent.com/Vasilich/mediaportal-german-logos/master/tv/Disney%20Channel.png"group-title="Kinder / Jugend",Disney Channel
 http://176.10.117.3:5000/play/a00w/index.m3u8
 #EXTINF:-1 tvg-name="Super RTL"tvg-id=""tvg-logo="https://raw.githubusercontent.com/Vasilich/mediaportal-german-logos/master/tv/Super%20RTL.png"group-title="Kinder / Jugend",Super RTL
@@ -90,3 +90,76 @@ http://86.121.38.93:8000/play/a04b/index.m3u8
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1 tvg-id="DASDING908.de",DASDING 90.8 (720p)
 https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Atlantic" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/dd07a5c064d859bba8235e6bf76845a5.png" group-title="Germany ➾ Movie",DE: Sky Atlantic
+http://premiumiptvmk.com:8080/F32962/7a3112d7/1661
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/336b9af0cb8a6305292eb08571804135.png" group-title="Germany ➾ Movie",DE: Sky Cinema
+http://premiumiptvmk.com:8080/F32962/7a3112d7/291082
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema +1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/7d7faf76356162a9503a84a1f02f48e7.png" group-title="Germany ➾ Movie",DE: Sky Cinema +1
+http://premiumiptvmk.com:8080/F32962/7a3112d7/1660
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema 24" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/3758e2eca6862e1643a27ecf4082030e.png" group-title="Germany ➾ Movie",DE: Sky Cinema 24
+http://premiumiptvmk.com:8080/F32962/7a3112d7/281888
+#EXTINF:-1 tvg-id="skycinemaaction.de" tvg-name="DE: Sky Cinema Action" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/c0736e71decc27359ed907ccd077affb.png" group-title="Germany ➾ Movie",DE: Sky Cinema Action
+http://premiumiptvmk.com:8080/F32962/7a3112d7/1659
+#EXTINF:-1 tvg-id="skycinemabestofhd.de" tvg-name="DE: Sky Cinema Best Of" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/33bebe3398e7b19f19b96a36e0df1dbd.png" group-title="Germany ➾ Movie",DE: Sky Cinema Best Of
+http://premiumiptvmk.com:8080/F32962/7a3112d7/2119
+#EXTINF:-1 tvg-id="skycinemaclassics.de" tvg-name="DE: Sky Cinema Classics" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/cf0b9eca25b310d3914dd1fa0196c7f4.png" group-title="Germany ➾ Movie",DE: Sky Cinema Classics
+http://premiumiptvmk.com:8080/F32962/7a3112d7/91126
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Comedy" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/eb04104682108a58bb6b25e2b4c807cd.png" group-title="Germany ➾ Movie",DE: Sky Cinema Comedy
+http://premiumiptvmk.com:8080/F32962/7a3112d7/2120
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Emotion" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Cinema Emotion
+http://premiumiptvmk.com:8080/F32962/7a3112d7/2138
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Family" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/d7a500d20f06dad1bdeb0bb6019f0972.png" group-title="Germany ➾ Movie",DE: Sky Cinema Family
+http://premiumiptvmk.com:8080/F32962/7a3112d7/2118
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Highlight" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany ➾ Movie",DE: Sky Cinema Highlight
+http://premiumiptvmk.com:8080/F32962/7a3112d7/303956
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Hits" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/a3ada067f1811869b4cb1cfc15eba448.png" group-title="Germany ➾ Movie",DE: Sky Cinema Hits
+http://premiumiptvmk.com:8080/F32962/7a3112d7/281886
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Nostalgie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/aa45ee05b7b8b2caf8f3e322c7010706.png" group-title="Germany ➾ Movie",DE: Sky Cinema Nostalgie
+http://premiumiptvmk.com:8080/F32962/7a3112d7/2116
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Premieren" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ea30627241bde8715bb3e61e287cb1fd.png" group-title="Germany ➾ Movie",DE: Sky Cinema Premieren
+http://premiumiptvmk.com:8080/F32962/7a3112d7/298585
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Premieren +24" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/ae711c8f6f85772359e474455109c70f.png" group-title="Germany ➾ Movie",DE: Sky Cinema Premieren +24
+http://premiumiptvmk.com:8080/F32962/7a3112d7/2414
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Special" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/7fbdda6752bbcb91ac1c9de323f8603d.png" group-title="Germany ➾ Movie",DE: Sky Cinema Special
+http://premiumiptvmk.com:8080/F32962/7a3112d7/29070
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Thriller" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/8e72e2ca6c934e71ac3ec9139a7550d8.png" group-title="Germany ➾ Movie",DE: Sky Cinema Thriller
+http://premiumiptvmk.com:8080/F32962/7a3112d7/91116
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Comedy" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/ae27548598be481113873a6d4da2032f.png" group-title="Germany ➾ Movie",DE: Sky Comedy
+http://premiumiptvmk.com:8080/F32962/7a3112d7/4461
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Crime" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/3bfd5f515499f17d4606e560ed92d8bb.png" group-title="Germany ➾ Movie",DE: Sky Crime
+http://premiumiptvmk.com:8080/F32962/7a3112d7/291078
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Documentaries" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/0b02c2eeecd6f6c5722d40f8ff70f6c7.png" group-title="Germany ➾ Documentary",DE: Sky Documentaries
+http://premiumiptvmk.com:8080/F32962/7a3112d7/291080
+#EXTINF:-1 tvg-id="skykrimi.de" tvg-name="DE: Sky Krimi" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/93d402107f3ea78539cce8f071ebea3c.png" group-title="Germany ➾ Movie",DE: Sky Krimi
+http://premiumiptvmk.com:8080/F32962/7a3112d7/2122
+#EXTINF:-1 tvg-id="skyselect6.de" tvg-name="DE: Sky Movies Select 6" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/4e351175cf2ce8641dc460086e440c2d.png" group-title="Germany ➾ Movie",DE: Sky Movies Select 6
+http://premiumiptvmk.com:8080/F32962/7a3112d7/2422
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Nature" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/dbfd4a1361e27a67aaa7b3a64781850c.png" group-title="Germany ➾ Nature",DE: Sky Nature
+http://premiumiptvmk.com:8080/F32962/7a3112d7/291079
+#EXTINF:-1 tvg-id="fox.de" tvg-name="DE: Sky Replay" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/b6d793a3ec8b7877502be0c527fa7da4.png" group-title="Germany ➾ Movie",DE: Sky Replay
+http://premiumiptvmk.com:8080/F32962/7a3112d7/407
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 1" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Germany ➾ Movie",DE: Sky Select 1
+http://premiumiptvmk.com:8080/F32962/7a3112d7/281693
+#EXTINF:-1 tvg-id="skyselect2.de" tvg-name="DE: Sky Select 2" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Germany ➾ Movie",DE: Sky Select 2
+http://premiumiptvmk.com:8080/F32962/7a3112d7/2139
+#EXTINF:-1 tvg-id="skyselect3.de" tvg-name="DE: Sky Select 3" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Germany ➾ Movie",DE: Sky Select 3
+http://premiumiptvmk.com:8080/F32962/7a3112d7/2419
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 4" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Germany ➾ Movie",DE: Sky Select 4
+http://premiumiptvmk.com:8080/F32962/7a3112d7/858
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 5" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Germany ➾ Movie",DE: Sky Select 5
+http://premiumiptvmk.com:8080/F32962/7a3112d7/279837
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 6" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Germany ➾ Movie",DE: Sky Select 6
+http://premiumiptvmk.com:8080/F32962/7a3112d7/281442
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 7" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Germany ➾ Movie",DE: Sky Select 7
+http://premiumiptvmk.com:8080/F32962/7a3112d7/263996
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 8" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Select 8
+http://premiumiptvmk.com:8080/F32962/7a3112d7/281443
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 9" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Germany ➾ Movie",DE: Sky Select 9
+http://premiumiptvmk.com:8080/F32962/7a3112d7/2425
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 10" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Select 10
+http://premiumiptvmk.com:8080/F32962/7a3112d7/282048
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Serien & Shows" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/a62a9a117a937b8dffca0fa6700f5c1e.png" group-title="Germany ➾ Movie",DE: Sky Serien & Shows
+http://premiumiptvmk.com:8080/F32962/7a3112d7/120872
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Showcase" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany ➾ Movie",DE: Sky Showcase
+http://premiumiptvmk.com:8080/F32962/7a3112d7/302711
