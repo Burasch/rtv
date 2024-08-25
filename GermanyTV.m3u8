@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-name="ProSieben"tvg-id=""tvg-logo="https://raw.githubusercontent.com/Vasilich/mediaportal-german-logos/master/tv/ProSieben.png"group-title="",ProSieben
-https://s.hdtvizlecanli.com/pro7a.m3u8
+http://85.187.13.40:18000/ProSieben
 #EXTINF:-1 tvg-name="RTL"tvg-id=""tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/rtl.png"group-title="",RTL
 https://s.hdtvizlecanli.com/rtl.m3u8
 #EXTINF:-1 tvg-name="SAT.1"tvg-id=""tvg-logo="https://raw.githubusercontent.com/Vasilich/mediaportal-german-logos/master/tv/Sat.1.png"group-title="",SAT.1
@@ -79,7 +79,7 @@ https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
 #EXTINF:-1 tvg-name="Lilo.TV"tvg-id="lilo.tv"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/lilotv.png"group-title="Spartenprogramm",Lilo.TV
 https://lilo.iptv-playoutcenter.de/lilo/lilo-sat1/playlist.m3u8
 #EXTINF:-1 tvg-name="Nickelodeon"tvg-id="Nickelodeon.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nickelodeon.png"group-title="Kinder / Jugend",Nickelodeon
-http://86.121.38.93:8000/play/a04a/index.m3u8
+https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/nick1999.m3u8
 #EXTINF:-1 tvg-name="MTV HD"tvg-id=""tvg-logo="https://raw.githubusercontent.com/Vasilich/mediaportal-german-logos/master/tv/MTV.png"group-title="Musik",MTV HD
 http://176.10.117.3:5000/play/a00y/index.m3u8
 #EXTINF:-1 tvg-name="Rockland TV"tvg-id="Rockland.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rocklandtv.png"group-title="Musik",Rockland TV
@@ -87,4 +87,6 @@ https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="DELUXE MUSIC"tvg-id="DeLuxeMusic.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deluxemusic.png"group-title="Musik",DELUXE MUSIC
 http://86.121.38.93:8000/play/a04b/index.m3u8
 #EXTINF:-1 tvg-name="DELUXE MUSIC ROCK"tvg-id="DeLuxeMusicRock.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deluxemusicrock.png"group-title="Musik",DELUXE MUSIC ROCK
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/65181/65181_264_live.m3u8
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 tvg-id="DASDING908.de",DASDING 90.8 (720p)
+https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8
