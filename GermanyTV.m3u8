@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-name="ProSieben"tvg-id=""tvg-logo="https://raw.githubusercontent.com/Vasilich/mediaportal-german-logos/master/tv/ProSieben.png"group-title="",ProSieben
 http://85.187.13.40:18000/ProSieben
 #EXTINF:-1 tvg-name="RTL"tvg-id=""tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/rtl.png"group-title="",RTL
-https://s.hdtvizlecanli.com/rtl.m3u8
+https://s6.hopslan.com/rtlq22/index.m3u8?token=01b924155a049dd299b64bd8856b7446b6f9c59d-d43702e02977836062e6552eca61ea91-1724623698-1724612898
 #EXTINF:-1 tvg-name="SAT.1"tvg-id=""tvg-logo="https://raw.githubusercontent.com/Vasilich/mediaportal-german-logos/master/tv/Sat.1.png"group-title="",SAT.1
 https://s.hdtvizlecanli.com/sat1.m3u8
 #EXTINF:-1 tvg-name="VOX"tvg-id=""tvg-logo="https://github.com/Vasilich/mediaportal-german-logos/blob/master/tv/VOX.png"group-title="",VOX
