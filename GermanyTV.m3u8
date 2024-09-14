@@ -1,9 +1,9 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-name="ProSieben"tvg-id=""tvg-logo="https://raw.githubusercontent.com/Vasilich/mediaportal-german-logos/master/tv/ProSieben.png"group-title="",ProSieben
-http://85.187.13.40:18000/ProSieben
+http://premiumiptvmk.com:8080/F32962/7a3112d7/887
 #EXTINF:-1 tvg-name="RTL"tvg-id=""tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/rtl.png"group-title="",RTL
-https://s6.hopslan.com/rtlq22/index.m3u8?token=01b924155a049dd299b64bd8856b7446b6f9c59d-d43702e02977836062e6552eca61ea91-1724623698-1724612898
+http://premiumiptvmk.com:8080/F32962/7a3112d7/890
 #EXTINF:-1 tvg-name="SAT.1"tvg-id=""tvg-logo="https://raw.githubusercontent.com/Vasilich/mediaportal-german-logos/master/tv/Sat.1.png"group-title="",SAT.1
 http://premiumiptvmk.com:8080/F32962/7a3112d7/2107
 #EXTINF:-1 tvg-name="VOX"tvg-id=""tvg-logo="https://github.com/Vasilich/mediaportal-german-logos/blob/master/tv/VOX.png"group-title="",VOX
@@ -12,10 +12,12 @@ http://premiumiptvmk.com:8080/F32962/7a3112d7/894
 http://premiumiptvmk.com:8080/F32962/7a3112d7/888
 #EXTINF:-1 tvg-name="kabel eins"tvg-id=""tvg-logo="https://raw.githubusercontent.com/Vasilich/mediaportal-german-logos/master/tv/kabel%20eins.png"group-title="",kabel eins
 http://premiumiptvmk.com:8080/F32962/7a3112d7/891
-#EXTINF:-1 tvg-id="kabeleinsdoku.de" tvg-name="AT: Kabel Eins Doku" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-09/ead8e32ff3a0346a0970a4c71e875d6a.png" group-title="Austria",AT: Kabel Eins Doku
-http://premiumiptvmk.com:8080/F32962/7a3112d7/2074
+#EXTINF:-1 tvg-id="kabeleinsdoku.de" tvg-name="DE: Kabel Eins Doku" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/b40af5e0fd6fae7407372abf9aa3f595.png" group-title="Germany ➾ LifeStyle",DE: Kabel Eins Doku
+http://premiumiptvmk.com:8080/F32962/7a3112d7/290259
 #EXTINF:-1 tvg-name="WELT"tvg-id="WELT.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/welt.png"group-title="Nachrichten;Dokumentationen",WELT
 https://welt.personalstream.tv/v1/master.m3u8
+#EXTINF:-1 tvg-id="ntv.de" tvg-name="DE: n-tv" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/10e1afea70963e1ae54284ad3dfb8819.png" group-title="Germany ➾ News",DE: n-tv
+http://premiumiptvmk.com:8080/F32962/7a3112d7/2080
 #EXTINF:-1 tvg-name="rbb Berlin"tvg-id=""tvg-logo="https://raw.githubusercontent.com/Vasilich/mediaportal-german-logos/master/tv/RBB%20HD.png"group-title="",rbb Berlin
 https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/master.m3u8
 #EXTINF:-1 tvg-name="3sat"tvg-id="3sat.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/3sat.png"group-title="Vollprogramm",3sat
@@ -59,7 +61,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-name="ANIXE HD"tvg-id="Anixe.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/anixehd.png"group-title="Spartenprogramm",ANIXE HD
 https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
 #EXTINF:-1 tvg-name="TELE 5"tvg-id=""tvg-logo=""group-title="",TELE 5
-http://86.121.38.93:8000/play/a04j/index.m3u8
+http://premiumiptvmk.com:8080/F32962/7a3112d7/2439
 #EXTINF:-1 tvg-name="Dokusat"tvg-id="Dokusat.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/dokusat.png"group-title="Spartenprogramm",Dokusat
 https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
 #EXTINF:-1 tvg-name="NITRO"tvg-id=""tvg-logo="https://raw.githubusercontent.com/Vasilich/mediaportal-german-logos/master/tv/RTL%20Nitro%20HD.png"group-title="",NITRO
@@ -161,5 +163,29 @@ http://premiumiptvmk.com:8080/F32962/7a3112d7/2425
 http://premiumiptvmk.com:8080/F32962/7a3112d7/282048
 #EXTINF:-1 tvg-id="" tvg-name="DE: Sky Serien & Shows" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/a62a9a117a937b8dffca0fa6700f5c1e.png" group-title="Germany ➾ Movie",DE: Sky Serien & Shows
 http://premiumiptvmk.com:8080/F32962/7a3112d7/120872
+
+#EXTINF:-1 tvg-id="" tvg-name="DE: NETFLİX 1" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Germany",DE: NETFLİX 1
+http://premiumiptvmk.com:8080/F32962/7a3112d7/287766
+#EXTINF:-1 tvg-id="" tvg-name="DE: NETFLİX 2" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Germany",DE: NETFLİX 2
+http://premiumiptvmk.com:8080/F32962/7a3112d7/287767
+#EXTINF:-1 tvg-id="" tvg-name="DE: NETFLİX 3" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Germany",DE: NETFLİX 3
+http://premiumiptvmk.com:8080/F32962/7a3112d7/287768
+#EXTINF:-1 tvg-id="" tvg-name="DE: NETFLİX 4" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Germany",DE: NETFLİX 4
+http://premiumiptvmk.com:8080/F32962/7a3112d7/287769
+#EXTINF:-1 tvg-id="" tvg-name="DE: NETFLİX 9" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Germany",DE: NETFLİX 9
+http://premiumiptvmk.com:8080/F32962/7a3112d7/287772
+#EXTINF:-1 tvg-id="" tvg-name="DE: NETFLİX 10" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Germany",DE: NETFLİX 10
+http://premiumiptvmk.com:8080/F32962/7a3112d7/287773
 #EXTINF:-1 tvg-id="" tvg-name="DE: Sky Showcase" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany ➾ Movie",DE: Sky Showcase
 http://premiumiptvmk.com:8080/F32962/7a3112d7/302711
+
+EXTINF:-1 tvg-id="" tvg-name="DE: Rakuten Action Movies" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/e0da3444cdd1ee8cf42a62c52d8d3dd9.png" group-title="Germany ➾ Movie",DE: Rakuten Action Movies
+http://premiumiptvmk.com:8080/F32962/7a3112d7/298835
+#EXTINF:-1 tvg-id="" tvg-name="DE: Rakuten Comedy Movies" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/1386c29e82672e872070618c1fbcdde6.png" group-title="Germany ➾ Movie",DE: Rakuten Comedy Movies
+http://premiumiptvmk.com:8080/F32962/7a3112d7/298836
+#EXTINF:-1 tvg-id="" tvg-name="DE: Rakuten Comedy Movies 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/d0c00894dd1fde835db0d74cd60d0fb3.png" group-title="Germany ➾ Movie",DE: Rakuten Comedy Movies 2
+http://premiumiptvmk.com:8080/F32962/7a3112d7/298837
+#EXTINF:-1 tvg-id="" tvg-name="DE: Rakuten TV Shows" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/4aa1f3d7769010b80e2e3976b5707e42.png" group-title="Germany ➾ Movie",DE: Rakuten TV Shows
+http://premiumiptvmk.com:8080/F32962/7a3112d7/298838
+#EXTINF:-1 tvg-id="" tvg-name="DE: Rakuten TV Shows 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/562b4af0946b7128bab6062b3c6f4632.png" group-title="Germany ➾ Movie",DE: Rakuten TV Shows 2
+http://premiumiptvmk.com:8080/F32962/7a3112d7/298840
