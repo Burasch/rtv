@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U http://sapphireapp.xyz:8080/get.php?username=uNF3bkgpu&password=3609838871&type=m3u_plus
 
 #EXTINF:-1 tvg-name="ProSieben"tvg-id=""tvg-logo="https://raw.githubusercontent.com/Vasilich/mediaportal-german-logos/master/tv/ProSieben.png"group-title="",ProSieben
 http://filex.tv:8080/mIltsmilts/958585219/293539
