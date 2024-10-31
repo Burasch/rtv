@@ -1,9 +1,14 @@
 [
+
     {
         "url": "https://televizor24tochka.ru/tv/pervyi-kanal.html",
         "tvg_id": "pervyj-kanal"
     },
     {
+        "url": "https://televizor24tochka.ru/tv/rossiya-1.html",
+        "tvg_id": "rossiya-1"
+    },
+       {
         "url": "https://televizor24tochka.ru/tv/ntv.html",
         "tvg_id": "ntv"
     },
@@ -12,7 +17,7 @@
         "tvg_id": "sts"
     },
     {
-        "url": "https://rustvlive.com/main/domashniy.html",
+        "url": "https://televizor24tochka.ru/tv/domashnii.html",
         "tvg_id": "domashnij"
     }
   
