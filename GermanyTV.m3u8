@@ -1,9 +1,9 @@
 #EXTM3U http://sapphireapp.xyz:8080/get.php?username=uNF3bkgpu&password=3609838871&type=m3u_plus
 
 #EXTINF:-1 tvg-name="ProSieben"tvg-id=""tvg-logo="https://raw.githubusercontent.com/Vasilich/mediaportal-german-logos/master/tv/ProSieben.png"group-title="",ProSieben
-http://filex.tv:8080/mIltsmilts/958585219/293539
+http://85.187.13.40:18000/ProSieben
 #EXTINF:-1 tvg-name="RTL"tvg-id=""tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/rtl.png"group-title="",RTL
-http://filex.tv:8080/mIltsmilts/958585219/293546
+https://forsizero.github.io/iptv/m3u/superrtlhd.m3u
 #EXTINF:-1 tvg-name="SAT.1"tvg-id=""tvg-logo="https://raw.githubusercontent.com/Vasilich/mediaportal-german-logos/master/tv/Sat.1.png"group-title="",SAT.1
 http://filex.tv:8080/mIltsmilts/958585219/293550
 #EXTINF:-1 tvg-name="VOX"tvg-id=""tvg-logo="https://github.com/Vasilich/mediaportal-german-logos/blob/master/tv/VOX.png"group-title="",VOX
