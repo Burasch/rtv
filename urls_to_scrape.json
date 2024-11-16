@@ -1,5 +1,4 @@
 [
-
     {
         "url": "https://televizor24tochka.ru/tv/pervyi-kanal.html",
         "tvg_id": "pervyj-kanal"
@@ -8,11 +7,11 @@
         "url": "https://televizor24tochka.ru/tv/rossiya-1.html",
         "tvg_id": "rossiya-1"
     },
-       {
+    {
         "url": "https://televizor24tochka.ru/tv/ntv.html",
         "tvg_id": "ntv"
     },
-     {
+    {
         "url": "https://a5.pokaz.me/3UtogmN7SmUwEDb3ESeS1w/524/1731756208/index.m3u8",
         "tvg_id": "pyatyj-kanal"
     },
@@ -35,6 +34,5 @@
     {
         "url": "http://ip.viks.tv/512-dom-kino-premium_12.html",
         "tvg_id": "dom-kino-premium"
-    },
-  
+    }
 ]
