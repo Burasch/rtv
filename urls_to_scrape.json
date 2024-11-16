@@ -12,6 +12,10 @@
         "url": "https://televizor24tochka.ru/tv/ntv.html",
         "tvg_id": "ntv"
     },
+     {
+        "url": "https://a5.pokaz.me/3UtogmN7SmUwEDb3ESeS1w/524/1731756208/index.m3u8",
+        "tvg_id": "pyatyj-kanal"
+    },
     {
         "url": "https://televizor24tochka.ru/tv/sts.html",
         "tvg_id": "sts"
@@ -19,6 +23,18 @@
     {
         "url": "https://televizor24tochka.ru/tv/domashnii.html",
         "tvg_id": "domashnij"
-    }
+    },
+    {
+        "url": "https://televizor24tochka.ru/tv/tnt.html",
+        "tvg_id": "tnt"
+    },
+    {
+        "url": "https://tvcdnpotok.com/id7f00IC_P5XzKZRsoBn_Q/104/1731757867/index.m3u8",
+        "tvg_id": "cinema"
+    },
+    {
+        "url": "http://ip.viks.tv/512-dom-kino-premium_12.html",
+        "tvg_id": "dom-kino-premium"
+    },
   
 ]
