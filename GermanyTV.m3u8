@@ -1,22 +1,22 @@
 #EXTM3U http://sapphireapp.xyz:8080/get.php?username=uNF3bkgpu&password=3609838871&type=m3u_plus
 
-#EXTINF:-1 tvg-name="ProSieben"tvg-id=""tvg-logo="https://raw.githubusercontent.com/Vasilich/mediaportal-german-logos/master/tv/ProSieben.png"group-title="",ProSieben
+#EXTINF:-1 tvg-name="ProSieben"tvg-id="ProSiebe"tvg-logo="https://raw.githubusercontent.com/Vasilich/mediaportal-german-logos/master/tv/ProSieben.png"group-title="",ProSieben
 http://85.187.13.40:18000/ProSieben
-#EXTINF:-1 tvg-name="RTL"tvg-id=""tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/rtl.png"group-title="",RTL
+#EXTINF:-1 tvg-name="RTL"tvg-id="RTL"tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/rtl.png"group-title="",RTL
 https://forsizero.github.io/iptv/m3u/superrtlhd.m3u
-#EXTINF:-1 tvg-name="SAT.1"tvg-id=""tvg-logo="https://raw.githubusercontent.com/Vasilich/mediaportal-german-logos/master/tv/Sat.1.png"group-title="",SAT.1
+#EXTINF:-1 tvg-name="SAT.1"tvg-id="SAT.1"tvg-logo="https://raw.githubusercontent.com/Vasilich/mediaportal-german-logos/master/tv/Sat.1.png"group-title="",SAT.1
 http://filex.tv:8080/mIltsmilts/958585219/293550
-#EXTINF:-1 tvg-name="VOX"tvg-id=""tvg-logo="https://github.com/Vasilich/mediaportal-german-logos/blob/master/tv/VOX.png"group-title="",VOX
+#EXTINF:-1 tvg-name="VOX"tvg-id="VOX"tvg-logo="https://github.com/Vasilich/mediaportal-german-logos/blob/master/tv/VOX.png"group-title="",VOX
 http://filex.tv:8080/mIltsmilts/958585219/293556
-#EXTINF:-1 tvg-name="RTLZWEI"tvg-id=""tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/rtl2.png"group-title="",RTLZWEI
+#EXTINF:-1 tvg-name="RTLZWEI"tvg-id="RTLZWEI"tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/rtl2.png"group-title="",RTLZWEI
 http://filex.tv:8080/mIltsmilts/958585219/293549
-#EXTINF:-1 tvg-name="kabel eins"tvg-id=""tvg-logo="https://raw.githubusercontent.com/Vasilich/mediaportal-german-logos/master/tv/kabel%20eins.png"group-title="",kabel eins
+#EXTINF:-1 tvg-name="kabel eins"tvg-id="kabel eins"tvg-logo="https://raw.githubusercontent.com/Vasilich/mediaportal-german-logos/master/tv/kabel%20eins.png"group-title="",kabel eins
 http://filex.tv:8080/mIltsmilts/958585219/293524
-#EXTINF:-1 tvg-id="kabeleinsdoku.de" tvg-name="DE: Kabel Eins Doku" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/b40af5e0fd6fae7407372abf9aa3f595.png" group-title="Germany ➾ LifeStyle",DE: Kabel Eins Doku
+#EXTINF:-1 tvg-id="kabeleinsdoku" tvg-name="DE: Kabel Eins Doku" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/b40af5e0fd6fae7407372abf9aa3f595.png" group-title="Germany ➾ LifeStyle",DE: Kabel Eins Doku
 http://filex.tv:8080/mIltsmilts/958585219/293526
 #EXTINF:-1 tvg-name="WELT"tvg-id="WELT.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/welt.png"group-title="Nachrichten;Dokumentationen",WELT
 https://welt.personalstream.tv/v1/master.m3u8
-#EXTINF:-1 tvg-id="ntv.de" tvg-name="DE: n-tv" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/10e1afea70963e1ae54284ad3dfb8819.png" group-title="Germany ➾ News",DE: n-tv
+#EXTINF:-1 tvg-id="ntv" tvg-name="DE: n-tv" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/10e1afea70963e1ae54284ad3dfb8819.png" group-title="Germany ➾ News",DE: n-tv
 http://filex.tv:8080/mIltsmilts/958585219/293621
 #EXTINF:-1 tvg-name="rbb Berlin"tvg-id=""tvg-logo="https://raw.githubusercontent.com/Vasilich/mediaportal-german-logos/master/tv/RBB%20HD.png"group-title="",rbb Berlin
 https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/master.m3u8
