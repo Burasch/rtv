@@ -7,7 +7,7 @@ https://player.smotrim.ru/iframe/stream/live_id/2961?576.m3u8
 #EXTINF:-1 tvg-id="rossiya-24"tvg-logo="https://ntvplus.tv/files/image/01/17/61/z0z.png"group-title="":http-user-agent="",Россия 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia24-sd/index.m3u8
 #EXTINF:-1 tvg-id="ntv"tvg-logo="https://bosts-online.my1.ru/4logoTV/ntv111.png"group-title="":http-user-agent="",НТВ
-https://tvcdnpotok.com/537/index.m3u8?wmsAuthSign=cb92cdf0165d3fe90f92e9d872b2c0cf-1732741409-331i641i16i5
+https://tvcdnpotok.com/537/index.m3u8?wmsAuthSign=162cd3d70df9aed328b1c57c1ef23350-1732795695-331i641i16i5
 #EXTINF:-1 tvg-id="pyatyj-kanal"tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-pyatuyi-kanal.png"group-title="":http-user-agent="",Пятый Канал
 https://tvcdnpotok.com/5kanal/index.m3u8?wmsAuthSign=5d99c21e0cff83e58cfd817a32516516-1732741421-331i641i16i5
 #EXTINF:-1 tvg-id="sts"tvg-logo="https://i.imgur.com/ilUzAeb.png"group-title="":http-user-agent="",СТС
