@@ -1,7 +1,7 @@
 #EXTM3U http://sapphireapp.xyz:8080/get.php?username=uNF3bkgpu&password=3609838871&type=m3u_plus
 
 #EXTINF:-1 tvg-name="ProSieben"tvg-id="ProSiebe"tvg-logo="https://raw.githubusercontent.com/Vasilich/mediaportal-german-logos/master/tv/ProSieben.png"group-title="",ProSieben
-http://85.187.13.40:18000/ProSieben
+https://s6.hopslan.com/pro7x1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="RTL"tvg-id="RTL"tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/rtl.png"group-title="",RTL
 https://forsizero.github.io/iptv/m3u/superrtlhd.m3u
 #EXTINF:-1 tvg-name="SAT.1"tvg-id="SAT.1"tvg-logo="https://raw.githubusercontent.com/Vasilich/mediaportal-german-logos/master/tv/Sat.1.png"group-title="",SAT.1
