@@ -17,7 +17,7 @@ http://filex.tv:8080/mIltsmilts/958585219/293526
 #EXTINF:-1 tvg-name="WELT"tvg-id="WELT.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/welt.png"group-title="Nachrichten;Dokumentationen",WELT
 https://welt.personalstream.tv/v1/master.m3u8
 #EXTINF:-1 tvg-id="ntv" tvg-name="DE: n-tv" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/10e1afea70963e1ae54284ad3dfb8819.png" group-title="Germany ➾ News",DE: n-tv
-http://filex.tv:8080/mIltsmilts/958585219/293621
+https://s6.hopslan.com/ntvx1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="rbb Berlin"tvg-id=""tvg-logo="https://raw.githubusercontent.com/Vasilich/mediaportal-german-logos/master/tv/RBB%20HD.png"group-title="",rbb Berlin
 https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/master.m3u8
 #EXTINF:-1 tvg-name="3sat"tvg-id="3sat.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/3sat.png"group-title="Vollprogramm",3sat
