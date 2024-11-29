@@ -4,23 +4,23 @@
         "tvg_id": "ProSiebe"
     },
     {
-        "url": "https://www.livehdtv.com/rtl-germany",
+        "url": "https://livestreamxtv.com/rtl",
         "tvg_id": "RTL"
     },
     {
-        "url": "https://www.livehdtv.com/sat-1-germany/",
+        "url": "https://livestreamxtv.com/sat1",
         "tvg_id": "SAT.1"
     },
     {
-        "url": "https://www.livehdtv.com/vox/2/",
+        "url": "https://livestreamxtv.com/vox",
         "tvg_id": "VOX"
     },
     {
-        "url": "https://www.livehdtv.com/rtl2/1/",
+        "url": "https://livestreamxtv.com/rtl2",
         "tvg_id": "RTLZWEI"
     },
     {
-        "url": "https://www.livehdtv.com/kabel-1/",
+        "url": "https://livestreamxtv.com/kabel1",
         "tvg_id": "kabel eins"
     },
      {
@@ -28,7 +28,7 @@
         "tvg_id": "kabeleinsdoku"
     },
      {
-        "url": "https://www.livehdtv.com/ntv-german/",
+        "url": "https://livestreamxtv.com/ntv",
         "tvg_id": "ntv"
     }
 ]
