@@ -7,7 +7,7 @@ https://s6.hopslan.com/rtlc11/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="SAT.1"tvg-id="SAT.1"tvg-logo="https://raw.githubusercontent.com/Vasilich/mediaportal-german-logos/master/tv/Sat.1.png"group-title="",SAT.1
 https://s6.hopslan.com/sat1x11/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="VOX"tvg-id="VOX"tvg-logo="https://github.com/Vasilich/mediaportal-german-logos/blob/master/tv/VOX.png"group-title="",VOX
-http://filex.tv:8080/mIltsmilts/958585219/293556
+https://s6.hopslan.com/voxx1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="RTLZWEI"tvg-id="RTLZWEI"tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/rtl2.png"group-title="",RTLZWEI
 http://filex.tv:8080/mIltsmilts/958585219/293549
 #EXTINF:-1 tvg-name="kabel eins"tvg-id="kabel eins"tvg-logo="https://raw.githubusercontent.com/Vasilich/mediaportal-german-logos/master/tv/kabel%20eins.png"group-title="",kabel eins
