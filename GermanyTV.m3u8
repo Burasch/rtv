@@ -11,7 +11,7 @@ https://s6.hopslan.com/voxx1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="RTLZWEI"tvg-id="RTLZWEI"tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/rtl2.png"group-title="",RTLZWEI
 https://s6.hopslan.com/rtl2x1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="kabel eins"tvg-id="kabel eins"tvg-logo="https://raw.githubusercontent.com/Vasilich/mediaportal-german-logos/master/tv/kabel%20eins.png"group-title="",kabel eins
-http://filex.tv:8080/mIltsmilts/958585219/293524
+https://s6.hopslan.com/kabel1x1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kabeleinsdoku" tvg-name="DE: Kabel Eins Doku" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/b40af5e0fd6fae7407372abf9aa3f595.png" group-title="Germany ➾ LifeStyle",DE: Kabel Eins Doku
 http://filex.tv:8080/mIltsmilts/958585219/293526
 #EXTINF:-1 tvg-name="WELT"tvg-id="WELT.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/welt.png"group-title="Nachrichten;Dokumentationen",WELT
