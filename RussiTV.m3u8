@@ -9,7 +9,7 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia24-sd/index.m3u8
 #EXTINF:-1 tvg-id="ntv"tvg-logo="https://bosts-online.my1.ru/4logoTV/ntv111.png"group-title="":http-user-agent="",НТВ
 https://mix.streamsport.net:8080/hls/ntvmir/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMzAvMjAyNCA2OjI3OjQ0IFBNJmhhc2hfdmFsdWU9OStGYkpiY05TMEIwUEdaMWF0ckhhUT09JnZhbGlkbWludXRlcz02MCZpZD0mY2hlY2tpcD10cnVl
 #EXTINF:-1 tvg-id="pyatyj-kanal"tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-pyatuyi-kanal.png"group-title="":http-user-agent="",Пятый Канал
-https://tvcdnpotok.com/5kanal/index.m3u8?wmsAuthSign=279ef47ccace21a0234438805b5a8f2b-1732922463-331i641i16i5
+https://tvcdnpotok.com/5kanal/index.m3u8?wmsAuthSign=53458db164aa91e4ec9a726ba2e91835-1733009284-152i232i21i591
 #EXTINF:-1 tvg-id="sts"tvg-logo="https://i.imgur.com/ilUzAeb.png"group-title="":http-user-agent="",СТС
 https://tvcdnpotok.com/sts_/index.m3u8?wmsAuthSign=4942b8b55837a6298c508f767c0c3fc2-1732922475-331i641i16i5
 #EXTINF:-1 tvg-id="domashnij"tvg-logo="https://i.imgur.com/XVRwgom.png"group-title="":http-user-agent="",Домашний
