@@ -39,7 +39,7 @@ https://tvcdnpotok.com/EuwNN5JgIP8xv_Y8LGiHhQ/578/1733009408/index.m3u8
 #EXTINF:-1 tvg-id="dom-kino"tvg-logo="https://epgx.site/p/domkino.png"group-title="Русский кинозал":http-user-agent="",Дом Кино
 https://stream01.vnet.am/DomKino/mono.m3u8
 #EXTINF:-1 tvg-id="dom-kino-premium"tvg-logo="https://epgx.site/p/domkino-premium.png"group-title="Русский кинозал":http-user-agent="",Дом кино Премиум
-https://tvcdnpotok.com/dom_prem/index.m3u8?wmsAuthSign=31278bf6ca4b48c16a7179ecd5437b99-1732925380-331i641i16i5
+https://tvcdnpotok.com/dom_prem/index.m3u8?wmsAuthSign=e09b14c47b255af3be0d27fe210d4920-1733009418-331i641i16i5
 #EXTINF:-1 tvg-id="kinomiks"tvg-logo="https://i.imgur.com/OGUMa1A.png"group-title="Movies":http-user-agent="",Киномик
 http://82.209.197.187:8080/udp/239.0.100.33:1234
 #EXTINF:-1 tvg-id="2x2"tvg-logo="https://i.imgur.com/fhQFLEl.png"group-title="Entertainment":http-user-agent="",2x2
