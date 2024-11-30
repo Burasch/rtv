@@ -7,7 +7,7 @@ https://region1.google-analytics.com/g/collect?v=2&tid=G-YN58F63ED0&gtm=45je4bk0
 #EXTINF:-1 tvg-id="rossiya-24"tvg-logo="https://ntvplus.tv/files/image/01/17/61/z0z.png"group-title="":http-user-agent="",Россия 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia24-sd/index.m3u8
 #EXTINF:-1 tvg-id="ntv"tvg-logo="https://bosts-online.my1.ru/4logoTV/ntv111.png"group-title="":http-user-agent="",НТВ
-https://mix.streamsport.net:8080/hls/ntvmir/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMzAvMjAyNCA2OjI3OjQ0IFBNJmhhc2hfdmFsdWU9OStGYkpiY05TMEIwUEdaMWF0ckhhUT09JnZhbGlkbWludXRlcz02MCZpZD0mY2hlY2tpcD10cnVl
+https://ea.streamsport.net:8080/hls/ntv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMzAvMjAyNCA3OjMxOjA1IFBNJmhhc2hfdmFsdWU9REpEVGFoM0xsSUpWaS9SNXdXWkpBZz09JnZhbGlkbWludXRlcz02MCZpZD0mY2hlY2tpcD10cnVl
 #EXTINF:-1 tvg-id="pyatyj-kanal"tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-pyatuyi-kanal.png"group-title="":http-user-agent="",Пятый Канал
 https://tvcdnpotok.com/5kanal/index.m3u8?wmsAuthSign=53458db164aa91e4ec9a726ba2e91835-1733009284-152i232i21i591
 #EXTINF:-1 tvg-id="sts"tvg-logo="https://i.imgur.com/ilUzAeb.png"group-title="":http-user-agent="",СТС
