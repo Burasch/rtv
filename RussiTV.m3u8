@@ -21,7 +21,7 @@ http://109.171.45.88:81/udp/239.54.5.86:1224
 #EXTINF:-1 tvg-id="tv-rain"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Tvrain.svg/311px-Tvrain.svg.png"group-title="":http-user-agent="",TVRain
 https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
 #EXTINF:-1 tvg-id="pyatnitsa"tvg-logo="https://i.imgur.com/N2z3EZC.png"group-title="Entertainment":http-user-agent="",Пятница!
-https://tvcdnpotok.com/pjatnica/index.m3u8?wmsAuthSign=996c58d4a2a8d24a6d8eb6770f80386c-1733013128-331i641i16i5
+https://tvcdnpotok.com/pjatnica/index.m3u8?wmsAuthSign=e982e0b8f07685dc2dac1aca7d0fe7b8-1733677329-47i441i16i5
 #EXTINF:-1 tvg-id="zvezda"tvg-logo="https://i.imgur.com/4PAcpfM.png"group-title="General":http-user-agent="",Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
 #EXTINF:-1 tvg-id="mir"tvg-logo="https://i.imgur.com/CrFWXTD.png"group-title="Undefined":http-user-agent="",Мир
