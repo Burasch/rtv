@@ -1,6 +1,6 @@
 [
     {
-        "url": "http://telik.live/pervyj-kanal.html",
+        "url": "https://televizor24tochka.ru/tv/pervyi-kanal.html",
         "tvg_id": "pervyj-kanal"
     },
     {
@@ -8,31 +8,31 @@
         "tvg_id": "rossiya-1"
     },
     {
-        "url": "https://tvonline.live/ntv-online.php",
+        "url": "http://telik.live/ntv.html",
         "tvg_id": "ntv"
     },
     {
-        "url": "http://oneliketv.net/5-kanal-russia.html",
+        "url": "https://televizor24tochka.ru/tv/5-kanal.html",
         "tvg_id": "pyatyj-kanal"
     },
     {
-        "url": "https://online-tv.live/sts.html",
+        "url": "http://telik.live/sts.html",
         "tvg_id": "sts"
     },
     {
-        "url": "https://online-tv.live/domashnij.html",
+        "url": "https://televizor24tochka.ru/tv/domashnii.html",
         "tvg_id": "domashnij"
     },
      {
-        "url": "https://online-tv.live/tv-3.html",
+        "url": "https://televizor24tochka.ru/tv/tv-3.html",
         "tvg_id": "tv-3"
     },
      {
-        "url": "http://oneliketv.net/pyatnitsa.html",
+        "url": "https://televizor24tochka.ru/tv/pyatnitsa.html",
         "tvg_id": "pyatnitsa"
     },
     {
-        "url": "http://oneliketv.net/tnt.html",
+        "url": "https://televizor24tochka.ru/tv/tnt.html",
         "tvg_id": "tnt"
     },
     {
@@ -40,11 +40,11 @@
         "tvg_id": "cinema"
     },
     {
-        "url": "https://online-tv.live/ostrosyuzhetnoe-hd.html",
+        "url": "http://telik.live/ostrosyuzhetnoe-hd.html",
         "tvg_id": "ostrosyuzhetnoe-hd"
     },
     {
-        "url": "https://online-tv.live/dom-kino-premium.html",
+        "url": "http://telik.live/dom-kino-premium.html",
         "tvg_id": "dom-kino-premium"
     }
 ]
