@@ -11,7 +11,7 @@ https://er.streamsport.net:8080/hls/ntv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbW
 #EXTINF:-1 tvg-id="pyatyj-kanal"tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-pyatuyi-kanal.png"group-title="":http-user-agent="",Пятый Канал
 https://tvcdnpotok.com/5kanal/index.m3u8?wmsAuthSign=3f619c4e8c4dc9d0378a266c76dfe08a-1734911121-27i441i16i5
 #EXTINF:-1 tvg-id="sts"tvg-logo="https://i.imgur.com/ilUzAeb.png"group-title="":http-user-agent="",СТС
-https://tvcdnpotok.com/7KdtHJ1i2HwmUsCrZCRKFw/591/1734389194/index.m3u8
+https://tvcdnpotok.com/sts_/index.m3u8?wmsAuthSign=89c55cca69f8cad68da02408a40b0ebc-1734911134-27i441i16i5
 #EXTINF:-1 tvg-id="domashnij"tvg-logo="https://i.imgur.com/XVRwgom.png"group-title="":http-user-agent="",Домашний
 https://tvcdnpotok.com/bS0Pfns_1whquv_s4F642Q/561/1734389206/index.m3u8
 #EXTINF:-1 tvg-id="enisey"tvg-logo="https://i.imgur.com/57deE7f.png"group-title="Undefined":http-user-agent="",Енисей
