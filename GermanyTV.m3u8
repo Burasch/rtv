@@ -64,7 +64,7 @@ https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
 http://filex.tv:8080/mIltsmilts/958585219/293452
 #EXTINF:-1 tvg-name="Dokusat"tvg-id="Dokusat.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/dokusat.png"group-title="Spartenprogramm",Dokusat
 https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
-#EXTINF:-1 tvg-name="NITRO"tvg-id=""tvg-logo="https://raw.githubusercontent.com/Vasilich/mediaportal-german-logos/master/tv/RTL%20Nitro%20HD.png"group-title="",NITRO
+#EXTINF:-1 tvg-name="NITRO"tvg-id="NITRO"tvg-logo="https://raw.githubusercontent.com/Vasilich/mediaportal-german-logos/master/tv/RTL%20Nitro%20HD.png"group-title="",NITRO
 http://176.10.117.3:5000/play/a00p/index.m3u8
 #EXTINF:-1 tvg-name="DMAX"tvg-id=""tvg-logo=""group-title="",DMAX
 http://86.121.38.93:8000/play/a04k/index.m3u8
