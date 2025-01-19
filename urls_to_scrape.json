@@ -1,10 +1,10 @@
 [
     {
-        "url": "https://smotret.tv/pervyj-kanal",
+        "url": "http://telik.live/pervyj-kanal.html",
         "tvg_id": "pervyj-kanal"
     },
     {
-        "url": "https://smotret.tv/rtr-planeta",
+        "url": "https://tvonline.live/russia1-online.php",
         "tvg_id": "rossiya-1"
     },
     {
@@ -12,11 +12,11 @@
         "tvg_id": "ntv"
     },
     {
-        "url": "http://see-me.ru/online-tv/paytiy-kanal.html",
+        "url": "https://tvonline.live/5kanal-online.php",
         "tvg_id": "pyatyj-kanal"
     },
     {
-        "url": "https://pokaz.me/11-kanal-sts.html",
+        "url": "http://oneliketv.net/sts.html",
         "tvg_id": "sts"
     },
     {
@@ -36,7 +36,7 @@
         "tvg_id": "tnt"
     },
     {
-        "url": "https://online-tv.live/cinema.html",
+        "url": "https://tvonline.live/cinema-online.php",
         "tvg_id": "cinema"
     },
     {
@@ -44,7 +44,7 @@
         "tvg_id": "ostrosyuzhetnoe-hd"
     },
     {
-        "url": "http://oneliketv.net/dom-kino-premium.html",
+        "url": "https://tvonline.live/domkino-premium-hd-online.php",
         "tvg_id": "dom-kino-premium"
     }
 ]
