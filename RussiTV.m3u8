@@ -13,7 +13,7 @@ https://region1.google-analytics.com/g/collect?v=2&tid=G-YN58F63ED0&gtm=45je4cc1
 #EXTINF:-1 tvg-id="sts"tvg-logo="https://i.imgur.com/ilUzAeb.png"group-title="":http-user-agent="",СТС
 https://tvcdnpotok.com/w9Y0hz7APCqsHZB6GX4Vkw/591/1736123458/index.m3u8
 #EXTINF:-1 tvg-id="domashnij"tvg-logo="https://i.imgur.com/XVRwgom.png"group-title="":http-user-agent="",Домашний
-https://tvcdnpotok.com/domashni/index.m3u8?wmsAuthSign=aedc1cfed2d155f8704c74636ff445f3-1737305773-29i441i16i5
+https://tvcdnpotok.com/domashni/index.m3u8?wmsAuthSign=f462b392546582cedf895162ae305b19-1737309496-742i232i21i591
 #EXTINF:-1 tvg-id="enisey"tvg-logo="https://i.imgur.com/57deE7f.png"group-title="Undefined":http-user-agent="",Енисей
 http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-3"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TV-3_logo_%282015%29.png/512px-TV-3_logo_%282015%29.png"group-title="Entertainment":http-user-agent="",ТВ3
