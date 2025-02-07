@@ -3,9 +3,9 @@
 #EXTINF:-1 tvg-name="ProSieben"tvg-id="ProSiebe"tvg-logo="https://raw.githubusercontent.com/Vasilich/mediaportal-german-logos/master/tv/ProSieben.png"group-title="",ProSieben
 https://s6.hopslan.com/pro7x1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="RTL"tvg-id="RTL"tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/rtl.png"group-title="",RTL
-https://s6.hopslan.com/rtlc11/tracks-v1a1/mono.m3u8
+https://webtvstream.bhtelecom.ba/hls16/rtl_de_1200.m3u8
 #EXTINF:-1 tvg-name="SAT.1"tvg-id="SAT.1"tvg-logo="https://raw.githubusercontent.com/Vasilich/mediaportal-german-logos/master/tv/Sat.1.png"group-title="",SAT.1
-https://s6.hopslan.com/sat1x11/tracks-v1a1/mono.m3u8
+https://webtvstream.bhtelecom.ba/hls13/sat1_1200.m3u8
 #EXTINF:-1 tvg-name="VOX"tvg-id="VOX"tvg-logo="https://github.com/Vasilich/mediaportal-german-logos/blob/master/tv/VOX.png"group-title="",VOX
 https://s6.hopslan.com/voxx1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="RTLZWEI"tvg-id="RTLZWEI"tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/rtl2.png"group-title="",RTLZWEI
@@ -61,7 +61,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-name="ANIXE HD"tvg-id="Anixe.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/anixehd.png"group-title="Spartenprogramm",ANIXE HD
 https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
 #EXTINF:-1 tvg-name="TELE 5"tvg-id="TELE 5"tvg-logo=""group-title="",TELE 5
-http://filex.tv:8080/mIltsmilts/958585219/293452
+https://s6.hopslan.com/tele5x1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Dokusat"tvg-id="Dokusat.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/dokusat.png"group-title="Spartenprogramm",Dokusat
 https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
 #EXTINF:-1 tvg-name="NITRO"tvg-id="NITRO"tvg-logo="https://raw.githubusercontent.com/Vasilich/mediaportal-german-logos/master/tv/RTL%20Nitro%20HD.png"group-title="",NITRO
