@@ -13,7 +13,7 @@ https://mix.streamsport.net:8080/hls/5kanal/playlist.m3u8?wmsAuthSign=c2VydmVyX3
 #EXTINF:-1 tvg-id="sts"tvg-logo="https://i.imgur.com/ilUzAeb.png"group-title="":http-user-agent="",СТС
 https://tvcdnpotok.com/sts_/index.m3u8?wmsAuthSign=877c01a8eb4d2c9e05c9c3952a147aa0-1742567089-15i402i242i2
 #EXTINF:-1 tvg-id="domashnij"tvg-logo="https://i.imgur.com/XVRwgom.png"group-title="":http-user-agent="",Домашний
-https://s.tivix.co/561/index.m3u8?k=1742516730p101i802i242i2S2de104d68a3f435830493b02ab524e4c
+https://s.tivix.co/561/index.m3u8?k=1742567089p15i402i242i2Sd270b72f717c6698255e0a19dd5aad3b
 #EXTINF:-1 tvg-id="enisey"tvg-logo="https://i.imgur.com/57deE7f.png"group-title="Undefined":http-user-agent="",Енисей
 http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-3"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TV-3_logo_%282015%29.png/512px-TV-3_logo_%282015%29.png"group-title="Entertainment":http-user-agent="",ТВ3
