@@ -35,7 +35,7 @@ https://s.viks.tv/547/index.m3u8?k=1746571521p16i63i31i77S5a87c8d86940a4c725dc1e
 #EXTINF:-1 tvg-id="cinema"tvg-logo="https://epgx.site/p/cinema.png"group-title="":http-user-agent="",Cinema ?
 http://50.7.88.61:81/cinema/index.m3u8?wmsAuthSign=3b233f2d12fd4eb51ebe7099edcd7998-1746455324-442i701i191i77
 #EXTINF:-1 tvg-id="ostrosyuzhetnoe-hd"tvg-logo="https://i.imgur.com/xGIEXoa.png"group-title="Undefined":http-user-agent="",Остросюжетное
-http://50.7.88.61:81/ostrosujetnoe/index.m3u8?wmsAuthSign=7fc73d0bd0e230e5e355b1785bb366ca-1746446060-442i701i191i77
+http://50.7.88.61:81/ostrosujetnoe/index.m3u8?wmsAuthSign=f87e6299527fcc187f0f243ff84650ba-1746626807-711i421i191i77
 #EXTINF:-1 tvg-id="dom-kino"tvg-logo="https://epgx.site/p/domkino.png"group-title="Русский кинозал":http-user-agent="",Дом Кино
 https://stream01.vnet.am/DomKino/mono.m3u8
 #EXTINF:-1 tvg-id="dom-kino-premium"tvg-logo="https://epgx.site/p/domkino-premium.png"group-title="Русский кинозал":http-user-agent="",Дом кино Премиум
