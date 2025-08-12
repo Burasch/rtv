@@ -11,7 +11,7 @@ https://mix.streamsport.net:8080/hls/ntv/playlist.m3u8?wmsAuthSign=c2VydmVyX3Rpb
 #EXTINF:-1 tvg-id="pyatyj-kanal"tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-pyatuyi-kanal.png"group-title="":http-user-agent="",Пятый Канал
 https://mix.streamsport.net:8080/hls/5kanal/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMi8yMDI1IDU6NDY6MDMgQU0maGFzaF92YWx1ZT01MUR2MHVzRElzK2p6R1JhWnYrbW5RPT0mdmFsaWRtaW51dGVzPTYwJmlkPSZjaGVja2lwPXRydWU=
 #EXTINF:-1 tvg-id="sts"tvg-logo="https://i.imgur.com/ilUzAeb.png"group-title="":http-user-agent="",СТС
-https://tvcdnpotok.com/sts_/index.m3u8?wmsAuthSign=e6c91b0f727cfe6d9b7465f99010c988-1754954695-291i102i422i29
+https://tvcdnpotok.com/sts_/index.m3u8?wmsAuthSign=7cecd6fd0745d111efd5876d9b88e187-1754995593-002i502i242i2
 #EXTINF:-1 tvg-id="domashnij"tvg-logo="https://i.imgur.com/XVRwgom.png"group-title="":http-user-agent="",Домашний
 https://s.tivix.co/561/index.m3u8?k=1754954696p291i102i422i29Se039cd1db8d39cf2ebbec06f8cd33e08
 #EXTINF:-1 tvg-id="enisey"tvg-logo="https://i.imgur.com/57deE7f.png"group-title="Undefined":http-user-agent="",Енисей
