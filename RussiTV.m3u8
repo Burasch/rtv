@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="pervyj-kanal"tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-perviy-kanal-hd.png"group-title="Undefined":http-user-agent="",ПЕРВЫЙ КАНАЛ
 https://s.viks.tv/540/index.m3u8?k=1756635212p542i442i422i29S0e7cbd21e0b2383530f808534b811659
 #EXTINF:-1 tvg-id="rossiya-1"tvg-logo="https://iconape.com/wp-content/files/mu/285489/png/285489.png"group-title="":http-user-agent="",Россия 1
-https://mix.streamsport.net:8080/hls/r1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zMS8yMDI1IDU6MTM6MTQgQU0maGFzaF92YWx1ZT02SGRMNUFtRTRLNUcwUHF5cEV4cC93PT0mdmFsaWRtaW51dGVzPTYwJmlkPSZjaGVja2lwPXRydWU=
+https://mix.streamsport.net:8080/hls/r1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zMS8yMDI1IDc6NTY6NTAgQU0maGFzaF92YWx1ZT1OWXZockN0S1VpOEk5TlBWM3Jwc1pBPT0mdmFsaWRtaW51dGVzPTYwJmlkPSZjaGVja2lwPXRydWU=
 #EXTINF:-1 tvg-id="rossiya-24"tvg-logo="https://ntvplus.tv/files/image/01/17/61/z0z.png"group-title="":http-user-agent="",Россия 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia24-sd/index.m3u8
 #EXTINF:-1 tvg-id="ntv"tvg-logo="https://bosts-online.my1.ru/4logoTV/ntv111.png"group-title="":http-user-agent="",НТВ
