@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="pervyj-kanal"tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-perviy-kanal-hd.png"group-title="Undefined":http-user-agent="",ПЕРВЫЙ КАНАЛ
 http://www.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e?s=60&d=mm
 #EXTINF:-1 tvg-id="rossiya-1"tvg-logo="https://iconape.com/wp-content/files/mu/285489/png/285489.png"group-title="":http-user-agent="",Россия 1
-https://tv.tvcdnpotok.com/544/index.m3u8?wmsAuthSign=f92a4b1db452e2522248ed471b20e985-1760723532-121i441i16i5
+https://tv.tvcdnpotok.com/2094/index.m3u8?wmsAuthSign=8bad12227561e345a2411f8d066e8339-1760915665-121i441i16i5
 #EXTINF:-1 tvg-id="rossiya-24"tvg-logo="https://ntvplus.tv/files/image/01/17/61/z0z.png"group-title="":http-user-agent="",Россия 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia24-sd/index.m3u8
 #EXTINF:-1 tvg-id="ntv"tvg-logo="https://bosts-online.my1.ru/4logoTV/ntv111.png"group-title="":http-user-agent="",НТВ
