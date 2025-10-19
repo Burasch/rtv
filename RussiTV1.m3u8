@@ -37,7 +37,7 @@ http://www.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e?s=60&d=mm
 #EXTINF:-1 tvg-id="cinema"tvg-logo="https://epgx.site/p/cinema.png"group-title="":http-user-agent="",Cinema ?
 https://tv.tvcdnpotok.com/cinema/index.m3u8?wmsAuthSign=f2a85cba69660aad7cff08f891296f87-1760915704-121i441i16i5
 #EXTINF:-1 tvg-id="ostrosyuzhetnoe-hd"tvg-logo="https://i.imgur.com/xGIEXoa.png"group-title="Undefined":http-user-agent="",Остросюжетное
-https://tv.tvcdnpotok.com/ostrosujetnoe/index.m3u8?wmsAuthSign=94875b8dd3396ac5ed92994d43a0898e-1760723575-121i441i16i5
+https://tv.tvcdnpotok.com/ostrosujetnoe/index.m3u8?wmsAuthSign=3fa08e8e19946afcf94d90f703857f9f-1760915708-121i441i16i5
 #EXTINF:-1 tvg-id="dom-kino"tvg-logo="https://epgx.site/p/domkino.png"group-title="Русский кинозал":http-user-agent="",Дом Кино
 https://stream01.vnet.am/DomKino/mono.m3u8
 #EXTINF:-1 tvg-id="dom-kino-premium"tvg-logo="https://epgx.site/p/domkino-premium.png"group-title="Русский кинозал":http-user-agent="",Дом кино Премиум
