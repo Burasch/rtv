@@ -12,7 +12,7 @@ https://mix.streamsport.net:8080/hls/ntv/playlist.m3u8?wmsAuthSign=c2VydmVyX3Rpb
 #EXTINF:-1 tvg-id="pyatyj-kanal"tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-pyatuyi-kanal.png"group-title="":http-user-agent="",Пятый Канал
 https://l.cdn-fileserver.com/bping.php?vgd_setup=c21&hvsid=00001760382567048000879206401412&gdpr=1&wshp=0&lf=6&cc=DE&sc=BE&wsip=170763778&crid=342704488&vgd_bid=368225&vgd_asn=58243&vgd_rpth=/ola&r=1760382567050&vgd_tsce=L1016&vgd_l2type=dmola&prid=8PR11258V&ugd=4&lper=100&ssld={"QQNN":"r4","QQN75":"GJLj8z","QQ8E":"","QQQN":"R4"}&vgd_cdv=O2360&cid=8CU7G8B38&requrl=https://onlinetv.one&vgd_cage=4&vgd_oreqf=one&vi=1760382567965340670&mspa=0&vgd_oresf=one&vgd_wlstp=0&vgd_len=546&vgd_end=1
 #EXTINF:-1 tvg-id="sts"tvg-logo="https://i.imgur.com/ilUzAeb.png"group-title="":http-user-agent="",СТС
-https://tvcdnpotok.com/HT6hM2C2ZCag5rzU3I5bMg/591/1761186318/index.m3u8
+https://tvcdnpotok.com/LASfDHs_17BMsnga32tkaw/591/1761186593/index.m3u8
 #EXTINF:-1 tvg-id="domashnij"tvg-logo="https://i.imgur.com/XVRwgom.png"group-title="":http-user-agent="",Домашний
 https://s.tivix.co/561/index.m3u8?k=1761186325p121i441i16i5S6ab15b5130323465a3587ce5201c854d
 #EXTINF:-1 tvg-id="enisey"tvg-logo="https://i.imgur.com/57deE7f.png"group-title="Undefined":http-user-agent="",Енисей
