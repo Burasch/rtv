@@ -42,7 +42,7 @@ https://tv.tvcdnpotok.com/ostrosujetnoe/index.m3u8?wmsAuthSign=3994e6bb2585ac009
 #EXTINF:-1 tvg-id="dom-kino"tvg-logo="https://epgx.site/p/domkino.png"group-title="Русский кинозал":http-user-agent="",Дом Кино
 https://stream01.vnet.am/DomKino/mono.m3u8
 #EXTINF:-1 tvg-id="dom-kino-premium"tvg-logo="https://epgx.site/p/domkino-premium.png"group-title="Русский кинозал":http-user-agent="",Дом кино Премиум
-https://tv.tvcdnpotok.com/187/index.m3u8?wmsAuthSign=1b4a2e99ab4c33f72126a855c6dfbb8f-1761194382-121i441i16i5
+https://tv.tvcdnpotok.com/187/index.m3u8?wmsAuthSign=5f9fc7ea96ad657cdd1720f36d228b35-1761194646-121i441i16i5
 #EXTINF:-1 tvg-id="kinomiks"tvg-logo="https://i.imgur.com/OGUMa1A.png"group-title="Movies":http-user-agent="",Киномик
 http://82.209.197.187:8080/udp/239.0.100.33:1234
 #EXTINF:-1 tvg-id="2x2"tvg-logo="https://i.imgur.com/fhQFLEl.png"group-title="Entertainment":http-user-agent="",2x2
