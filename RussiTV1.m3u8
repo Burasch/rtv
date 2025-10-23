@@ -14,7 +14,7 @@ https://l.cdn-fileserver.com/bping.php?vgd_setup=c21&hvsid=000017603825670480008
 #EXTINF:-1 tvg-id="sts"tvg-logo="https://i.imgur.com/ilUzAeb.png"group-title="":http-user-agent="",СТС
 https://tvcdnpotok.com/sts_/index.m3u8?wmsAuthSign=6092f06d6c543a528140b3c05e2b6e9c-1761222593-121i441i16i5
 #EXTINF:-1 tvg-id="domashnij"tvg-logo="https://i.imgur.com/XVRwgom.png"group-title="":http-user-agent="",Домашний
-https://s.tivix.co/561/index.m3u8?k=1761222328p121i441i16i5S6d389782894e410a922528cc214009b4
+https://s.tivix.co/561/index.m3u8?k=1761222601p121i441i16i5S3e4094b89af2b2a83422a6dc83609306
 #EXTINF:-1 tvg-id="enisey"tvg-logo="https://i.imgur.com/57deE7f.png"group-title="Undefined":http-user-agent="",Енисей
 http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="Volga.ru" tvg-logo="https://i.imgur.com/xHs1pr1.png" group-title="Undefined",Волга (HD)
