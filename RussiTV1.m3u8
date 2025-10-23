@@ -1,7 +1,7 @@
 #EXTM3U m3uautoload=1 deinterlace=1 #EXTM3U url-tvg="http://epg.it999.ru/ru2.xml.gz, https://iptvx.one/epg/epg.xml.gz" catchup="append" catchup-source="&offset=-${offset}&utcstart=${timestamp}" catchup-days="3" cache=1500
 
 #EXTINF:-1 tvg-id="pervyj-kanal"tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-perviy-kanal-hd.png"group-title="Undefined":http-user-agent="",ПЕРВЫЙ КАНАЛ
-https://s.viks.tv/540/index.m3u8?k=1761237594p121i441i16i5S1f2f85831540e0253075d6cf64ca3330
+https://s.viks.tv/540/index.m3u8?k=1761237859p121i441i16i5S7392661469bdc779993717493f0b246b
 https://s.viks.tv/540/index.m3u8?k=1761177419p121i441i16i5S540c0b343b08b4412fcb9e2dd98f0181
 #EXTINF:-1 tvg-id="rossiya-1"tvg-logo="https://iconape.com/wp-content/files/mu/285489/png/285489.png"group-title="":http-user-agent="",Россия 1
 https://tv.tvcdnpotok.com/544/index.m3u8?wmsAuthSign=8381d5a269ab793fe2c6caa349bfd22a-1761237607-121i441i16i5
