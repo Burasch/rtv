@@ -24,7 +24,7 @@ https://region1.google-analytics.com/g/collect?v=2&tid=G-YN58F63ED0&gtm=45je4cc1
 #EXTINF:-1 tvg-id="tv-rain"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Tvrain.svg/311px-Tvrain.svg.png"group-title="":http-user-agent="",TVRain
 https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
 #EXTINF:-1 tvg-id="pyatnitsa"tvg-logo="https://i.imgur.com/N2z3EZC.png"group-title="Entertainment":http-user-agent="",Пятница!
-https://tvcdnpotok.com/pjatnica/index.m3u8?wmsAuthSign=94ec2ae061ae2953c096f8992d4b66d5-1761215412-121i441i16i5
+https://tvcdnpotok.com/pjatnica/index.m3u8?wmsAuthSign=21d0d40117732346daf4a3ead9eea2a1-1761215683-121i441i16i5
 #EXTINF:-1 tvg-id="zvezda"tvg-logo="https://i.imgur.com/4PAcpfM.png"group-title="General":http-user-agent="",Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
 #EXTINF:-1 tvg-id="mir"tvg-logo="https://i.imgur.com/CrFWXTD.png"group-title="Undefined":http-user-agent="",Мир
