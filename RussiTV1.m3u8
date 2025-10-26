@@ -12,7 +12,7 @@ https://tvcdnpotok.com/AE5VSbTqVyJpozP1x96zjQ/106/1761506629/index.m3u8
 #EXTINF:-1 tvg-id="tnt" group-title="Russia TV",Tnt
 https://s.viks.tv/547/index.m3u8?k=1761506636p121i441i16i5Se79980982a3001cb59f4f6c0a6d9ff2f
 #EXTINF:-1 tvg-id="cinema" group-title="Russia TV",Cinema
-http://192.168.178.38:8085/stream/cinema
+https://tv.tvcdnpotok.com/cinema/index.m3u8?wmsAuthSign=7acc1a00eed55086172d3ff2f25d605e-1761506648-121i441i16i5
 #EXTINF:-1 tvg-id="ostrosyuzhetnoe-hd" group-title="Russia TV",Ostrosyuzhetnoe Hd
 http://192.168.178.38:8085/stream/ostrosyuzhetnoe-hd
 #EXTINF:-1 tvg-id="dom-kino-premium" group-title="Russia TV",Dom Kino Premium
