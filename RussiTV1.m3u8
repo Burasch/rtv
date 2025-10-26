@@ -4,7 +4,7 @@ https://s.viks.tv/540/index.m3u8?k=1761506544p121i441i16i5S305a033867c75ad123b99
 #EXTINF:-1 tvg-id="rossiya-1" group-title="Russia TV",Rossiya 1
 https://tv.tvcdnpotok.com/544/index.m3u8?wmsAuthSign=45b50e038b323c72133eb4f4a86c97ea-1761506557-121i441i16i5
 #EXTINF:-1 tvg-id="sts" group-title="Russia TV",Sts
-http://192.168.178.38:8085/stream/sts
+https://tvcdnpotok.com/NNr-EM_blAK4Ok2FbPMyMw/591/1761506606/index.m3u8
 #EXTINF:-1 tvg-id="domashnij" group-title="Russia TV",Domashnij
 http://192.168.178.38:8085/stream/domashnij
 #EXTINF:-1 tvg-id="pyatnitsa" group-title="Russia TV",Pyatnitsa
