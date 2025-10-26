@@ -14,4 +14,4 @@ https://s.viks.tv/547/index.m3u8?k=1761507662p121i441i16i5S5ede1bfce62057da09d92
 #EXTINF:-1 tvg-id="cinema" group-title="Russia TV",Cinema
 https://tv.tvcdnpotok.com/cinema/index.m3u8?wmsAuthSign=db350583ea3bbb39722a309b9d4f8168-1761507674-121i441i16i5
 #EXTINF:-1 tvg-id="dom-kino-premium" group-title="Russia TV",Dom Kino Premium
-http://192.168.178.38:8085/stream/dom-kino-premium
+https://tv.tvcdnpotok.com/187/index.m3u8?wmsAuthSign=04ba07ad43506134dfd4301f9599b6ce-1761507690-121i441i16i5
