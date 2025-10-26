@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="pervyj-kanal" group-title="Russia TV",Pervyj Kanal
 https://s.viks.tv/540/index.m3u8?k=1761506544p121i441i16i5S305a033867c75ad123b9986eeec043bb
 #EXTINF:-1 tvg-id="rossiya-1" group-title="Russia TV",Rossiya 1
-http://192.168.178.38:8085/stream/rossiya-1
+https://tv.tvcdnpotok.com/544/index.m3u8?wmsAuthSign=45b50e038b323c72133eb4f4a86c97ea-1761506557-121i441i16i5
 #EXTINF:-1 tvg-id="sts" group-title="Russia TV",Sts
 http://192.168.178.38:8085/stream/sts
 #EXTINF:-1 tvg-id="domashnij" group-title="Russia TV",Domashnij
