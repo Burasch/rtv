@@ -16,4 +16,4 @@ https://tv.tvcdnpotok.com/cinema/index.m3u8?wmsAuthSign=7acc1a00eed55086172d3ff2
 #EXTINF:-1 tvg-id="ostrosyuzhetnoe-hd" group-title="Russia TV",Ostrosyuzhetnoe Hd
 http://192.168.178.38:8085/stream/ostrosyuzhetnoe-hd
 #EXTINF:-1 tvg-id="dom-kino-premium" group-title="Russia TV",Dom Kino Premium
-http://192.168.178.38:8085/stream/dom-kino-premium
+https://tv.tvcdnpotok.com/187/index.m3u8?wmsAuthSign=883df1e605a47b765b2905cea408476e-1761506663-121i441i16i5
