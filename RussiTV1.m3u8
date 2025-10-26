@@ -1,19 +1,17 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="pervyj-kanal" group-title="Russia TV",Pervyj Kanal
-https://s.viks.tv/540/index.m3u8?k=1761506544p121i441i16i5S305a033867c75ad123b9986eeec043bb
+http://192.168.178.38:8085/stream/pervyj-kanal
 #EXTINF:-1 tvg-id="rossiya-1" group-title="Russia TV",Rossiya 1
-https://tv.tvcdnpotok.com/544/index.m3u8?wmsAuthSign=45b50e038b323c72133eb4f4a86c97ea-1761506557-121i441i16i5
+http://192.168.178.38:8085/stream/rossiya-1
 #EXTINF:-1 tvg-id="sts" group-title="Russia TV",Sts
-https://tvcdnpotok.com/NNr-EM_blAK4Ok2FbPMyMw/591/1761506606/index.m3u8
+http://192.168.178.38:8085/stream/sts
 #EXTINF:-1 tvg-id="domashnij" group-title="Russia TV",Domashnij
-https://s.tivix.co/561/index.m3u8?k=1761506613p121i441i16i5Sbcd1628e2c1310ac0c59831cd73941a1
+http://192.168.178.38:8085/stream/domashnij
 #EXTINF:-1 tvg-id="pyatnitsa" group-title="Russia TV",Pyatnitsa
-https://tvcdnpotok.com/AE5VSbTqVyJpozP1x96zjQ/106/1761506629/index.m3u8
+http://192.168.178.38:8085/stream/pyatnitsa
 #EXTINF:-1 tvg-id="tnt" group-title="Russia TV",Tnt
-https://s.viks.tv/547/index.m3u8?k=1761506636p121i441i16i5Se79980982a3001cb59f4f6c0a6d9ff2f
+http://192.168.178.38:8085/stream/tnt
 #EXTINF:-1 tvg-id="cinema" group-title="Russia TV",Cinema
-https://tv.tvcdnpotok.com/cinema/index.m3u8?wmsAuthSign=7acc1a00eed55086172d3ff2f25d605e-1761506648-121i441i16i5
-#EXTINF:-1 tvg-id="ostrosyuzhetnoe-hd" group-title="Russia TV",Ostrosyuzhetnoe Hd
-http://192.168.178.38:8085/stream/ostrosyuzhetnoe-hd
+http://192.168.178.38:8085/stream/cinema
 #EXTINF:-1 tvg-id="dom-kino-premium" group-title="Russia TV",Dom Kino Premium
-https://tv.tvcdnpotok.com/187/index.m3u8?wmsAuthSign=883df1e605a47b765b2905cea408476e-1761506663-121i441i16i5
+http://192.168.178.38:8085/stream/dom-kino-premium
