@@ -6,7 +6,7 @@ https://tv.tvcdnpotok.com/544/index.m3u8?wmsAuthSign=45b50e038b323c72133eb4f4a86
 #EXTINF:-1 tvg-id="sts" group-title="Russia TV",Sts
 https://tvcdnpotok.com/NNr-EM_blAK4Ok2FbPMyMw/591/1761506606/index.m3u8
 #EXTINF:-1 tvg-id="domashnij" group-title="Russia TV",Domashnij
-http://192.168.178.38:8085/stream/domashnij
+https://s.tivix.co/561/index.m3u8?k=1761506613p121i441i16i5Sbcd1628e2c1310ac0c59831cd73941a1
 #EXTINF:-1 tvg-id="pyatnitsa" group-title="Russia TV",Pyatnitsa
 http://192.168.178.38:8085/stream/pyatnitsa
 #EXTINF:-1 tvg-id="tnt" group-title="Russia TV",Tnt
