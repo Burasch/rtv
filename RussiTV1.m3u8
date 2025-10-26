@@ -35,7 +35,7 @@ http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="tnt"tvg-logo="https://televizor24tochka.ru/logo/100/tnt.png":http-user-agent="",ТНТ
 https://s.viks.tv/547/index.m3u8?k=1761485878p121i441i16i5Seea483bc44eae3eda5a0165d2bbca9d9
 #EXTINF:-1 tvg-id="cinema"tvg-logo="https://epgx.site/p/cinema.png"group-title="":http-user-agent="",Cinema ?
-https://tv.tvcdnpotok.com/cinema/index.m3u8?wmsAuthSign=c6a29714fc6b0b2836d3799191cbb638-1761485632-121i441i16i5
+https://tv.tvcdnpotok.com/cinema/index.m3u8?wmsAuthSign=f592eb17beb7e8618b3fbcc52dd11ff4-1761485890-121i441i16i5
 #EXTINF:-1 tvg-id="ostrosyuzhetnoe-hd"tvg-logo="https://i.imgur.com/xGIEXoa.png"group-title="Undefined":http-user-agent="",Остросюжетное
 https://tv.tvcdnpotok.com/ostrosujetnoe/index.m3u8?wmsAuthSign=d800c1f844317bb18261b99c90360a2d-1761485641-121i441i16i5
 #EXTINF:-1 tvg-id="dom-kino"tvg-logo="https://epgx.site/p/domkino.png"group-title="Русский кинозал":http-user-agent="",Дом Кино
