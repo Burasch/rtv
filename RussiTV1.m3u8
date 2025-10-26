@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="pervyj-kanal" group-title="Russia TV",Pervyj Kanal
-http://192.168.178.38:8085/stream/pervyj-kanal
+https://s.viks.tv/540/index.m3u8?k=1761507572p121i441i16i5Sf918bd0c77346dcdeef7efff16fcce1f
 #EXTINF:-1 tvg-id="rossiya-1" group-title="Russia TV",Rossiya 1
 http://192.168.178.38:8085/stream/rossiya-1
 #EXTINF:-1 tvg-id="sts" group-title="Russia TV",Sts
