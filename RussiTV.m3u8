@@ -13,7 +13,7 @@ https://mix.streamsport.net:8080/hls/5kanal/playlist.m3u8?wmsAuthSign=c2VydmVyX3
 #EXTINF:-1 tvg-id="sts"tvg-logo="https://i.imgur.com/ilUzAeb.png"group-title="":http-user-agent="",СТС
 https://tvcdnpotok.com/sts_/index.m3u8?wmsAuthSign=9662e778a095472d349b244bc562cb6b-1762616297-332i261i881i77
 #EXTINF:-1 tvg-id="domashnij"tvg-logo="https://i.imgur.com/XVRwgom.png"group-title="":http-user-agent="",Домашний
-https://s.tivix.co/561/index.m3u8?k=1762607438p332i261i881i77S3ed9597981989eddd9bd62038469fe66
+https://s.tivix.co/561/index.m3u8?k=1762616299p332i261i881i77S78eed3ee6daf88fd85c872d2ab281d0f
 #EXTINF:-1 tvg-id="enisey"tvg-logo="https://i.imgur.com/57deE7f.png"group-title="Undefined":http-user-agent="",Енисей
 http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="Volga.ru" tvg-logo="https://i.imgur.com/xHs1pr1.png" group-title="Undefined",Волга (HD)
