@@ -33,7 +33,7 @@ https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-mir-belogorya.jpg"group-title="":http-user-agent="",Мир Белогорья
 http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="tnt"tvg-logo="https://televizor24tochka.ru/logo/100/tnt.png":http-user-agent="",ТНТ
-https://s.viks.tv/547/index.m3u8?k=1763757300p05i702i45i87Sb3cb56d1d19c3579a34aac207e364612
+https://s.viks.tv/547/index.m3u8?k=1763823898p57i122i422i29S4d9e93cfc193f572e6b756d825624a3f
 #EXTINF:-1 tvg-id="cinema"tvg-logo="https://epgx.site/p/cinema.png"group-title="":http-user-agent="",Cinema ?
 https://cdntvmedia.com/player/playerjs.html?file=https://tv.tvcdnpotok.com/cinema/index.m3u8?wmsAuthSign=b424f8222008539687a3d350314f4753-1763665874-212i011i21i98%20or%20https://tv.tvcdnpotok.com/cinema/index.m3u8?wmsAuthSign=b424f8222008539687a3d350314f4753-1763665874-212i011i21i98b424f8222008539687a3d350314f4753-1763665874-212i011i21i98
 #EXTINF:-1 tvg-id="ostrosyuzhetnoe-hd"tvg-logo="https://i.imgur.com/xGIEXoa.png"group-title="Undefined":http-user-agent="",Остросюжетное
