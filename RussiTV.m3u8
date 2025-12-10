@@ -37,7 +37,7 @@ https://s.viks.tv/547/index.m3u8?k=1764165884p36i15i542i2S197389c671ce0e669ea208
 #EXTINF:-1 tvg-id="cinema"tvg-logo="https://epgx.site/p/cinema.png"group-title="":http-user-agent="",Cinema ?
 https://cdntvmedia.com/player/playerjs.html?file=https://tv.tvcdnpotok.com/cinema/index.m3u8?wmsAuthSign=b424f8222008539687a3d350314f4753-1763665874-212i011i21i98%20or%20https://tv.tvcdnpotok.com/cinema/index.m3u8?wmsAuthSign=b424f8222008539687a3d350314f4753-1763665874-212i011i21i98b424f8222008539687a3d350314f4753-1763665874-212i011i21i98
 #EXTINF:-1 tvg-id="ostrosyuzhetnoe-hd"tvg-logo="https://i.imgur.com/xGIEXoa.png"group-title="Undefined":http-user-agent="",Остросюжетное
-https://cdntvmedia.com/player/playerjs.html?file=https://tv.tvcdnpotok.com/ostrosujetnoe/index.m3u8?wmsAuthSign=98cac196856c2444829e5d2b42d9b29e-1763505604-02i951i542i2%20or%20https://tv.tvcdnpotok.com/ostrosujetnoe/index.m3u8?wmsAuthSign=98cac196856c2444829e5d2b42d9b29e-1763505604-02i951i542i298cac196856c2444829e5d2b42d9b29e-1763505604-02i951i542i2
+https://cdntvmedia.com/player/playerjs.html?file=https://tv.tvcdnpotok.com/ostrosujetnoe/index.m3u8?wmsAuthSign=5cef3b07b42e5c10c4f51774dde024df-1765390082-27i7i242i2%20or%20https://tv.tvcdnpotok.com/ostrosujetnoe/index.m3u8?wmsAuthSign=5cef3b07b42e5c10c4f51774dde024df-1765390082-27i7i242i25cef3b07b42e5c10c4f51774dde024df-1765390082-27i7i242i2
 #EXTINF:-1 tvg-id="dom-kino"tvg-logo="https://epgx.site/p/domkino.png"group-title="Русский кинозал":http-user-agent="",Дом Кино
 https://stream01.vnet.am/DomKino/mono.m3u8
 #EXTINF:-1 tvg-id="dom-kino-premium"tvg-logo="https://epgx.site/p/domkino-premium.png"group-title="Русский кинозал":http-user-agent="",Дом кино Премиум
