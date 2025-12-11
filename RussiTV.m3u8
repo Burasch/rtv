@@ -41,7 +41,7 @@ https://cdntvmedia.com/player/playerjs.html?file=https://tv.tvcdnpotok.com/ostro
 #EXTINF:-1 tvg-id="dom-kino"tvg-logo="https://epgx.site/p/domkino.png"group-title="Русский кинозал":http-user-agent="",Дом Кино
 https://stream01.vnet.am/DomKino/mono.m3u8
 #EXTINF:-1 tvg-id="dom-kino-premium"tvg-logo="https://epgx.site/p/domkino-premium.png"group-title="Русский кинозал":http-user-agent="",Дом кино Премиум
-https://cdntvmedia.com/player/playerjs.html?file=https://tv.tvcdnpotok.com/187/index.m3u8?wmsAuthSign=48bac0aeab6da2e8b1472d518455943e-1764199331-36i15i542i2%20or%20https://tv.tvcdnpotok.com/187/index.m3u8?wmsAuthSign=48bac0aeab6da2e8b1472d518455943e-1764199331-36i15i542i248bac0aeab6da2e8b1472d518455943e-1764199331-36i15i542i2
+https://cdntvmedia.com/player/playerjs.html?file=https://tv.tvcdnpotok.com/187/index.m3u8?wmsAuthSign=c4a130bc3952b93b436a73b117d1333c-1765483731-51i602i11i77%20or%20https://tv.tvcdnpotok.com/187/index.m3u8?wmsAuthSign=c4a130bc3952b93b436a73b117d1333c-1765483731-51i602i11i77c4a130bc3952b93b436a73b117d1333c-1765483731-51i602i11i77
 #EXTINF:-1 tvg-id="kinomiks"tvg-logo="https://i.imgur.com/OGUMa1A.png"group-title="Movies":http-user-agent="",Киномик
 http://82.209.197.187:8080/udp/239.0.100.33:1234
 #EXTINF:-1 tvg-id="2x2"tvg-logo="https://i.imgur.com/fhQFLEl.png"group-title="Entertainment":http-user-agent="",2x2
