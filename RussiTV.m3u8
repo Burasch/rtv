@@ -4,6 +4,8 @@
 https://s.viks.tv/540/index.m3u8?k=1764077178p55i902i881i77Sfa5e7ef45e61c4445656534dd54d8a5c
 #EXTINF:-1 tvg-id="rossiya-1"tvg-logo="https://iconape.com/wp-content/files/mu/285489/png/285489.png"group-title="":http-user-agent="",Россия 1
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="rossiya-1"tvg-logo="https://imgs.search.brave.com/yf5teAhoNsgPOT_nj5J9cpX--AACcahGLcuqn-IaUj8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/dHZkcmVhbS5uZXQv/aW1nL3J0ci1wbGFu/ZXRhXzQ3NngyNDku/anBn"":http-user-agent="",Planeta RTR
+https://vgtrksmotrim.cdnvideo.ru/hls/planeta_rtr_euro/playlist.m3u8?md5=p-BfldDT7bRKnveqXP8USw&e=1766433046
 #EXTINF:-1 tvg-id="rossiya-24"tvg-logo="https://ntvplus.tv/files/image/01/17/61/z0z.png"group-title="":http-user-agent="",Россия 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia24-sd/index.m3u8
 #EXTINF:-1 tvg-id="ntv"tvg-logo="https://bosts-online.my1.ru/4logoTV/ntv111.png"group-title="":http-user-agent="",НТВ
