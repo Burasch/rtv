@@ -8,5 +8,101 @@
     ],
     "stream": "",
     "referer": ""
+  },
+
+  "rossiya-1": {
+    "sources": [
+      "https://telik.live/rossiya-1.html",
+      "https://tvonline.live/rossiya-1-online.php"
+    ],
+    "stream": "",
+    "referer": ""
+  },
+
+  "ntv": {
+    "sources": [
+      "https://tvonline.live/ntv-online.php",
+      "https://telik.live/ntv.html"
+    ],
+    "stream": "",
+    "referer": ""
+  },
+
+  "pyatyj-kanal": {
+    "sources": [
+      "http://see-me.ru/online-tv/paytiy-kanal.html",
+      "https://telik.live/pyatyj-kanal.html"
+    ],
+    "stream": "",
+    "referer": ""
+  },
+
+  "sts": {
+    "sources": [
+      "http://oneliketv.net/sts.html",
+      "https://telik.live/sts.html"
+    ],
+    "stream": "",
+    "referer": ""
+  },
+
+  "domashnij": {
+    "sources": [
+      "http://ip.tivix.co/100-domashniy.html",
+      "https://telik.live/domashnij.html"
+    ],
+    "stream": "",
+    "referer": ""
+  },
+
+  "tv-3": {
+    "sources": [
+      "https://www.debilizator.tv/tv3/airtv/",
+      "https://telik.live/tv-3.html"
+    ],
+    "stream": "",
+    "referer": ""
+  },
+
+  "pyatnitsa": {
+    "sources": [
+      "http://oneliketv.net/pyatnitsa.html",
+      "https://telik.live/pyatnitsa.html"
+    ],
+    "stream": "",
+    "referer": ""
+  },
+
+  "tnt": {
+    "sources": [
+      "http://ip.viks.tv/333-tnt_tv_v1.html",
+      "https://telik.live/tnt.html"
+    ],
+    "stream": "",
+    "referer": ""
+  },
+
+  "cinema": {
+    "sources": [
+      "https://telik.live/cinema.html"
+    ],
+    "stream": "",
+    "referer": ""
+  },
+
+  "ostrosyuzhetnoe-hd": {
+    "sources": [
+      "https://telik.live/ostrosyuzhetnoe-hd.html"
+    ],
+    "stream": "",
+    "referer": ""
+  },
+
+  "dom-kino-premium": {
+    "sources": [
+      "https://telik.live/dom-kino-premium.html"
+    ],
+    "stream": "",
+    "referer": ""
   }
 }
