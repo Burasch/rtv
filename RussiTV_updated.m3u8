@@ -1,0 +1,3 @@
+#EXTM3U url-tvg="http://epg.it999.ru/ru2.xml.gz"
+#EXTINF:-1 tvg-id="domashnij" tvg-logo="https://i.imgur.com/XVRwgom.png", DOMASHNIJ
+https://tvcdnpotok.com/domashni/index.m3u8?wmsAuthSign=d56a8ce926c620bf85ba280b29221fe7-1766798931-8i441i16i5
