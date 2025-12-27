@@ -81,7 +81,9 @@
   "Волга": {
     "sources": [
       "https://www.volga-tv.ru/live/"
-    ],  
+    ],
+    "stream": "",
+    "referer": ""
   },
   "dom-kino": {
     "sources": [
