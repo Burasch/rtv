@@ -1,31 +1,31 @@
 #EXTM3U url-tvg="http://epg.it999.ru/ru2.xml.gz"
 #EXTINF:-1 tvg-id="rossiya-1" tvg-logo="https://iconape.com/wp-content/files/mu/285489/png/285489.png", ROSSIYA-1
-https://tv.tvcdnpotok.com/544/index.m3u8?wmsAuthSign=888e175785523eedbc01b1b46dd67fc8-1766871924-8i441i16i5
+https://tv.tvcdnpotok.com/544/index.m3u8?wmsAuthSign=849cb753ce7535de0088b893af7789db-1766872823-8i441i16i5
 #EXTINF:-1 tvg-id="ntv" tvg-logo="https://bosts-online.my1.ru/4logoTV/ntv111.png", NTV
-https://tv.tvcdnpotok.com/537/index.m3u8?wmsAuthSign=7842ac094d4fd507842cfb47eb846c37-1766871935-8i441i16i5
+https://tv.tvcdnpotok.com/HV7L-tb7keKnNIvggwujOQ/537/1766872835/index.m3u8
 #EXTINF:-1 tvg-id="tnt" tvg-logo="https://televizor24tochka.ru/logo/100/tnt.png", TNT
-https://tvcdnpotok.com/oerf1tUmGrZsutCloDckqg/547/1766871950/index.m3u8
+https://tvcdnpotok.com/tnt/index.m3u8?wmsAuthSign=d80a97e42e85a85d1276cd3d99b4dbfd-1766872850-8i441i16i5
 #EXTINF:-1 tvg-id="sts" tvg-logo="https://i.imgur.com/ilUzAeb.png", STS
-https://tvcdnpotok.com/sts_/index.m3u8?wmsAuthSign=a995d4a98241afeda7bc04b5dec8c59f-1766871959-8i441i16i5
+https://tvcdnpotok.com/LIQap4_Kx0CRJVI0spk0Cw/591/1766872862/index.m3u8
 #EXTINF:-1 tvg-id="mir" tvg-logo="https://i.imgur.com/CrFWXTD.png", MIR
 https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="domashnij" tvg-logo="https://i.imgur.com/XVRwgom.png", DOMASHNIJ
-https://tvcdnpotok.com/domashni/index.m3u8?wmsAuthSign=c91357951dcd00f39dd0f64f807c3cb4-1766871984-8i441i16i5
+https://tvcdnpotok.com/domashni/index.m3u8?wmsAuthSign=3c94bf90fa99c84e9932467ea3a466fe-1766872887-8i441i16i5
 #EXTINF:-1 tvg-id="5-kanal" tvg-logo="", 5-KANAL
-https://tvcdnpotok.com/E_5t4X1w-8-CAv5qmT6BtQ/524/1766871999/index.m3u8
+https://tvcdnpotok.com/5kanal/index.m3u8?wmsAuthSign=eed79b825b182bc9ea272df50dcc2af9-1766872904-8i441i16i5
 #EXTINF:-1 tvg-id="dom-kino" tvg-logo="https://epgx.site/p/domkino.png", DOM-KINO
-https://tv.tvcdnpotok.com/186/index.m3u8?wmsAuthSign=7399eb1063e58f203ab6374f9f87edf9-1766872009-8i441i16i5
+https://tv.tvcdnpotok.com/186/index.m3u8?wmsAuthSign=d63353f513bff254c7a58f4f012866c4-1766872914-8i441i16i5
 #EXTINF:-1 tvg-id="dom-kino-premium" tvg-logo="https://epgx.site/p/domkino-premium.png", DOM-KINO-PREMIUM
-https://tv.tvcdnpotok.com/V3Jmd3Kz-s7UqBGs-gkPCA/187/1766872022/index.m3u8
+https://tv.tvcdnpotok.com/187/index.m3u8?wmsAuthSign=573c25839a3a1ba62eb1836198948b61-1766872925-8i441i16i5
 #EXTINF:-1 tvg-id="mosfilm" tvg-logo="", MOSFILM
-https://tv.tvcdnpotok.com/235/index.m3u8?wmsAuthSign=1eb7e51b2edeb07a6e418287e4beea77-1766872032-8i441i16i5
+https://tv.tvcdnpotok.com/9gpfQwAXVGDq1L_j9M9iTA/235/1766872939/index.m3u8
 #EXTINF:-1 tvg-id="ostrosyuzhetnoe-hd" tvg-logo="https://i.imgur.com/xGIEXoa.png", OSTROSYUZHETNOE-HD
-https://tv.tvcdnpotok.com/ostrosujetnoe/index.m3u8?wmsAuthSign=902281227f9bbc111cea607cd3af1c21-1766872043-8i441i16i5
+https://tv.tvcdnpotok.com/ostrosujetnoe/index.m3u8?wmsAuthSign=fdf2bee17778a8ed6a9f54da256d0df2-1766872950-8i441i16i5
 #EXTINF:-1 tvg-id="sony-sci-fi" tvg-logo="", SONY-SCI-FI
-https://tv.tvcdnpotok.com/sony_sci_fi/index.m3u8?wmsAuthSign=0de2f2c24cee51eed53ab756914b6530-1766872054-8i441i16i5
+https://tv.tvcdnpotok.com/sony_sci_fi/index.m3u8?wmsAuthSign=e98f5b1c1044c983f3be966c3c0d6e67-1766872961-8i441i16i5
 #EXTINF:-1 tvg-id="zvezda" tvg-logo="https://i.imgur.com/4PAcpfM.png", ZVEZDA
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
 #EXTINF:-1 tvg-id="nickelodeon" tvg-logo="", NICKELODEON
-https://tv.tvcdnpotok.com/155/index.m3u8?wmsAuthSign=5568ab246856089d123bf8b4d100c828-1766872108-8i441i16i5
+https://tv.tvcdnpotok.com/155/index.m3u8?wmsAuthSign=c5ca690451a697dc3c44fbf3dfe2599f-1766873012-8i441i16i5
 #EXTINF:-1 tvg-id="disney" tvg-logo="", DISNEY
-https://tvcdnpotok.com/hP96fZib_Ck_UW2ry69e6Q/154/1766872118/index.m3u8
+https://tvcdnpotok.com/disney/index.m3u8?wmsAuthSign=3a87f70156bee60d2278f02cf4b9991f-1766873023-8i441i16i5
