@@ -78,7 +78,7 @@
     "stream": "",
     "referer": ""
   },
-  "Волга": {
+  "volga": {
     "sources": [
       "https://www.volga-tv.ru/live/"
     ],
@@ -155,30 +155,4 @@
   "zvezda": {
     "sources": [
       "http://live.viks.tv/349-zvezda_1.html",
-      "https://telik.live/zvezda.html",
-      "http://oneliketv.net/zvezda.html",
-      "http://live.tivix.co/117506-zvezda.html"
-    ],
-    "stream": "",
-    "referer": ""
-  },
-  "nickelodeon": {
-    "sources": [
-      "http://live.viks.tv/397-nickelodeon_v1.html",
-      "https://telik.live/nickelodeon.html",
-      "http://oneliketv.net/nickelodeon.html",
-      "http://live.tivix.co/9-nickelodeon.html"
-    ],
-    "stream": "",
-    "referer": ""
-  },
-  "disney": {
-    "sources": [
-      "http://live.viks.tv/344-disney_v1.html",
-      "http://oneliketv.net/disney.html",
-      "http://live.tivix.co/13-kanal-disney.html"
-    ],
-    "stream": "",
-    "referer": ""
-  }
-}
+      "https
