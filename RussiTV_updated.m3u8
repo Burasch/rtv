@@ -1,5 +1,3 @@
 #EXTM3U url-tvg="http://epg.it999.ru/ru2.xml.gz"
 #EXTINF:-1 tvg-id="rossiya-1", ROSSIYA-1
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
-#EXTINF:-1 tvg-id="volga", VOLGA
-https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/index.m3u8
