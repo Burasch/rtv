@@ -1,158 +1,21 @@
 {
-  "pervyj-kanal": {
-    "sources": [
-      "http://live.viks.tv/054107-pervyy-kanal.html",
-      "https://telik.live/pervyj-kanal.html",
-      "http://oneliketv.net/pervyj-kanal.html",
-      "https://www.1tv.ru/live"
-    ],
-    "stream": "",
-    "referer": ""
-  },
-  "rossiya-1": {
-    "stable_link": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8",
-    "sources": [
-      "http://live.viks.tv/031327-rossiya1_tv.html",
-      "https://telik.live/rossiya-1.html",
-      "http://oneliketv.net/russia-1.html",
-      "http://live.tivix.co/61-rossiya-1-tv.html"
-    ],
-    "stream": "",
-    "referer": ""
-  },
-  "ntv": {
-    "sources": [
-      "http://live.viks.tv/401-ntv_v1.html",
-      "https://telik.live/ntv.html",
-      "http://oneliketv.net/ntv.html",
-      "http://live.tivix.co/115506-telekanal-ntv.html"
-    ],
-    "stream": "",
-    "referer": ""
-  },
-  "tnt": {
-    "sources": [
-      "http://live.viks.tv/333-tnt_tv_v1.html",
-      "https://telik.live/tnt.html",
-      "http://oneliketv.net/tnt.html",
-      "http://live.tivix.co/115506-tv-tnt.html"
-    ],
-    "stream": "",
-    "referer": ""
-  },
-  "sts": {
-    "sources": [
-      "http://live.viks.tv/023117-sts.html",
-      "http://oneliketv.net/sts.html"
-    ],
-    "stream": "",
-    "referer": ""
-  },
-  "mir": {
-    "sources": [
-      "http://live.viks.tv/568-mir_v2.html",
-      "https://telik.live/mir.html",
-      "http://oneliketv.net/mir.html",
-      "http://live.tivix.co/43-mir-tv.html"
-    ],
-    "stream": "",
-    "referer": ""
-  },
-  "domashnij": {
-    "sources": [
-      "http://live.viks.tv/337-domashniy.html",
-      "https://telik.live/domashnij.html",
-      "http://oneliketv.net/domashnij.html",
-      "http://live.tivix.co/100-domashniy.html"
-    ],
-    "stream": "",
-    "referer": ""
-  },
-  "5-kanal": {
-    "sources": [
-      "http://live.viks.tv/105326-pyatyy.html",
-      "https://telik.live/pyatyj-kanal.html",
-      "http://oneliketv.net/5-kanal-russia.html",
-      "http://live.tivix.co/93-pyatyy-kanal_sankt_peterburg_2.html"
-    ],
-    "stream": "",
-    "referer": ""
-  },
-  "volga": {
-    "sources": [
-      "https://www.volga-tv.ru/live/"
-    ],
-    "stream": "",
-    "referer": ""
-  },
-  "dom-kino": {
-    "sources": [
-      "http://live.viks.tv/438-dom-kino_19.html",
-      "https://telik.live/dom-kino.html",
-      "http://oneliketv.net/dom-kino.html",
-      "http://live.tivix.co/035212-telekanal-dom-kino.html"
-    ],
-    "stream": "",
-    "referer": ""
-  },
-  "dom-kino-premium": {
-    "sources": [
-      "http://live.viks.tv/512-dom-kino-premium_12.html",
-      "https://telik.live/dom-kino-premium.html",
-      "http://oneliketv.net/dom-kino-premium.html",
-      "http://live.tivix.co/031812-dom-kino-premium.html"
-    ],
-    "stream": "",
-    "referer": ""
-  },
-  "mosfilm": {
-    "sources": [
-      "http://live.viks.tv/106326-mosfilm.html",
-      "https://telik.live/mosfilm-zolotaya-kolleksiya.html",
-      "http://live.tivix.co/450-mosfilm.html"
-    ],
-    "stream": "",
-    "referer": ""
-  },
-  "ostrosyuzhetnoe-hd": {
-    "sources": [
-      "http://live.viks.tv/458-ostrosyuzhetnoe-hd_6.html",
-      "https://telik.live/ostrosyuzhetnoe-hd.html",
-      "http://live.tivix.co/330-ostrosyuzhetnoe-hd.html"
-    ],
-    "stream": "",
-    "referer": ""
-  },
-  "sony-sci-fi": {
-    "sources": [
-      "http://live.viks.tv/466-sony-sci-fi.html",
-      "https://telik.live/sony-sci-fi.html",
-      "http://oneliketv.net/sony-sci-fi.html",
-      "http://live.tivix.co/17-axn-scifi-sony-sci-fi.html"
-    ],
-    "stream": "",
-    "referer": ""
-  },
-  "2plus2": {
-    "sources": [
-      "http://live.viks.tv/114427-22-tv.html",
-      "http://oneliketv.net/2-plus-2.html",
-      "http://live.tivix.co/430-2plus2_t1.html"
-    ],
-    "stream": "",
-    "referer": ""
-  },
   "2x2": {
+    "name": "2x2",
+    "logo": "https://raw.githubusercontent.com/Burasch/rtv/main/logos/2x2.png",
+    "group": "Russia",
+    "stable_link": "http://live.viks.tv/376-2h2_v1.html",
     "sources": [
-      "http://live.viks.tv/376-2h2_v1.html",
       "https://telik.live/2x2.html",
-      "http://oneliketv.net/2x2.html",
-      "http://live.tivix.co/25-tv-2x2.html"
-    ],
-    "stream": "",
-    "referer": ""
+      "http://oneliketv.net/2x2.html"
+    ]
   },
-  "zvezda": {
+  "ctc": {
+    "name": "CTC",
+    "logo": "https://raw.githubusercontent.com/Burasch/rtv/main/logos/ctc.png",
+    "group": "Russia",
+    "stable_link": "",
     "sources": [
-      "http://live.viks.tv/349-zvezda_1.html",
-      "https
+      "https://telik.live/ctc.html"
+    ]
+  }
+}
