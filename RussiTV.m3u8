@@ -6,29 +6,29 @@ http://0.0.0.0/offline.m3u8
 #EXTINF:-1 tvg-id="rossiya-1" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/rossiya-1.png" group-title="Russia",ROSSIYA-1
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-id="ntv" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/ntv.png" group-title="Russia",NTV
-https://cdntvmedia.com/player/playerjs.html?file=https://tv.tvcdnpotok.com/537/index.m3u8?wmsAuthSign=14bf846d02041438708861ce380e720e-1767176640-8i441i16i5
+https://cdntvmedia.com/player/playerjs.html?file=https://tv.tvcdnpotok.com/537/index.m3u8?wmsAuthSign=520f9fea90b95e9372a2ebf74fc11cd6-1767176847-8i441i16i5
 #EXTINF:-1 tvg-id="tnt" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/tnt.png" group-title="Russia",TNT
-https://tvcdnpotok.com/tnt/index.m3u8?wmsAuthSign=571afc28f67ea77bb325a9ee9da5cbf3-1767176667-8i441i16i5
+https://tvcdnpotok.com/tnt/index.m3u8?wmsAuthSign=066ca26a808a9d21978d72da7c482a49-1767176872-8i441i16i5
 #EXTINF:-1 tvg-id="sts" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/sts.png" group-title="Russia",STS
-https://tvcdnpotok.com/sts_/index.m3u8?wmsAuthSign=b72bb7627c226accf2510a45e4511ab9-1767176684-8i441i16i5
-#EXTINF:-1 tvg-id="mir" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/mir.png" group-title="Russia",MIR (Sender nicht verfügbar)
-http://0.0.0.0/offline.m3u8
+https://tvcdnpotok.com/sts_/index.m3u8?wmsAuthSign=96ec271f0b3b7e8fc0d1bdbb03c7d010-1767176889-8i441i16i5
+#EXTINF:-1 tvg-id="mir" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/mir.png" group-title="Russia",MIR
+https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/int/playlist.m3u8
 #EXTINF:-1 tvg-id="domashnij" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/domashnij.png" group-title="Russia",DOMASHNIJ
-https://tvcdnpotok.com/domashni/index.m3u8?wmsAuthSign=66557f1a60d54be5c663be9b805dc3fe-1767176742-8i441i16i5
+https://tvcdnpotok.com/domashni/index.m3u8?wmsAuthSign=7c3782ca600316d26265ad53d2fb1a8f-1767176934-8i441i16i5
 #EXTINF:-1 tvg-id="5-kanal" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/5-kanal.png" group-title="Russia",5-KANAL
-https://tvcdnpotok.com/5kanal/index.m3u8?wmsAuthSign=ec54f21df0283ce188ef2c5b62972322-1767176767-8i441i16i5
+https://tvcdnpotok.com/5kanal/index.m3u8?wmsAuthSign=14cf756bc05347f93d5a38774350f1b0-1767176958-8i441i16i5
 #EXTINF:-1 tvg-id="volga" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/volga.png" group-title="Russia",VOLGA
 https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/index.m3u8
 #EXTINF:-1 tvg-id="dom-kino" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/dom-kino.png" group-title="Russia",DOM-KINO
-https://cdntvmedia.com/player/playerjs.html?file=https://tv.tvcdnpotok.com/186/index.m3u8?wmsAuthSign=9866a8e6bec7f21dd79ef6c9342a535b-1767176800-8i441i16i5%20or%20https://tv.tvcdnpotok.com/186/index.m3u8?wmsAuthSign=9866a8e6bec7f21dd79ef6c9342a535b-1767176800-8i441i16i59866a8e6bec7f21dd79ef6c9342a535b-1767176800-8i441i16i5
+https://cdntvmedia.com/player/playerjs.html?file=https://tv.tvcdnpotok.com/186/index.m3u8?wmsAuthSign=941b858753d98750983f05899f77598f-1767176993-8i441i16i5%20or%20https://tv.tvcdnpotok.com/186/index.m3u8?wmsAuthSign=941b858753d98750983f05899f77598f-1767176993-8i441i16i5941b858753d98750983f05899f77598f-1767176993-8i441i16i5
 #EXTINF:-1 tvg-id="dom-kino-premium" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/dom-kino-premium.png" group-title="Russia",DOM-KINO-PREMIUM
-https://cdntvmedia.com/player/playerjs.html?file=https://tv.tvcdnpotok.com/187/index.m3u8?wmsAuthSign=709f780c9e4ae3b5aed2cec513e9fc16-1767176817-8i441i16i5%20or%20https://tv.tvcdnpotok.com/187/index.m3u8?wmsAuthSign=709f780c9e4ae3b5aed2cec513e9fc16-1767176817-8i441i16i5709f780c9e4ae3b5aed2cec513e9fc16-1767176817-8i441i16i5
+https://cdntvmedia.com/player/playerjs.html?file=https://tv.tvcdnpotok.com/187/index.m3u8?wmsAuthSign=b1216e2cedd89f074f316f3961cc9032-1767177010-8i441i16i5%20or%20https://tv.tvcdnpotok.com/187/index.m3u8?wmsAuthSign=b1216e2cedd89f074f316f3961cc9032-1767177010-8i441i16i5b1216e2cedd89f074f316f3961cc9032-1767177010-8i441i16i5
 #EXTINF:-1 tvg-id="mosfilm" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/mosfilm.png" group-title="Russia",MOSFILM
-https://cdntvmedia.com/player/playerjs.html?file=https://tv.tvcdnpotok.com/235/index.m3u8?wmsAuthSign=29a2c8b6e4e36dd02f7eefa26ff9cb21-1767176834-8i441i16i5%20or%20https://tv.tvcdnpotok.com/235/index.m3u8?wmsAuthSign=29a2c8b6e4e36dd02f7eefa26ff9cb21-1767176834-8i441i16i529a2c8b6e4e36dd02f7eefa26ff9cb21-1767176834-8i441i16i5
+https://cdntvmedia.com/player/playerjs.html?file=https://tv.tvcdnpotok.com/235/index.m3u8?wmsAuthSign=33a2140b0cbfe6c9f636e8f1bd9f878b-1767177028-8i441i16i5%20or%20https://tv.tvcdnpotok.com/235/index.m3u8?wmsAuthSign=33a2140b0cbfe6c9f636e8f1bd9f878b-1767177028-8i441i16i533a2140b0cbfe6c9f636e8f1bd9f878b-1767177028-8i441i16i5
 #EXTINF:-1 tvg-id="ostrosyuzhetnoe-hd" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/ostrosyuzhetnoe-hd.png" group-title="Russia",OSTROSYUZHETNOE-HD
-https://cdntvmedia.com/player/playerjs.html?file=https://tv.tvcdnpotok.com/ostrosujetnoe/index.m3u8?wmsAuthSign=6f902282cf2e87e52156174010bd0ea4-1767176852-8i441i16i5%20or%20https://tv.tvcdnpotok.com/ostrosujetnoe/index.m3u8?wmsAuthSign=6f902282cf2e87e52156174010bd0ea4-1767176852-8i441i16i56f902282cf2e87e52156174010bd0ea4-1767176852-8i441i16i5
+https://cdntvmedia.com/player/playerjs.html?file=https://tv.tvcdnpotok.com/ostrosujetnoe/index.m3u8?wmsAuthSign=d601368ca669c248cd0fdd477a3852c6-1767177045-8i441i16i5%20or%20https://tv.tvcdnpotok.com/ostrosujetnoe/index.m3u8?wmsAuthSign=d601368ca669c248cd0fdd477a3852c6-1767177045-8i441i16i5d601368ca669c248cd0fdd477a3852c6-1767177045-8i441i16i5
 #EXTINF:-1 tvg-id="sony-sci-fi" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/sony-sci-fi.png" group-title="Russia",SONY-SCI-FI
-https://cdntvmedia.com/player/playerjs.html?file=https://tv.tvcdnpotok.com/sony_sci_fi/index.m3u8?wmsAuthSign=64196297deef79fcdb1ca9814275d709-1767176870-8i441i16i5%20or%20https://tv.tvcdnpotok.com/sony_sci_fi/index.m3u8?wmsAuthSign=64196297deef79fcdb1ca9814275d709-1767176870-8i441i16i564196297deef79fcdb1ca9814275d709-1767176870-8i441i16i5
+https://cdntvmedia.com/player/playerjs.html?file=https://tv.tvcdnpotok.com/sony_sci_fi/index.m3u8?wmsAuthSign=800bc82db3a5e243a291ba8826733365-1767177062-8i441i16i5%20or%20https://tv.tvcdnpotok.com/sony_sci_fi/index.m3u8?wmsAuthSign=800bc82db3a5e243a291ba8826733365-1767177062-8i441i16i5800bc82db3a5e243a291ba8826733365-1767177062-8i441i16i5
 #EXTINF:-1 tvg-id="2plus2" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/2plus2.png" group-title="Russia",2PLUS2 (Sender nicht verfügbar)
 http://0.0.0.0/offline.m3u8
 #EXTINF:-1 tvg-id="2x2" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/2x2.png" group-title="Russia",2X2 (Sender nicht verfügbar)
