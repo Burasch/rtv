@@ -55,8 +55,8 @@
     "referer": ""
   },
   "mir": {
+    "stable_link": "https://hls-mirtv.cdnvideo.ru/mirtv-param/publish/mirtv_2500/playlist.m3u8",
     "sources": [
-      "stable_link": "https://hls-mirtv.cdnvideo.ru/mirtv-param/publish/mirtv_2500/playlist.m3u8",
       "http://live.viks.tv/568-mir_v2.html",
       "https://telik.live/mir.html",
       "http://oneliketv.net/mir.html",
