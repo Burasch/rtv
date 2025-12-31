@@ -22,7 +22,7 @@
   },
   "rossiya-24": {
     "stable_link": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia24-sd/index.m3u8",
-    "sources": [],
+    "sources": [""],
     "stream": "",
     "referer": ""
   },
@@ -174,7 +174,7 @@
   },
   "enisey": {
     "stable_link": "http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8",
-    "sources": [],
+    "sources": ["https://www.enisey.tv/live/"],
     "stream": "",
     "referer": ""
   }
