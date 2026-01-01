@@ -74,12 +74,6 @@
       "http://oneliketv.net/sts.html"
     ]
   },
-  "mir-24": {
-    "stable_link": "\nhttp://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8",
-    "stream": "",
-    "referer": "",
-    "sources": []
-  },
   "mir": {
     "stable_link": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/int/playlist.m3u8",
     "stream": "",
@@ -91,6 +85,12 @@
       "http://oneliketv.net/mir.html",
       "http://live.tivix.co/43-mir-tv.html"
     ]
+  },
+  "mir-24": {
+    "stable_link": "\nhttp://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8",
+    "stream": "",
+    "referer": "",
+    "sources": []
   },
   "domashnij": {
     "stable_link": "",
