@@ -75,7 +75,7 @@
     ]
   },
   "mir": {
-    "stable_link": "",
+    "stable_link": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/int/playlist.m3u8",
     "stream": "",
     "referer": "",
     "sources": [
@@ -87,7 +87,7 @@
     ]
   },
   "mir-24": {
-    "stable_link": "",
+    "stable_link": "\nhttp://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8",
     "stream": "",
     "referer": "",
     "sources": []
