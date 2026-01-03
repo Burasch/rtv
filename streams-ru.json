@@ -149,10 +149,11 @@
     "stream": "",
     "referer": "",
     "sources": [
-      "http://live.viks.tv/512-dom-kino-premium_12.html",
+      "https://smotrettv.com/tv/kino/112-dom-kino-premium.html",
       "https://telik.live/dom-kino-premium.html",
       "http://oneliketv.net/dom-kino-premium.html",
-      "http://live.tivix.co/031812-dom-kino-premium.html"
+      "http://live.tivix.co/031812-dom-kino-premium.html",
+      "http://live.viks.tv/512-dom-kino-premium_12.html"
     ]
   },
   "mosfilm": {
@@ -221,6 +222,14 @@
     "referer": "",
     "sources": [
       "https://tvruss.ru/iptv/tv3.html"
+    ]
+  },
+  "Мосфильм": {
+    "stable_link": "",
+    "stream": "",
+    "referer": "",
+    "sources": [
+      "https://smotrettv.com/tv/kino/737-mosfilm-zolotaja-kollekcija.html"
     ]
   }
 }
