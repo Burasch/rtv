@@ -122,6 +122,12 @@
       "https://www.volga-tv.ru/live/"
     ]
   },
+  "Телеканал 86": {
+    "stable_link": "https://list.iptvcat.com/my_list/s/2dc4ab53472f00b78851607e2ccae23d.m3u8",
+    "stream": "",
+    "referer": "",
+    "sources": []
+  },
   "dom-kino": {
     "stable_link": "",
     "stream": "",
@@ -203,11 +209,5 @@
     "sources": [
       "http://live.viks.tv/349-zvezda_1.html"
     ]
-  },
-  "Телеканал 86": {
-    "stable_link": "https://list.iptvcat.com/my_list/s/2dc4ab53472f00b78851607e2ccae23d.m3u8",
-    "stream": "",
-    "referer": "",
-    "sources": []
   }
 }
