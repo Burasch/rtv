@@ -163,7 +163,8 @@
     "sources": [
       "http://live.viks.tv/106326-mosfilm.html",
       "https://telik.live/mosfilm-zolotaya-kolleksiya.html",
-      "http://live.tivix.co/450-mosfilm.html"
+      "http://live.tivix.co/450-mosfilm.html",
+      "https://smotrettv.com/tv/kino/737-mosfilm-zolotaja-kollekcija.html"
     ]
   },
   "ostrosyuzhetnoe-hd": {
@@ -222,14 +223,6 @@
     "referer": "",
     "sources": [
       "https://tvruss.ru/iptv/tv3.html"
-    ]
-  },
-  "Мосфильм": {
-    "stable_link": "",
-    "stream": "",
-    "referer": "",
-    "sources": [
-      "https://smotrettv.com/tv/kino/737-mosfilm-zolotaja-kollekcija.html"
     ]
   }
 }
