@@ -1,0 +1,7 @@
+flask
+requests
+playwright
+gunicorn
+PyGithub
+apscheduler
+apscheduler
