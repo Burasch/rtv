@@ -3,11 +3,11 @@
 git pull origin main
 
 # 2. Den Scraper im Container ausführen
-docker exec -it iptv-hub-container python3 scraper.py
+docker exec -it iptv-hub python3 scraper.py
 
 # 3. Die erzeugte Liste aus dem Container auf den Server kopieren
-docker cp iptv-hub-container:/app/RussiTV_updated.m3u8 .
-docker cp iptv-hub-container:/app/streams.json .
+docker cp iptv-hub:/app/RussiTV_updated.m3u8 .
+docker cp iptv-hub:/app/streams.json .
 
 # 4. Alles zu GitHub hochladen
 git add .
