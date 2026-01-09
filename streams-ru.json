@@ -1,13 +1,13 @@
 {
     "pervyj-kanal": {
-        "stable_link": "https://stream1.itv.uz/1214/tracks-v1a1/mono.m3u8",
+        "stable_link": "https://v1-dtln.1internet.tv/video/multibitrate/video/2025/11/16/b7c0d25b-09e1-4afa-aa3c-8772186e116b_20251116_605938_SVOI__ORIGINAL__S1_Fnull_Pnull__,350,950,3800,8000,.mp4.urlset/master.m3u8",
         "stream": "",
         "referer": "",
         "sources": [
+            "https://www.1tv.ru/live",
             "http://oneliketv.net/pervyj-kanal.html",
             "http://live.viks.tv/054107-pervyy-kanal.html",
-            "https://telik.live/pervyj-kanal.html",
-            "https://www.1tv.ru/live"
+            "https://telik.live/pervyj-kanal.html"
         ]
     },
     "rossiya-1": {
@@ -134,24 +134,24 @@
         "sources": []
     },
     "dom-kino": {
-        "stable_link": "https://cdntvmedia.com/player/playerjs.html?file=https://tv.tvcdnpotok.com/186/index.m3u8?wmsAuthSign=7712e9cc0a1bb5d01efbbc66b9022775-1767991675-81i441i16i5%20or%20https://tv.tvcdnpotok.com/186/index.m3u8?wmsAuthSign=7712e9cc0a1bb5d01efbbc66b9022775-1767991675-81i441i16i57712e9cc0a1bb5d01efbbc66b9022775-1767991675-81i441i16i5",
+        "stable_link": "https://tvcdnpotok.com/domkino/index.m3u8?wmsAuthSign=1f4358a91bd105821e5d930e8620e6ab-1767994782-81i441i16i5",
         "stream": "",
         "referer": "",
         "sources": [
+            "http://oneliketv.net/dom-kino.html",
             "https://telik.live/dom-kino.html",
             "http://live.viks.tv/438-dom-kino_19.html",
-            "http://oneliketv.net/dom-kino.html",
             "http://live.tivix.co/035212-telekanal-dom-kino.html"
         ]
     },
     "dom-kino-premium": {
-        "stable_link": "https://cdntvmedia.com/player/playerjs.html?file=https://tv.tvcdnpotok.com/187/index.m3u8?wmsAuthSign=d4e170b33bc06265f00fa78cb6ce0ace-1767991691-81i441i16i5%20or%20https://tv.tvcdnpotok.com/187/index.m3u8?wmsAuthSign=d4e170b33bc06265f00fa78cb6ce0ace-1767991691-81i441i16i5d4e170b33bc06265f00fa78cb6ce0ace-1767991691-81i441i16i5",
+        "stable_link": "https://tvcdnpotok.com/dom_prem/index.m3u8?wmsAuthSign=d72ad48cb6c5dbb7ce3b58ddb5fd188a-1767994859-81i441i16i5",
         "stream": "",
         "referer": "",
         "sources": [
+            "http://oneliketv.net/dom-kino-premium.html",
             "https://telik.live/dom-kino-premium.html",
             "https://smotrettv.com/tv/kino/112-dom-kino-premium.html",
-            "http://oneliketv.net/dom-kino-premium.html",
             "http://live.tivix.co/031812-dom-kino-premium.html",
             "http://live.viks.tv/512-dom-kino-premium_12.html"
         ]
@@ -168,7 +168,7 @@
         ]
     },
     "ostrosyuzhetnoe-hd": {
-        "stable_link": "https://cdntvmedia.com/player/playerjs.html?file=https://tv.tvcdnpotok.com/ostrosujetnoe/index.m3u8?wmsAuthSign=8bb7b0622aa7ce1dc458cdcbeac2e1d5-1767991721-81i441i16i5%20or%20https://tv.tvcdnpotok.com/ostrosujetnoe/index.m3u8?wmsAuthSign=8bb7b0622aa7ce1dc458cdcbeac2e1d5-1767991721-81i441i16i58bb7b0622aa7ce1dc458cdcbeac2e1d5-1767991721-81i441i16i5",
+        "stable_link": "https://tv.tvcdnpotok.com/ostrosujetnoe/index.m3u8?wmsAuthSign=78abb50f11d7b9996a8c83403fcced38-1767995942-81i441i16i5",
         "stream": "",
         "referer": "",
         "sources": [
@@ -178,13 +178,13 @@
         ]
     },
     "sony-sci-fi": {
-        "stable_link": "https://cdntvmedia.com/player/playerjs.html?file=https://tv.tvcdnpotok.com/sony_sci_fi/index.m3u8?wmsAuthSign=dc5c67946fd53c446c05f73c0bd0cdd2-1767991738-81i441i16i5%20or%20https://tv.tvcdnpotok.com/sony_sci_fi/index.m3u8?wmsAuthSign=dc5c67946fd53c446c05f73c0bd0cdd2-1767991738-81i441i16i5dc5c67946fd53c446c05f73c0bd0cdd2-1767991738-81i441i16i5",
+        "stable_link": "https://tvcdnpotok.com/h9fi7uATMJtiL_rMd2acxw/145/1767995041/index.m3u8",
         "stream": "",
         "referer": "",
         "sources": [
+            "http://oneliketv.net/sony-sci-fi.html",
             "https://telik.live/sony-sci-fi.html",
             "http://live.viks.tv/466-sony-sci-fi.html",
-            "http://oneliketv.net/sony-sci-fi.html",
             "http://live.tivix.co/17-axn-scifi-sony-sci-fi.html"
         ]
     },
