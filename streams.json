@@ -1,8 +1,4 @@
 {
-    "pervyj-kanal": {
-        "stream": "https://stream1.itv.uz/1214/tracks-v1a1/mono.m3u8",
-        "proxy": "http://192.168.178.38:8085/stream/pervyj-kanal"
-    },
     "rossiya-1": {
         "stream": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8",
         "proxy": "http://192.168.178.38:8085/stream/rossiya-1"
@@ -16,20 +12,12 @@
         "proxy": "http://192.168.178.38:8085/stream/RTR Planeta"
     },
     "enisey": {
-        "stream": "https://salam-de-rasc-87.rtbcdn.ru/dive/river-3-313.rtbcdn.ru/7V1_sTj1aMpynEiqeqqW9g/stream/genetta-518.ost.rutube.ru/PoQbCtYk1BFYkczDycnGDQ/1768573014/5835cd10c04311e400f2ed19b1b2fe8b/360p_stream.m3u8",
+        "stream": "https://salam-de-rasc-87.rtbcdn.ru/dive/river-3-313.rtbcdn.ru/pRF4eZ6Cg6EEQwUjZ8_wuw/stream/genetta-518.ost.rutube.ru/i1g821GaPsHD2KPrgfIEMg/1768578188/5835cd10c04311e400f2ed19b1b2fe8b/360p_stream.m3u8",
         "proxy": "http://192.168.178.38:8085/stream/enisey"
     },
     "ntv": {
-        "stream": "https://cdntvmedia.com/player/playerjs.html?file=https://tv.tvcdnpotok.com/537/index.m3u8?wmsAuthSign=a45ab4b8585455d73e3d69c24bf446f8-1767986239-81i441i16i5",
+        "stream": "https://cdntvmedia.com/player/playerjs.html?file=https://tv.tvcdnpotok.com/537/index.m3u8?wmsAuthSign=04139fdc12211a12dae7e9d7edc591be-1767991402-81i441i16i5",
         "proxy": "http://192.168.178.38:8085/stream/ntv"
-    },
-    "tnt": {
-        "stream": "https://tvcdnpotok.com/tnt/index.m3u8?wmsAuthSign=c15cdd51e905f2e8e8e6e2cb76cde1ae-1767986278-81i441i16i5",
-        "proxy": "http://192.168.178.38:8085/stream/tnt"
-    },
-    "sts": {
-        "stream": "https://tvcdnpotok.com/sts_/index.m3u8?wmsAuthSign=ecb20a317b404de0032c7b7d3c2c4ba3-1767986304-81i441i16i5",
-        "proxy": "http://192.168.178.38:8085/stream/sts"
     },
     "mir": {
         "stream": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/int/playlist.m3u8",
@@ -40,11 +28,11 @@
         "proxy": "http://192.168.178.38:8085/stream/mir-24"
     },
     "domashnij": {
-        "stream": "https://tvcdnpotok.com/domashni/index.m3u8?wmsAuthSign=772dccdf4dde4d5a29782917cdf14809-1767986344-81i441i16i5",
+        "stream": "https://tvcdnpotok.com/UahG3TzsJJ2MuaN-APeBmw/561/1767991513/index.m3u8",
         "proxy": "http://192.168.178.38:8085/stream/domashnij"
     },
     "5-kanal": {
-        "stream": "https://tvcdnpotok.com/Q2906EpliQWKokJ5hIc2xA/524/1767986382/index.m3u8",
+        "stream": "https://tvcdnpotok.com/AMA16eF10zlXFJphkQkqOw/524/1767991529/index.m3u8",
         "proxy": "http://192.168.178.38:8085/stream/5-kanal"
     },
     "volga": {
@@ -56,23 +44,23 @@
         "proxy": "http://192.168.178.38:8085/stream/\u0422\u0435\u043b\u0435\u043a\u0430\u043d\u0430\u043b 86"
     },
     "dom-kino": {
-        "stream": "https://cdntvmedia.com/player/playerjs.html?file=https://tv.tvcdnpotok.com/186/index.m3u8?wmsAuthSign=f9bd043cf2c71de1741316a064cb52b3-1767986425-81i441i16i5%20or%20https://tv.tvcdnpotok.com/186/index.m3u8?wmsAuthSign=f9bd043cf2c71de1741316a064cb52b3-1767986425-81i441i16i5f9bd043cf2c71de1741316a064cb52b3-1767986425-81i441i16i5",
+        "stream": "https://cdntvmedia.com/player/playerjs.html?file=https://tv.tvcdnpotok.com/186/index.m3u8?wmsAuthSign=cafe00c8db87d8a44a763d86c38c6e3e-1767991561-81i441i16i5%20or%20https://tv.tvcdnpotok.com/186/index.m3u8?wmsAuthSign=cafe00c8db87d8a44a763d86c38c6e3e-1767991561-81i441i16i5cafe00c8db87d8a44a763d86c38c6e3e-1767991561-81i441i16i5",
         "proxy": "http://192.168.178.38:8085/stream/dom-kino"
     },
     "dom-kino-premium": {
-        "stream": "https://cdntvmedia.com/player/playerjs.html?file=https://tv.tvcdnpotok.com/187/index.m3u8?wmsAuthSign=21a8bf29693b020b8058cdf8d02c4849-1767986485-81i441i16i5%20or%20https://tv.tvcdnpotok.com/187/index.m3u8?wmsAuthSign=21a8bf29693b020b8058cdf8d02c4849-1767986485-81i441i16i521a8bf29693b020b8058cdf8d02c4849-1767986485-81i441i16i5",
+        "stream": "https://cdntvmedia.com/player/playerjs.html?file=https://tv.tvcdnpotok.com/187/index.m3u8?wmsAuthSign=eb7ae8f8725c75da9f6852d2482b603c-1767991576-81i441i16i5%20or%20https://tv.tvcdnpotok.com/187/index.m3u8?wmsAuthSign=eb7ae8f8725c75da9f6852d2482b603c-1767991576-81i441i16i5eb7ae8f8725c75da9f6852d2482b603c-1767991576-81i441i16i5",
         "proxy": "http://192.168.178.38:8085/stream/dom-kino-premium"
     },
     "mosfilm": {
-        "stream": "https://cdntvmedia.com/player/playerjs.html?file=https://tv.tvcdnpotok.com/235/index.m3u8?wmsAuthSign=98a7289b60d0c979e3846e7bc8a6189e-1767986512-81i441i16i5%20or%20https://tv.tvcdnpotok.com/235/index.m3u8?wmsAuthSign=98a7289b60d0c979e3846e7bc8a6189e-1767986512-81i441i16i598a7289b60d0c979e3846e7bc8a6189e-1767986512-81i441i16i5",
+        "stream": "https://cdntvmedia.com/player/playerjs.html?file=https://tv.tvcdnpotok.com/235/index.m3u8?wmsAuthSign=2fcb9652b2e4f9c47a6d93cc8199d97a-1767991591-81i441i16i5%20or%20https://tv.tvcdnpotok.com/235/index.m3u8?wmsAuthSign=2fcb9652b2e4f9c47a6d93cc8199d97a-1767991591-81i441i16i52fcb9652b2e4f9c47a6d93cc8199d97a-1767991591-81i441i16i5",
         "proxy": "http://192.168.178.38:8085/stream/mosfilm"
     },
     "ostrosyuzhetnoe-hd": {
-        "stream": "https://cdntvmedia.com/player/playerjs.html?file=https://tv.tvcdnpotok.com/ostrosujetnoe/index.m3u8?wmsAuthSign=07257f12226609e5c604f8f29211b97c-1767986538-81i441i16i5%20or%20https://tv.tvcdnpotok.com/ostrosujetnoe/index.m3u8?wmsAuthSign=07257f12226609e5c604f8f29211b97c-1767986538-81i441i16i507257f12226609e5c604f8f29211b97c-1767986538-81i441i16i5",
+        "stream": "https://cdntvmedia.com/player/playerjs.html?file=https://tv.tvcdnpotok.com/ostrosujetnoe/index.m3u8?wmsAuthSign=3e5c6481dfaf3c2e177cfdb01b67c832-1767991605-81i441i16i5%20or%20https://tv.tvcdnpotok.com/ostrosujetnoe/index.m3u8?wmsAuthSign=3e5c6481dfaf3c2e177cfdb01b67c832-1767991605-81i441i16i53e5c6481dfaf3c2e177cfdb01b67c832-1767991605-81i441i16i5",
         "proxy": "http://192.168.178.38:8085/stream/ostrosyuzhetnoe-hd"
     },
     "sony-sci-fi": {
-        "stream": "https://cdntvmedia.com/player/playerjs.html?file=https://tv.tvcdnpotok.com/sony_sci_fi/index.m3u8?wmsAuthSign=1ae86cfd52bbea3d9c0f7cf4c488738e-1767986564-81i441i16i5%20or%20https://tv.tvcdnpotok.com/sony_sci_fi/index.m3u8?wmsAuthSign=1ae86cfd52bbea3d9c0f7cf4c488738e-1767986564-81i441i16i51ae86cfd52bbea3d9c0f7cf4c488738e-1767986564-81i441i16i5",
+        "stream": "https://cdntvmedia.com/player/playerjs.html?file=https://tv.tvcdnpotok.com/sony_sci_fi/index.m3u8?wmsAuthSign=1df4cb0ca0427b647b0f8b58df237ec4-1767991620-81i441i16i5%20or%20https://tv.tvcdnpotok.com/sony_sci_fi/index.m3u8?wmsAuthSign=1df4cb0ca0427b647b0f8b58df237ec4-1767991620-81i441i16i51df4cb0ca0427b647b0f8b58df237ec4-1767991620-81i441i16i5",
         "proxy": "http://192.168.178.38:8085/stream/sony-sci-fi"
     },
     "zvezda": {
@@ -80,7 +68,7 @@
         "proxy": "http://192.168.178.38:8085/stream/zvezda"
     },
     "tv3": {
-        "stream": "https://streaming.televizor-24-tochka.ru/live/18.m3u8",
+        "stream": "https://streaming.televizor-24-tochka.ru/live/18-req_offset_28000000-req_window_0-1k_v5.m3u8",
         "proxy": "http://192.168.178.38:8085/stream/tv3"
     }
 }
