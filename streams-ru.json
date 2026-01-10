@@ -49,18 +49,18 @@
         ]
     },
     "ntv": {
-        "stable_link": "https://tv.tvcdnpotok.com/DZ8AzL_MPhqXQqI6CrJ8tQ/537/1767991540/index.m3u8",
+        "stable_link": "https://tvcdnpotok.com/ntv/index.m3u8?wmsAuthSign=1653c5ad55e41f7bcd12d6911eb75df0-1768046842-81i441i16i5",
         "stream": "",
         "referer": "",
         "sources": [
+            "http://oneliketv.net/ntv.html",
             "https://telik.live/ntv.html",
             "http://live.viks.tv/401-ntv_v1.html",
-            "http://oneliketv.net/ntv.html",
             "http://live.tivix.co/115506-telekanal-ntv.html"
         ]
     },
     "tnt": {
-        "stable_link": "https://tvcdnpotok.com/tnt/index.m3u8?wmsAuthSign=18819e054cd3e37cce37eece23bead91-1767991555-81i441i16i5",
+        "stable_link": "https://tvcdnpotok.com/qg0EkfOSP0QuxccpRKVNPA/547/1768046861/index.m3u8",
         "stream": "",
         "referer": "",
         "sources": [
@@ -71,7 +71,7 @@
         ]
     },
     "sts": {
-        "stable_link": "https://tvcdnpotok.com/sts_/index.m3u8?wmsAuthSign=0f82e159fd1843abedd3e7127b25f4a5-1767991569-81i441i16i5",
+        "stable_link": "https://tvcdnpotok.com/sts_/index.m3u8?wmsAuthSign=4a528250e957e64ff132188495eaa269-1768046880-81i441i16i5",
         "stream": "",
         "referer": "",
         "sources": [
@@ -98,7 +98,7 @@
         "sources": []
     },
     "domashnij": {
-        "stable_link": "https://tvcdnpotok.com/domashni/index.m3u8?wmsAuthSign=78141a19221ff58c0a5578b78974734e-1767992478-81i441i16i5",
+        "stable_link": "https://tvcdnpotok.com/domashni/index.m3u8?wmsAuthSign=9de68af64bf141bd34d4d558298b2071-1768047839-81i441i16i5",
         "stream": "",
         "referer": "",
         "sources": [
@@ -109,7 +109,7 @@
         ]
     },
     "5-kanal": {
-        "stable_link": "https://tvcdnpotok.com/5kanal/index.m3u8?wmsAuthSign=c062646ca0799061606e47e0e8dff1a0-1767991641-81i441i16i5",
+        "stable_link": "https://tvcdnpotok.com/KNQZKto44ctiC_k1K01nxA/524/1768046901/index.m3u8",
         "stream": "",
         "referer": "",
         "sources": [
@@ -134,7 +134,7 @@
         "sources": []
     },
     "dom-kino": {
-        "stable_link": "https://tvcdnpotok.com/domkino/index.m3u8?wmsAuthSign=1f4358a91bd105821e5d930e8620e6ab-1767994782-81i441i16i5",
+        "stable_link": "https://tvcdnpotok.com/domkino/index.m3u8?wmsAuthSign=4631290e0b4f9303ef06b29ada96bd26-1768031124-81i441i16i5",
         "stream": "",
         "referer": "",
         "sources": [
@@ -145,7 +145,7 @@
         ]
     },
     "dom-kino-premium": {
-        "stable_link": "https://tvcdnpotok.com/dom_prem/index.m3u8?wmsAuthSign=d72ad48cb6c5dbb7ce3b58ddb5fd188a-1767994859-81i441i16i5",
+        "stable_link": "https://tvcdnpotok.com/dom_prem/index.m3u8?wmsAuthSign=b867197f39a046f985659d20931bd697-1768031143-81i441i16i5",
         "stream": "",
         "referer": "",
         "sources": [
@@ -157,7 +157,7 @@
         ]
     },
     "mosfilm": {
-        "stable_link": "https://cdntvmedia.com/player/playerjs.html?file=https://tv.tvcdnpotok.com/235/index.m3u8?wmsAuthSign=efb46936be7c20a3d67900005c8f438e-1767991707-81i441i16i5%20or%20https://tv.tvcdnpotok.com/235/index.m3u8?wmsAuthSign=efb46936be7c20a3d67900005c8f438e-1767991707-81i441i16i5efb46936be7c20a3d67900005c8f438e-1767991707-81i441i16i5",
+        "stable_link": "https://tv.tvcdnpotok.com/235/index.m3u8?wmsAuthSign=ae0a69c117c55c3baf7e2bbcee70f7a2-1768035793-81i441i16i5",
         "stream": "",
         "referer": "",
         "sources": [
@@ -168,7 +168,7 @@
         ]
     },
     "ostrosyuzhetnoe-hd": {
-        "stable_link": "https://tv.tvcdnpotok.com/ostrosujetnoe/index.m3u8?wmsAuthSign=78abb50f11d7b9996a8c83403fcced38-1767995942-81i441i16i5",
+        "stable_link": "https://tv.tvcdnpotok.com/ostrosujetnoe/index.m3u8?wmsAuthSign=292abc0fac5b868aad5245578439759d-1768032259-81i441i16i5",
         "stream": "",
         "referer": "",
         "sources": [
@@ -178,7 +178,7 @@
         ]
     },
     "sony-sci-fi": {
-        "stable_link": "https://tvcdnpotok.com/h9fi7uATMJtiL_rMd2acxw/145/1767995041/index.m3u8",
+        "stable_link": "https://tvcdnpotok.com/sony_sci_fi/index.m3u8?wmsAuthSign=e7ddb90ef623d5383863e1ff1737acc0-1768031322-81i441i16i5",
         "stream": "",
         "referer": "",
         "sources": [
