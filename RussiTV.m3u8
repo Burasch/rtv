@@ -28,9 +28,9 @@ https://tvcdnpotok.com/5kanal/index.m3u8?wmsAuthSign=0473ada3f9d89b7dea066d514c7
 #EXTINF:-1 tvg-id="volga" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/volga.png" group-title="Russia",VOLGA
 https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1280x720@2704/playlist.m3u8
 #EXTINF:-1 tvg-id="dom-kino" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/dom-kino.png" group-title="Russia",DOM KINO
-https://tvcdnpotok.com/-qz7pcRItVhSCl7dqYhF1A/186/1768068010/index.m3u8
+https://tvcdnpotok.com/domkino/index.m3u8?wmsAuthSign=5e0a4be32971cbed03d39e0da5a4cb08-1768086612-81i441i16i5
 #EXTINF:-1 tvg-id="dom-kino-premium" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/dom-kino-premium.png" group-title="Russia",DOM KINO PREMIUM
-https://tvcdnpotok.com/dom_prem/index.m3u8?wmsAuthSign=0a1a99af7c8961d33b6f53d2815fe9d9-1768068028-81i441i16i5
+https://tvcdnpotok.com/hB-YUi0HW4T4P7pk0Q42wQ/187/1768086635/index.m3u8
 #EXTINF:-1 tvg-id="mosfilm" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/mosfilm.png" group-title="Russia",MOSFILM
 https://tv.tvcdnpotok.com/235/index.m3u8?wmsAuthSign=52eb5aec1810a55c3ddf568dea6236ce-1768074047-81i441i16i5
 #EXTINF:-1 tvg-id="ostrosyuzhetnoe-hd" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/ostrosyuzhetnoe-hd.png" group-title="Russia",OSTROSYUZHETNOE HD
