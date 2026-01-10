@@ -109,7 +109,7 @@
         ]
     },
     "5-kanal": {
-        "stable_link": "https://tvcdnpotok.com/5kanal/index.m3u8?wmsAuthSign=4abb797a277d490196158e21ff6de363-1768065001-81i441i16i5",
+        "stable_link": "https://tvcdnpotok.com/5kanal/index.m3u8?wmsAuthSign=0473ada3f9d89b7dea066d514c7f5f40-1768074007-81i441i16i5",
         "stream": "",
         "referer": "",
         "sources": [
@@ -157,12 +157,12 @@
         ]
     },
     "mosfilm": {
-        "stable_link": "https://server.musical.uz/mos-film_web/index.m3u8?token=e428ddc7bed066e6fba041bbbee34aeb45d3c110-72fbcf415d5ce167bd0aa740c9b1a19b-1768049166-1768038366&remote=5.61.144.18",
+        "stable_link": "https://tv.tvcdnpotok.com/235/index.m3u8?wmsAuthSign=52eb5aec1810a55c3ddf568dea6236ce-1768074047-81i441i16i5",
         "stream": "",
         "referer": "",
         "sources": [
-            "https://smotrettv.com/tv/kino/737-mosfilm-zolotaja-kollekcija.html",
             "https://telik.live/mosfilm-zolotaya-kolleksiya.html",
+            "https://smotrettv.com/tv/kino/737-mosfilm-zolotaja-kollekcija.html",
             "http://live.viks.tv/106326-mosfilm.html",
             "http://live.tivix.co/450-mosfilm.html"
         ]
