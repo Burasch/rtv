@@ -31,8 +31,6 @@ https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1280x720@2704/playlist
 https://tvcdnpotok.com/domkino/index.m3u8?wmsAuthSign=2be9acf0fc73e980f7e5817b2272dd5f-1768179610-81i441i16i5
 #EXTINF:-1 tvg-id="dom-kino-premium" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/dom-kino-premium.png" group-title="Russia",DOM KINO PREMIUM
 https://tvcdnpotok.com/dom_prem/index.m3u8?wmsAuthSign=ccb53839348f37a9a09cf5e6e63e0cc4-1768179630-81i441i16i5
-#EXTINF:-1 tvg-id="mosfilm" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/mosfilm.png" group-title="Russia",MOSFILM
-https://tv.tvcdnpotok.com/235/index.m3u8?wmsAuthSign=fdd384010c096735a264ba8223361ac9-1768162570-81i441i16i5
 #EXTINF:-1 tvg-id="ostrosyuzhetnoe-hd" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/ostrosyuzhetnoe-hd.png" group-title="Russia",OSTROSYUZHETNOE HD
 https://tv.tvcdnpotok.com/ostrosujetnoe/index.m3u8?wmsAuthSign=d551a540efd645b7331eca441463fbba-1768170610-81i441i16i5
 #EXTINF:-1 tvg-id="sony-sci-fi" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/sony-sci-fi.png" group-title="Russia",SONY SCI FI
