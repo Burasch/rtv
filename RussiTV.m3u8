@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="pervyj-kanal" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/pervyj-kanal.png" group-title="Russia",PERVYJ KANAL
-https://streaming.goodstream.icu/live/210-req_offset_28000000-req_window_0-1k_v5.m3u8
+https://streaming.goodstream.icu/live/210.m3u8
 #EXTINF:-1 tvg-id="rossiya-1" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/rossiya-1.png" group-title="Russia",ROSSIYA 1
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-id="rossiya-24" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/rossiya-24.png" group-title="Russia",ROSSIYA 24
@@ -31,8 +31,6 @@ https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1280x720@2704/playlist
 https://tvcdnpotok.com/domkino/index.m3u8?wmsAuthSign=f0076e0712a0523ab7b377df437dd67c-1768123809-81i441i16i5
 #EXTINF:-1 tvg-id="dom-kino-premium" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/dom-kino-premium.png" group-title="Russia",DOM KINO PREMIUM
 https://tvcdnpotok.com/dom_prem/index.m3u8?wmsAuthSign=25b75604f7bfccf240a78c86c7e78e5f-1768123829-81i441i16i5
-#EXTINF:-1 tvg-id="mosfilm" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/mosfilm.png" group-title="Russia",MOSFILM
-https://tv.tvcdnpotok.com/235/index.m3u8?wmsAuthSign=1fc669cd6755574972da0c71f6130d1a-1768117210-81i441i16i5
 #EXTINF:-1 tvg-id="ostrosyuzhetnoe-hd" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/ostrosyuzhetnoe-hd.png" group-title="Russia",OSTROSYUZHETNOE HD
 https://tv.tvcdnpotok.com/ostrosujetnoe/index.m3u8?wmsAuthSign=de6f4a0e301f282ba7fc7536b04629a8-1768129210-81i441i16i5
 #EXTINF:-1 tvg-id="sony-sci-fi" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/sony-sci-fi.png" group-title="Russia",SONY SCI FI
