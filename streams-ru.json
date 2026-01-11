@@ -1,6 +1,6 @@
 {
     "pervyj-kanal": {
-        "stable_link": "https://streaming.goodstream.icu/live/210.m3u8",
+        "stable_link": "https://streaming.goodstream.icu/live/210-req_offset_28000000-req_window_0-1k_v5.m3u8",
         "stream": "",
         "referer": "",
         "sources": [
@@ -49,7 +49,7 @@
         ]
     },
     "ntv": {
-        "stable_link": "https://tvcdnpotok.com/ntv/index.m3u8?wmsAuthSign=4727e35e79f79e1ce3c6b85e2aec1605-1768119606-81i441i16i5",
+        "stable_link": "https://tvcdnpotok.com/mGxV37v9u57No9e8DSh7wQ/537/1768119721/index.m3u8",
         "stream": "",
         "referer": "",
         "sources": [
@@ -60,7 +60,7 @@
         ]
     },
     "tnt": {
-        "stable_link": "https://tvcdnpotok.com/tdCs2YvXL_6W5Y9LnzkTwg/547/1768119626/index.m3u8",
+        "stable_link": "https://tvcdnpotok.com/tnt/index.m3u8?wmsAuthSign=9e22a53ea6a65f5623f7320b908a3c96-1768119739-81i441i16i5",
         "stream": "",
         "referer": "",
         "sources": [
@@ -71,7 +71,7 @@
         ]
     },
     "sts": {
-        "stable_link": "https://tvcdnpotok.com/rz_6l5246TecHpnAQ2BRZg/591/1768119645/index.m3u8",
+        "stable_link": "https://tvcdnpotok.com/sts_/index.m3u8?wmsAuthSign=83a237708f9e6f64ba7f91e463677ca6-1768119758-81i441i16i5",
         "stream": "",
         "referer": "",
         "sources": [
