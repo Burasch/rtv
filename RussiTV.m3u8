@@ -24,7 +24,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="domashnij" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/domashnij.png" group-title="Russia",DOMASHNIJ
 https://tvcdnpotok.com/domashni/index.m3u8?wmsAuthSign=4094ed4132adf251dab946509664f381-1768122009-81i441i16i5
 #EXTINF:-1 tvg-id="5-kanal" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/5-kanal.png" group-title="Russia",5 KANAL
-https://tvcdnpotok.com/5kanal/index.m3u8?wmsAuthSign=5843247be7d7cf69e436d8b2fdf739e2-1768110638-81i441i16i5
+https://tvcdnpotok.com/5kanal/index.m3u8?wmsAuthSign=f7a0e4096ddebe6f5bd9e53166312123-1768128657-81i441i16i5
 #EXTINF:-1 tvg-id="volga" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/volga.png" group-title="Russia",VOLGA
 https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1280x720@2704/playlist.m3u8
 #EXTINF:-1 tvg-id="dom-kino" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/dom-kino.png" group-title="Russia",DOM KINO
@@ -33,6 +33,8 @@ https://tvcdnpotok.com/domkino/index.m3u8?wmsAuthSign=f0076e0712a0523ab7b377df43
 https://tvcdnpotok.com/dom_prem/index.m3u8?wmsAuthSign=25b75604f7bfccf240a78c86c7e78e5f-1768123829-81i441i16i5
 #EXTINF:-1 tvg-id="mosfilm" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/mosfilm.png" group-title="Russia",MOSFILM
 https://tv.tvcdnpotok.com/235/index.m3u8?wmsAuthSign=1fc669cd6755574972da0c71f6130d1a-1768117210-81i441i16i5
+#EXTINF:-1 tvg-id="ostrosyuzhetnoe-hd" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/ostrosyuzhetnoe-hd.png" group-title="Russia",OSTROSYUZHETNOE HD
+https://tv.tvcdnpotok.com/ostrosujetnoe/index.m3u8?wmsAuthSign=de6f4a0e301f282ba7fc7536b04629a8-1768129210-81i441i16i5
 #EXTINF:-1 tvg-id="sony-sci-fi" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/sony-sci-fi.png" group-title="Russia",SONY SCI FI
 https://tvcdnpotok.com/sony_sci_fi/index.m3u8?wmsAuthSign=fbdd6dd1e592782675d344fea6fba8ec-1768123848-81i441i16i5
 #EXTINF:-1 tvg-id="zvezda" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/zvezda.png" group-title="Russia",ZVEZDA
