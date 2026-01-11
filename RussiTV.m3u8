@@ -28,14 +28,14 @@ https://tvcdnpotok.com/5kanal/index.m3u8?wmsAuthSign=5843247be7d7cf69e436d8b2fdf
 #EXTINF:-1 tvg-id="volga" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/volga.png" group-title="Russia",VOLGA
 https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1280x720@2704/playlist.m3u8
 #EXTINF:-1 tvg-id="dom-kino" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/dom-kino.png" group-title="Russia",DOM KINO
-https://tvcdnpotok.com/domkino/index.m3u8?wmsAuthSign=bf7c4ecaf9e92d76c889ab78de7977d1-1768105209-81i441i16i5
+https://tvcdnpotok.com/domkino/index.m3u8?wmsAuthSign=f0076e0712a0523ab7b377df437dd67c-1768123809-81i441i16i5
 #EXTINF:-1 tvg-id="dom-kino-premium" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/dom-kino-premium.png" group-title="Russia",DOM KINO PREMIUM
-https://tvcdnpotok.com/dom_prem/index.m3u8?wmsAuthSign=d8c0deb46e18e6942900a33e495c95fe-1768105229-81i441i16i5
+https://tvcdnpotok.com/dom_prem/index.m3u8?wmsAuthSign=25b75604f7bfccf240a78c86c7e78e5f-1768123829-81i441i16i5
 #EXTINF:-1 tvg-id="mosfilm" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/mosfilm.png" group-title="Russia",MOSFILM
 https://tv.tvcdnpotok.com/235/index.m3u8?wmsAuthSign=1fc669cd6755574972da0c71f6130d1a-1768117210-81i441i16i5
 #EXTINF:-1 tvg-id="ostrosyuzhetnoe-hd" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/ostrosyuzhetnoe-hd.png" group-title="Russia",OSTROSYUZHETNOE HD
 https://tv.tvcdnpotok.com/ostrosujetnoe/index.m3u8?wmsAuthSign=0d5ca044f95672d3d4bb73aee69f0237-1768110011-81i441i16i5
 #EXTINF:-1 tvg-id="sony-sci-fi" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/sony-sci-fi.png" group-title="Russia",SONY SCI FI
-https://tvcdnpotok.com/sony_sci_fi/index.m3u8?wmsAuthSign=506015c5c717795c85624718e6237085-1768105249-81i441i16i5
+https://tvcdnpotok.com/sony_sci_fi/index.m3u8?wmsAuthSign=fbdd6dd1e592782675d344fea6fba8ec-1768123848-81i441i16i5
 #EXTINF:-1 tvg-id="zvezda" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/zvezda.png" group-title="Russia",ZVEZDA
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
