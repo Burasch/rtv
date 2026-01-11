@@ -11,11 +11,11 @@ https://player.smotrim.ru/iframe/stream/live_id/1525504b-449d-432d-ab5d-1f11081f
 #EXTINF:-1 tvg-id="enisey" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/enisey.png" group-title="Russia",ENISEY
 https://salam-de-rasc-87.rtbcdn.ru/dive/river-3-313.rtbcdn.ru/HT6YczmTFf6rng2O3EhCLw/stream/genetta-518.ost.rutube.ru/1BGpCpRhQnZUZ7hHkEByKg/1768578323/5835cd10c04311e400f2ed19b1b2fe8b/1080p_stream.m3u8
 #EXTINF:-1 tvg-id="ntv" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/ntv.png" group-title="Russia",NTV
-https://tvcdnpotok.com/ZPBd_yyRhzgoxW69XWO0TA/537/1768156207/index.m3u8
+https://tvcdnpotok.com/ntv/index.m3u8?wmsAuthSign=dd7201a31ce8d375e6faffe6fa3be6a8-1768174477-81i441i16i5
 #EXTINF:-1 tvg-id="tnt" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/tnt.png" group-title="Russia",TNT
-https://tvcdnpotok.com/EC27TSJBs9MfXs5dVr7d7Q/547/1768156226/index.m3u8
+https://tvcdnpotok.com/cGS26ThCh54Z0D_RahJPcw/547/1768174497/index.m3u8
 #EXTINF:-1 tvg-id="sts" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/sts.png" group-title="Russia",STS
-https://tvcdnpotok.com/FSeI1JZzZfIxk90mmam-4Q/591/1768156244/index.m3u8
+https://tvcdnpotok.com/sts_/index.m3u8?wmsAuthSign=479321f7d7fd5804c9d16e6680d2e9f2-1768174515-81i441i16i5
 #EXTINF:-1 tvg-id="mir" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/mir.png" group-title="Russia",MIR
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/int/playlist.m3u8
 #EXTINF:-1 tvg-id="mir-24" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/mir-24.png" group-title="Russia",MIR 24
