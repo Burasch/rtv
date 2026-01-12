@@ -22,7 +22,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/int/playlist.m3u8
 
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="domashnij" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/domashnij.png" group-title="Russia",DOMASHNIJ
-https://tvcdnpotok.com/domashni/index.m3u8?wmsAuthSign=dcd1d028ba157e059deaa730b49034f8-1768233075-81i441i16i5
+https://tvcdnpotok.com/domashni/index.m3u8?wmsAuthSign=af1106255872da99d3f50e45d4c29074-1768251608-81i441i16i5
 #EXTINF:-1 tvg-id="5-kanal" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/5-kanal.png" group-title="Russia",5 KANAL
 https://tvcdnpotok.com/5kanal/index.m3u8?wmsAuthSign=c616e442750a55819ac402c94d9bd617-1768239008-81i441i16i5
 #EXTINF:-1 tvg-id="volga" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/volga.png" group-title="Russia",VOLGA
