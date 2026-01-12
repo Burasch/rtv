@@ -1,6 +1,6 @@
 {
     "pervyj-kanal": {
-        "stable_link": "https://streaming.goodstream.icu/live/210-req_offset_28000000-req_window_0-3k_v5.m3u8",
+        "stable_link": "https://streaming.goodstream.icu/live/210-req_offset_28000000-req_window_0-1k_v5.m3u8",
         "stream": "",
         "referer": "",
         "sources": [
@@ -157,7 +157,7 @@
         ]
     },
     "mosfilm": {
-        "stable_link": "https://tv.tvcdnpotok.com/235/index.m3u8?wmsAuthSign=d14590b4bfeff2e461cda5a126818c14-1768182020-81i441i16i5",
+        "stable_link": "https://tv.tvcdnpotok.com/235/index.m3u8?wmsAuthSign=3d13e8c8191da11c0ba736d46938ba37-1768203038-81i441i16i5",
         "stream": "",
         "referer": "",
         "sources": [
