@@ -10,12 +10,6 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia24-sd/index.m3u8
 https://player.smotrim.ru/iframe/stream/live_id/1525504b-449d-432d-ab5d-1f11081f8603
 #EXTINF:-1 tvg-id="enisey" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/enisey.png" group-title="Russia",ENISEY
 https://salam-de-rasc-87.rtbcdn.ru/dive/river-3-313.rtbcdn.ru/HT6YczmTFf6rng2O3EhCLw/stream/genetta-518.ost.rutube.ru/1BGpCpRhQnZUZ7hHkEByKg/1768578323/5835cd10c04311e400f2ed19b1b2fe8b/1080p_stream.m3u8
-#EXTINF:-1 tvg-id="ntv" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/ntv.png" group-title="Russia",NTV
-https://tvcdnpotok.com/ntv/index.m3u8?wmsAuthSign=c29074e302567efc6854bd348770089a-1768265636-81i441i16i5
-#EXTINF:-1 tvg-id="tnt" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/tnt.png" group-title="Russia",TNT
-https://tvcdnpotok.com/tnt/index.m3u8?wmsAuthSign=6bd46ee61aafd20c430f0887d67381b3-1768265656-81i441i16i5
-#EXTINF:-1 tvg-id="sts" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/sts.png" group-title="Russia",STS
-https://tvcdnpotok.com/Ihj6fxuPLRn-_zJOfvOZ0g/591/1768265676/index.m3u8
 #EXTINF:-1 tvg-id="mir" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/mir.png" group-title="Russia",MIR
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/int/playlist.m3u8
 #EXTINF:-1 tvg-id="mir-24" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/mir-24.png" group-title="Russia",MIR 24
