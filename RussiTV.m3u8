@@ -23,9 +23,7 @@ https://tvcdnpotok.com/5kanal/index.m3u8?wmsAuthSign=60b14c4218051949bbcb5b48cd1
 https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1280x720@2704/playlist.m3u8
 #EXTINF:-1 tvg-id="Телеканал 86" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/Телеканал 86.png" group-title="Russia",ТЕЛЕКАНАЛ 86
 https://list.iptvcat.com/my_list/s/2dc4ab53472f00b78851607e2ccae23d.m3u8
-#EXTINF:-1 tvg-id="dom-kino-premium" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/dom-kino-premium.png" group-title="Russia",DOM KINO PREMIUM
-https://tv.tvcdnpotok.com/187/index.m3u8?wmsAuthSign=53694ec57bcf28e8f821c4e7c26dde5d-1769138309-81i441i16i5
-#EXTINF:-1 tvg-id="sony-sci-fi" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/sony-sci-fi.png" group-title="Russia",SONY SCI FI
-https://tvcdnpotok.com/sony_sci_fi/index.m3u8?wmsAuthSign=fcdb6ded5461b07460513fcbc9efc83a-1769140959-81i441i16i5
+#EXTINF:-1 tvg-id="ostrosyuzhetnoe-hd" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/ostrosyuzhetnoe-hd.png" group-title="Russia",OSTROSYUZHETNOE HD
+https://tv.tvcdnpotok.com/ostrosujetnoe/index.m3u8?wmsAuthSign=716bc98e5b044783d9a3e555ed583854-1769141634-81i441i16i5
 #EXTINF:-1 tvg-id="zvezda" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/zvezda.png" group-title="Russia",ZVEZDA
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
