@@ -98,15 +98,15 @@
         "sources": []
     },
     "domashnij": {
-        "stable_link": "",
+        "stable_link": "https://tvcdnpotok.com/domashni/index.m3u8?wmsAuthSign=f7cfda682c2c058369495ce9dd9fd1a9-1769131496-81i441i16i5",
         "stream": "",
         "referer": "",
         "sources": [
+            "http://oneliketv.net/domashnij.html",
             "https://smotrettv.com/tv/public/1132-domashnij.html",
             "http://live.viks.tv/337-domashniy.html",
             "https://telik.live/domashnij.html",
-            "http://live.tivix.co/100-domashniy.html",
-            "http://oneliketv.net/domashnij.html"
+            "http://live.tivix.co/100-domashniy.html"
         ]
     },
     "5-kanal": {
