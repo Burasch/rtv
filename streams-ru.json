@@ -1,6 +1,6 @@
 {
     "pervyj-kanal": {
-        "stable_link": "https://streaming.skyconnecting.top/live/210-req_offset_28000000-req_window_0-3k_v5.m3u8",
+        "stable_link": "https://streaming.goodstream.icu/live/210.m3u8",
         "stream": "",
         "referer": "",
         "sources": [
@@ -36,15 +36,15 @@
         "sources": []
     },
     "enisey": {
-        "stable_link": "https://bl.rutube.ru/livestream/5835cd10c04311e400f2ed19b1b2fe8b/index.m3u8?s=bxkfedKjpr3IQN9eB0yLSg&e=2069093016&scheme=https",
+        "stable_link": "https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8",
         "stream": "",
         "referer": "",
         "sources": [
+            "https://yootv.online/enisey-tv.html",
             "https://online-red.com/tv/enisey.html",
             "https://www.enisey.tv/live/",
             "https://rutube.ru/channel/23537205/",
             "https://teleon-tv.com/ru/live-tv/enisey-ru/",
-            "https://yootv.online/enisey-tv.html",
             "https://smotrettv.com/tv/regional/397-enisej-krasnojarsk.html"
         ]
     },
@@ -80,7 +80,7 @@
         ]
     },
     "mir": {
-        "stable_link": "https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/int/playlist.m3u8",
+        "stable_link": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/int/playlist.m3u8",
         "stream": "",
         "referer": "",
         "sources": [
@@ -98,19 +98,19 @@
         "sources": []
     },
     "domashnij": {
-        "stable_link": "https://tvcdnpotok.com/Yvr3ihCBeE3IpgUF6ZdXZA/561/1768269084/index.m3u8",
+        "stable_link": "",
         "stream": "",
         "referer": "",
         "sources": [
-            "http://oneliketv.net/domashnij.html",
             "https://smotrettv.com/tv/public/1132-domashnij.html",
             "http://live.viks.tv/337-domashniy.html",
             "https://telik.live/domashnij.html",
-            "http://live.tivix.co/100-domashniy.html"
+            "http://live.tivix.co/100-domashniy.html",
+            "http://oneliketv.net/domashnij.html"
         ]
     },
     "5-kanal": {
-        "stable_link": "https://tvcdnpotok.com/5kanal/index.m3u8?wmsAuthSign=c249854892537ed561934277788e9655-1769113755-81i441i16i5",
+        "stable_link": "https://tvcdnpotok.com/5kanal/index.m3u8?wmsAuthSign=ecb16bda7cb1ed30666da6c7b04efabc-1768257608-81i441i16i5",
         "stream": "",
         "referer": "",
         "sources": [
@@ -121,7 +121,7 @@
         ]
     },
     "volga": {
-        "stable_link": "https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1024x576@1272/playlist.m3u8",
+        "stable_link": "https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1280x720@2704/playlist.m3u8",
         "stream": "",
         "referer": "",
         "sources": [
@@ -158,7 +158,7 @@
         ]
     },
     "mosfilm": {
-        "stable_link": "https://tv.tvcdnpotok.com/235/index.m3u8?wmsAuthSign=eb46a8214d3c1ca8e6a6ffce61615781-1769117826-81i441i16i5",
+        "stable_link": "https://tv.tvcdnpotok.com/235/index.m3u8?wmsAuthSign=35fd5a3d16d83588f0964b96af0448c5-1768261210-81i441i16i5",
         "stream": "",
         "referer": "",
         "sources": [
@@ -169,7 +169,7 @@
         ]
     },
     "ostrosyuzhetnoe-hd": {
-        "stable_link": "https://tv.tvcdnpotok.com/ostrosujetnoe/index.m3u8?wmsAuthSign=aaa93b0f800a647d5b42980e48df087a-1769114248-81i441i16i5",
+        "stable_link": "https://tv.tvcdnpotok.com/ostrosujetnoe/index.m3u8?wmsAuthSign=5d5eba449031c474f111fefb23c9b213-1768252887-81i441i16i5",
         "stream": "",
         "referer": "",
         "sources": [
@@ -179,12 +179,12 @@
         ]
     },
     "sony-sci-fi": {
-        "stable_link": "https://tv.tvcdnpotok.com/sony_sci_fi/index.m3u8?wmsAuthSign=698a2c9955e30e0f63a1ab81714397f7-1769115533-81i441i16i5",
+        "stable_link": "https://tvcdnpotok.com/sony_sci_fi/index.m3u8?wmsAuthSign=e57a5ba22e980b38ede3b3f7cdfed71b-1768252344-81i441i16i5",
         "stream": "",
         "referer": "",
         "sources": [
-            "https://telik.live/sony-sci-fi.html",
             "http://oneliketv.net/sony-sci-fi.html",
+            "https://telik.live/sony-sci-fi.html",
             "http://live.viks.tv/466-sony-sci-fi.html",
             "http://live.tivix.co/17-axn-scifi-sony-sci-fi.html"
         ]
