@@ -21,10 +21,6 @@ https://tvcdnpotok.com/domashni/index.m3u8?wmsAuthSign=f7cfda682c2c058369495ce9d
 https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1280x720@2704/playlist.m3u8
 #EXTINF:-1 tvg-id="Телеканал 86" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/Телеканал 86.png" group-title="Russia",ТЕЛЕКАНАЛ 86
 https://list.iptvcat.com/my_list/s/2dc4ab53472f00b78851607e2ccae23d.m3u8
-#EXTINF:-1 tvg-id="dom-kino" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/dom-kino.png" group-title="Russia",DOM KINO
-https://tv.tvcdnpotok.com/186/index.m3u8?wmsAuthSign=cb9fc51fba73905c836bea45d4eb7d45-1769117960-81i441i16i5
-#EXTINF:-1 tvg-id="dom-kino-premium" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/dom-kino-premium.png" group-title="Russia",DOM KINO PREMIUM
-https://tv.tvcdnpotok.com/187/index.m3u8?wmsAuthSign=e24b483f2dca715d7197954c55968628-1769118033-81i441i16i5
 #EXTINF:-1 tvg-id="mosfilm" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/mosfilm.png" group-title="Russia",MOSFILM
 https://tv.tvcdnpotok.com/235/index.m3u8?wmsAuthSign=86d83a1f78a50b4f97bc7c26d1fb078d-1769119096-81i441i16i5
 #EXTINF:-1 tvg-id="zvezda" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/zvezda.png" group-title="Russia",ZVEZDA
