@@ -11,18 +11,18 @@ https://player.smotrim.ru/iframe/stream/live_id/1525504b-449d-432d-ab5d-1f11081f
 #EXTINF:-1 tvg-id="Енисей регион" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/Енисей регион.png" group-title="Russia",ЕНИСЕЙ РЕГИОН
 https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="НТВ" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/НТВ.png" group-title="Russia",НТВ
-https://tv.tvcdnpotok.com/537/index.m3u8?wmsAuthSign=f37ec53ac93e7e37dd9b7f277d7427ca-1769185206-81i441i16i5
+https://tv.tvcdnpotok.com/537/index.m3u8?wmsAuthSign=192023022905a9ae62192191aa71a531-1769203806-81i441i16i5
 #EXTINF:-1 tvg-id="ТНТ" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/ТНТ.png" group-title="Russia",ТНТ
-https://tvcdnpotok.com/tnt/index.m3u8?wmsAuthSign=28945e6b5cbb856a0ed36bb2241d1ec9-1769185240-81i441i16i5
+https://tvcdnpotok.com/tnt/index.m3u8?wmsAuthSign=012518b98856c17c9df3b4115dca9faa-1769203840-81i441i16i5
 #EXTINF:-1 tvg-id="CTC " tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/CTC .png" group-title="Russia",CTC 
-https://tvcdnpotok.com/sts_/index.m3u8?wmsAuthSign=b2b022708920a7c725d18edabbf2b4b9-1769185273-81i441i16i5
+https://tvcdnpotok.com/sts_/index.m3u8?wmsAuthSign=e4f08db5995d671fe43a3600760b9586-1769203874-81i441i16i5
 #EXTINF:-1 tvg-id="Мир" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/Мир.png" group-title="Russia",МИР
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/int/playlist.m3u8
 #EXTINF:-1 tvg-id="Мир 24" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/Мир 24.png" group-title="Russia",МИР 24
 
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="Домашний" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/Домашний.png" group-title="Russia",ДОМАШНИЙ
-https://tvcdnpotok.com/domashni/index.m3u8?wmsAuthSign=93b6ab229ed0c6a7a50e14307038bbe4-1769185307-81i441i16i5
+https://tvcdnpotok.com/L7PsYWU2d-8a8QVpBAozAQ/561/1769203908/index.m3u8
 #EXTINF:-1 tvg-id="5 канал" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/5 канал.png" group-title="Russia",5 КАНАЛ
 https://tvcdnpotok.com/YFcacGM5GhzNMiO70ZqY_w/524/1769186408/index.m3u8
 #EXTINF:-1 tvg-id="Волга" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/Волга.png" group-title="Russia",ВОЛГА
@@ -30,11 +30,11 @@ https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1280x720@2704/playlist
 #EXTINF:-1 tvg-id="Телеканал 86" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/Телеканал 86.png" group-title="Russia",ТЕЛЕКАНАЛ 86
 https://list.iptvcat.com/my_list/s/2dc4ab53472f00b78851607e2ccae23d.m3u8
 #EXTINF:-1 tvg-id="Дом кино" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/Дом кино.png" group-title="Russia",ДОМ КИНО
-https://tvcdnpotok.com/gMdmuDDBQVE4s_M_4kuU-Q/186/1769185376/index.m3u8
+https://tvcdnpotok.com/kS8523vJ1eMib8EKWCuK0Q/186/1769203976/index.m3u8
 #EXTINF:-1 tvg-id="Дом кино Премиум" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/Дом кино Премиум.png" group-title="Russia",ДОМ КИНО ПРЕМИУМ
-https://tvcdnpotok.com/dom_prem/index.m3u8?wmsAuthSign=a55ac76242ec3a8e26721130d01451bc-1769185444-81i441i16i5
+https://tv.tvcdnpotok.com/uy3rd3PFNgH6nlYqyVKyHQ/187/1769204011/index.m3u8
 #EXTINF:-1 tvg-id="Мосфильм" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/Мосфильм.png" group-title="Russia",МОСФИЛЬМ
-https://tv.tvcdnpotok.com/235/index.m3u8?wmsAuthSign=43edfcf4a9854129b7848ed36c4b07f4-1769185477-81i441i16i5
+https://tv.tvcdnpotok.com/mMtSB-hvSm0VwgfM7OFlcw/235/1769204047/index.m3u8
 #EXTINF:-1 tvg-id="Остросюжетное HD" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/Остросюжетное HD.png" group-title="Russia",ОСТРОСЮЖЕТНОЕ HD
 https://tv.tvcdnpotok.com/ostrosujetnoe/index.m3u8?wmsAuthSign=88c9764077833bea20d70c082f14bbf0-1769187610-81i441i16i5
 #EXTINF:-1 tvg-id="sony-sci-fi" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/sony-sci-fi.png" group-title="Russia",SONY SCI FI

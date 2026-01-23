@@ -46,7 +46,7 @@
         ]
     },
     "НТВ": {
-        "stable_link": "https://tv.tvcdnpotok.com/537/index.m3u8?wmsAuthSign=f37ec53ac93e7e37dd9b7f277d7427ca-1769185206-81i441i16i5",
+        "stable_link": "https://tv.tvcdnpotok.com/537/index.m3u8?wmsAuthSign=192023022905a9ae62192191aa71a531-1769203806-81i441i16i5",
         "stream": "",
         "referer": "",
         "sources": [
@@ -57,7 +57,7 @@
         ]
     },
     "ТНТ": {
-        "stable_link": "https://tvcdnpotok.com/tnt/index.m3u8?wmsAuthSign=28945e6b5cbb856a0ed36bb2241d1ec9-1769185240-81i441i16i5",
+        "stable_link": "https://tvcdnpotok.com/tnt/index.m3u8?wmsAuthSign=012518b98856c17c9df3b4115dca9faa-1769203840-81i441i16i5",
         "stream": "",
         "referer": "",
         "sources": [
@@ -68,7 +68,7 @@
         ]
     },
     "CTC ": {
-        "stable_link": "https://tvcdnpotok.com/sts_/index.m3u8?wmsAuthSign=b2b022708920a7c725d18edabbf2b4b9-1769185273-81i441i16i5",
+        "stable_link": "https://tvcdnpotok.com/sts_/index.m3u8?wmsAuthSign=e4f08db5995d671fe43a3600760b9586-1769203874-81i441i16i5",
         "stream": "",
         "referer": "",
         "sources": [
@@ -95,7 +95,7 @@
         "sources": []
     },
     "Домашний": {
-        "stable_link": "https://tvcdnpotok.com/domashni/index.m3u8?wmsAuthSign=93b6ab229ed0c6a7a50e14307038bbe4-1769185307-81i441i16i5",
+        "stable_link": "https://tvcdnpotok.com/L7PsYWU2d-8a8QVpBAozAQ/561/1769203908/index.m3u8",
         "stream": "",
         "referer": "",
         "sources": [
@@ -132,7 +132,7 @@
         "sources": []
     },
     "Дом кино": {
-        "stable_link": "https://tvcdnpotok.com/gMdmuDDBQVE4s_M_4kuU-Q/186/1769185376/index.m3u8",
+        "stable_link": "https://tvcdnpotok.com/kS8523vJ1eMib8EKWCuK0Q/186/1769203976/index.m3u8",
         "stream": "",
         "referer": "",
         "sources": [
@@ -143,7 +143,7 @@
         ]
     },
     "Дом кино Премиум": {
-        "stable_link": "https://tvcdnpotok.com/dom_prem/index.m3u8?wmsAuthSign=a55ac76242ec3a8e26721130d01451bc-1769185444-81i441i16i5",
+        "stable_link": "https://tv.tvcdnpotok.com/uy3rd3PFNgH6nlYqyVKyHQ/187/1769204011/index.m3u8",
         "stream": "",
         "referer": "",
         "sources": [
@@ -155,7 +155,7 @@
         ]
     },
     "Мосфильм": {
-        "stable_link": "https://tv.tvcdnpotok.com/235/index.m3u8?wmsAuthSign=43edfcf4a9854129b7848ed36c4b07f4-1769185477-81i441i16i5",
+        "stable_link": "https://tv.tvcdnpotok.com/mMtSB-hvSm0VwgfM7OFlcw/235/1769204047/index.m3u8",
         "stream": "",
         "referer": "",
         "sources": [
