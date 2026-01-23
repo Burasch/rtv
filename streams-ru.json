@@ -49,7 +49,7 @@
         ]
     },
     "ntv": {
-        "stable_link": "https://tvcdnpotok.com/ntv/index.m3u8?wmsAuthSign=28c009bbaa26ebc09f8aae85ec08047f-1769166641-81i441i16i5",
+        "stable_link": "https://tv.tvcdnpotok.com/537/index.m3u8?wmsAuthSign=f37ec53ac93e7e37dd9b7f277d7427ca-1769185206-81i441i16i5",
         "stream": "",
         "referer": "",
         "sources": [
@@ -60,7 +60,7 @@
         ]
     },
     "tnt": {
-        "stable_link": "https://tvcdnpotok.com/lQfx8zNPUgenqY7gQCCDBA/547/1769166676/index.m3u8",
+        "stable_link": "https://tvcdnpotok.com/tnt/index.m3u8?wmsAuthSign=28945e6b5cbb856a0ed36bb2241d1ec9-1769185240-81i441i16i5",
         "stream": "",
         "referer": "",
         "sources": [
@@ -71,7 +71,7 @@
         ]
     },
     "sts": {
-        "stable_link": "https://tvcdnpotok.com/sts_/index.m3u8?wmsAuthSign=fc98f31636fa6e936ea2ff1bff1ff045-1769166709-81i441i16i5",
+        "stable_link": "https://tvcdnpotok.com/sts_/index.m3u8?wmsAuthSign=b2b022708920a7c725d18edabbf2b4b9-1769185273-81i441i16i5",
         "stream": "",
         "referer": "",
         "sources": [
@@ -98,7 +98,7 @@
         "sources": []
     },
     "domashnij": {
-        "stable_link": "https://tvcdnpotok.com/776Clmw65uErT3u3HOry1A/561/1769166744/index.m3u8",
+        "stable_link": "https://tvcdnpotok.com/domashni/index.m3u8?wmsAuthSign=93b6ab229ed0c6a7a50e14307038bbe4-1769185307-81i441i16i5",
         "stream": "",
         "referer": "",
         "sources": [
@@ -135,7 +135,7 @@
         "sources": []
     },
     "dom-kino": {
-        "stable_link": "https://tvcdnpotok.com/domkino/index.m3u8?wmsAuthSign=6c3b8e56961cf5c79732afa7bfe78057-1769166974-81i441i16i5",
+        "stable_link": "https://tvcdnpotok.com/gMdmuDDBQVE4s_M_4kuU-Q/186/1769185376/index.m3u8",
         "stream": "",
         "referer": "",
         "sources": [
@@ -146,7 +146,7 @@
         ]
     },
     "dom-kino-premium": {
-        "stable_link": "https://tvcdnpotok.com/dom_prem/index.m3u8?wmsAuthSign=bfd7401d96bd3e2b38ee694b2b28423d-1769167041-81i441i16i5",
+        "stable_link": "https://tvcdnpotok.com/dom_prem/index.m3u8?wmsAuthSign=a55ac76242ec3a8e26721130d01451bc-1769185444-81i441i16i5",
         "stream": "",
         "referer": "",
         "sources": [
@@ -158,7 +158,7 @@
         ]
     },
     "mosfilm": {
-        "stable_link": "https://tv.tvcdnpotok.com/235/index.m3u8?wmsAuthSign=f9bbae725b4951380f4d10e8698776a4-1769167075-81i441i16i5",
+        "stable_link": "https://tv.tvcdnpotok.com/235/index.m3u8?wmsAuthSign=43edfcf4a9854129b7848ed36c4b07f4-1769185477-81i441i16i5",
         "stream": "",
         "referer": "",
         "sources": [
