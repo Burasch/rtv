@@ -49,7 +49,7 @@
         ]
     },
     "ntv": {
-        "stable_link": "https://tv.tvcdnpotok.com/iRFUHi3yk-F4f-gAOq_KbQ/537/1769166160/index.m3u8",
+        "stable_link": "https://tvcdnpotok.com/ntv/index.m3u8?wmsAuthSign=27b789faff26805f8ca74f4e89c01b9a-1769166040-81i441i16i5",
         "stream": "",
         "referer": "",
         "sources": [
@@ -60,7 +60,7 @@
         ]
     },
     "tnt": {
-        "stable_link": "https://tvcdnpotok.com/tnt/index.m3u8?wmsAuthSign=92c9329f9be2ac3210b5c354eff861f3-1769166194-81i441i16i5",
+        "stable_link": "https://tvcdnpotok.com/tnt/index.m3u8?wmsAuthSign=7027352b2b38fe4c1d52349e1534fcf2-1769166073-81i441i16i5",
         "stream": "",
         "referer": "",
         "sources": [
@@ -71,7 +71,7 @@
         ]
     },
     "sts": {
-        "stable_link": "https://tvcdnpotok.com/It2ltHmAHAWLPCz-E5CAAg/591/1769166233/index.m3u8",
+        "stable_link": "https://tvcdnpotok.com/D8feOSXUNvt0Dua-4Vu0iA/591/1769166107/index.m3u8",
         "stream": "",
         "referer": "",
         "sources": [
@@ -98,7 +98,7 @@
         "sources": []
     },
     "domashnij": {
-        "stable_link": "https://tvcdnpotok.com/domashni/index.m3u8?wmsAuthSign=6c435dbad4a00a4cae338ffc5d414240-1769166266-81i441i16i5",
+        "stable_link": "https://tvcdnpotok.com/domashni/index.m3u8?wmsAuthSign=6aa61a3c3bcbcf6cd048a9363d3d2c09-1769166141-81i441i16i5",
         "stream": "",
         "referer": "",
         "sources": [
@@ -135,7 +135,7 @@
         "sources": []
     },
     "dom-kino": {
-        "stable_link": "https://tvcdnpotok.com/domkino/index.m3u8?wmsAuthSign=a0f4efc902ed5003aa55b286ce5d7fd3-1769166473-81i441i16i5",
+        "stable_link": "https://tvcdnpotok.com/domkino/index.m3u8?wmsAuthSign=ecdbe5d4732b46bae6b194579e5d2d14-1769166342-81i441i16i5",
         "stream": "",
         "referer": "",
         "sources": [
@@ -146,7 +146,7 @@
         ]
     },
     "dom-kino-premium": {
-        "stable_link": "https://tv.tvcdnpotok.com/187/index.m3u8?wmsAuthSign=2e996014a3e3a96bf8cfb87d8c31b6d0-1769166508-81i441i16i5",
+        "stable_link": "https://tvcdnpotok.com/dom_prem/index.m3u8?wmsAuthSign=5d483fa334022ebedcbaee7ab36723c0-1769166411-81i441i16i5",
         "stream": "",
         "referer": "",
         "sources": [
@@ -158,7 +158,7 @@
         ]
     },
     "mosfilm": {
-        "stable_link": "https://tv.tvcdnpotok.com/235/index.m3u8?wmsAuthSign=e033bad3bd511db5b5f29bdbd2904020-1769166543-81i441i16i5",
+        "stable_link": "https://tv.tvcdnpotok.com/235/index.m3u8?wmsAuthSign=86d83a1f78a50b4f97bc7c26d1fb078d-1769119096-81i441i16i5",
         "stream": "",
         "referer": "",
         "sources": [
@@ -179,7 +179,7 @@
         ]
     },
     "sony-sci-fi": {
-        "stable_link": "https://tvcdnpotok.com/YVrNeh8HEEbe5twZnTWEDQ/145/1769166714/index.m3u8",
+        "stable_link": "https://tvcdnpotok.com/sony_sci_fi/index.m3u8?wmsAuthSign=ee5e95b1afa71531a9eef44b4595a45b-1769166764-81i441i16i5",
         "stream": "",
         "referer": "",
         "sources": [
