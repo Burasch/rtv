@@ -60,7 +60,7 @@
         ]
     },
     "tnt": {
-        "stable_link": "https://tvcdnpotok.com/tnt/index.m3u8?wmsAuthSign=4fdfac113ddbafba5161ad6830394485-1769142157-81i441i16i5",
+        "stable_link": "https://tvcdnpotok.com/tnt/index.m3u8?wmsAuthSign=6bd46ee61aafd20c430f0887d67381b3-1768265656-81i441i16i5",
         "stream": "",
         "referer": "",
         "sources": [
@@ -98,15 +98,15 @@
         "sources": []
     },
     "domashnij": {
-        "stable_link": "",
+        "stable_link": "https://tvcdnpotok.com/domashni/index.m3u8?wmsAuthSign=f7cfda682c2c058369495ce9dd9fd1a9-1769131496-81i441i16i5",
         "stream": "",
         "referer": "",
         "sources": [
+            "http://oneliketv.net/domashnij.html",
             "https://smotrettv.com/tv/public/1132-domashnij.html",
             "http://live.viks.tv/337-domashniy.html",
             "https://telik.live/domashnij.html",
-            "http://live.tivix.co/100-domashniy.html",
-            "http://oneliketv.net/domashnij.html"
+            "http://live.tivix.co/100-domashniy.html"
         ]
     },
     "5-kanal": {
@@ -146,7 +146,7 @@
         ]
     },
     "dom-kino-premium": {
-        "stable_link": "https://tv.tvcdnpotok.com/187/index.m3u8?wmsAuthSign=e24b483f2dca715d7197954c55968628-1769118033-81i441i16i5",
+        "stable_link": "https://tv.tvcdnpotok.com/187/index.m3u8?wmsAuthSign=53694ec57bcf28e8f821c4e7c26dde5d-1769138309-81i441i16i5",
         "stream": "",
         "referer": "",
         "sources": [
@@ -169,7 +169,7 @@
         ]
     },
     "ostrosyuzhetnoe-hd": {
-        "stable_link": "https://tv.tvcdnpotok.com/ostrosujetnoe/index.m3u8?wmsAuthSign=716bc98e5b044783d9a3e555ed583854-1769141634-81i441i16i5",
+        "stable_link": "https://tv.tvcdnpotok.com/ostrosujetnoe/index.m3u8?wmsAuthSign=5d5eba449031c474f111fefb23c9b213-1768252887-81i441i16i5",
         "stream": "",
         "referer": "",
         "sources": [
@@ -179,7 +179,7 @@
         ]
     },
     "sony-sci-fi": {
-        "stable_link": "https://tvcdnpotok.com/sony_sci_fi/index.m3u8?wmsAuthSign=9e2d9aa9fac1762e6b467fd93e89c177-1769142724-81i441i16i5",
+        "stable_link": "https://tvcdnpotok.com/sony_sci_fi/index.m3u8?wmsAuthSign=fcdb6ded5461b07460513fcbc9efc83a-1769140959-81i441i16i5",
         "stream": "",
         "referer": "",
         "sources": [
