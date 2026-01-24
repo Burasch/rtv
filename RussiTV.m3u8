@@ -24,7 +24,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="Домашний" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/Домашний.png" group-title="Russia",ДОМАШНИЙ
 https://tvcdnpotok.com/5WY_vRx1NkHYGepLETHyCw/561/1769241143/index.m3u8
 #EXTINF:-1 tvg-id="5 канал" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/5 канал.png" group-title="Russia",5 КАНАЛ
-https://tvcdnpotok.com/PnGVTQ7R8S3hY73QgvEMgg/524/1769235608/index.m3u8
+https://tvcdnpotok.com/5kanal/index.m3u8?wmsAuthSign=e3282780a86cd6677c8a821e01c4f32e-1769254208-81i441i16i5
 #EXTINF:-1 tvg-id="Волга" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/Волга.png" group-title="Russia",ВОЛГА
 https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1280x720@2704/playlist.m3u8
 #EXTINF:-1 tvg-id="Телеканал 86" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/Телеканал 86.png" group-title="Russia",ТЕЛЕКАНАЛ 86
