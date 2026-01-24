@@ -46,7 +46,7 @@
         ]
     },
     "НТВ": {
-        "stable_link": "https://tvcdnpotok.com/ntv/index.m3u8?wmsAuthSign=a6f49c627522cb72489124441600d1db-1769241041-81i441i16i5",
+        "stable_link": "https://tv.tvcdnpotok.com/537/index.m3u8?wmsAuthSign=f8d1ea602a489d5dbd51b2cb639e8a5e-1769259606-81i441i16i5",
         "stream": "",
         "referer": "",
         "sources": [
@@ -57,7 +57,7 @@
         ]
     },
     "ТНТ": {
-        "stable_link": "https://tvcdnpotok.com/tnt/index.m3u8?wmsAuthSign=ef8e30a7fca711552a2e3b7f45788517-1769241075-81i441i16i5",
+        "stable_link": "https://tvcdnpotok.com/tnt/index.m3u8?wmsAuthSign=29c1d294b80b04baebccf7b1f2932b0a-1769259641-81i441i16i5",
         "stream": "",
         "referer": "",
         "sources": [
@@ -68,7 +68,7 @@
         ]
     },
     "CTC ": {
-        "stable_link": "https://tvcdnpotok.com/sts_/index.m3u8?wmsAuthSign=9c87f1be21c85c5f079c65e5106cac3c-1769241108-81i441i16i5",
+        "stable_link": "https://tvcdnpotok.com/sts_/index.m3u8?wmsAuthSign=9a0a02dbbda998e80dec9f78c5456a6d-1769259675-81i441i16i5",
         "stream": "",
         "referer": "",
         "sources": [
@@ -95,7 +95,7 @@
         "sources": []
     },
     "Домашний": {
-        "stable_link": "https://tvcdnpotok.com/5WY_vRx1NkHYGepLETHyCw/561/1769241143/index.m3u8",
+        "stable_link": "https://tvcdnpotok.com/domashni/index.m3u8?wmsAuthSign=1737930584e804858c95ce3a89c32d77-1769259709-81i441i16i5",
         "stream": "",
         "referer": "",
         "sources": [
@@ -132,7 +132,7 @@
         "sources": []
     },
     "Дом кино": {
-        "stable_link": "https://tvcdnpotok.com/HXYWsmNl15Cg9ZCl4oqvAA/186/1769241212/index.m3u8",
+        "stable_link": "https://tvcdnpotok.com/domkino/index.m3u8?wmsAuthSign=8b292871178ae1a7ca10f055ccca3fce-1769259777-81i441i16i5",
         "stream": "",
         "referer": "",
         "sources": [
@@ -143,7 +143,7 @@
         ]
     },
     "Дом кино Премиум": {
-        "stable_link": "https://tv.tvcdnpotok.com/187/index.m3u8?wmsAuthSign=85c5fba04a478363df3942a876b13bd9-1769241245-81i441i16i5",
+        "stable_link": "https://tvcdnpotok.com/dom_prem/index.m3u8?wmsAuthSign=4d6aee1d3cd7107ee6e4da64f7d66200-1769259844-81i441i16i5",
         "stream": "",
         "referer": "",
         "sources": [
