@@ -46,7 +46,7 @@
         ]
     },
     "НТВ": {
-        "stable_link": "https://tvcdnpotok.com/RC3iefFFnfEMJtsBi3Wkpw/537/1769278241/index.m3u8",
+        "stable_link": "https://tv.tvcdnpotok.com/537/index.m3u8?wmsAuthSign=300d5c09475b8fba3322d24fae716dde-1769296806-81i441i16i5",
         "stream": "",
         "referer": "",
         "sources": [
@@ -57,7 +57,7 @@
         ]
     },
     "ТНТ": {
-        "stable_link": "https://tvcdnpotok.com/tnt/index.m3u8?wmsAuthSign=8297bc9db7c8151e74989d9886c59217-1769278274-81i441i16i5",
+        "stable_link": "https://tvcdnpotok.com/K13ipE1aqJoAWhMFace7ng/547/1769296841/index.m3u8",
         "stream": "",
         "referer": "",
         "sources": [
@@ -68,7 +68,7 @@
         ]
     },
     "CTC ": {
-        "stable_link": "https://tvcdnpotok.com/PnTLTMoC0LrOo2FO0N49iQ/591/1769278308/index.m3u8",
+        "stable_link": "https://tvcdnpotok.com/JY8hN8xhfYKb-PmYJXEsrg/591/1769296875/index.m3u8",
         "stream": "",
         "referer": "",
         "sources": [
@@ -95,7 +95,7 @@
         "sources": []
     },
     "Домашний": {
-        "stable_link": "https://tvcdnpotok.com/1QvKwhlp-wF5Hzshm_50oA/561/1769278342/index.m3u8",
+        "stable_link": "https://tvcdnpotok.com/domashni/index.m3u8?wmsAuthSign=940056c5dfe736b679be0410d68f0514-1769296909-81i441i16i5",
         "stream": "",
         "referer": "",
         "sources": [
@@ -132,7 +132,7 @@
         "sources": []
     },
     "Дом кино": {
-        "stable_link": "https://tvcdnpotok.com/domkino/index.m3u8?wmsAuthSign=89539d11f6172e9d08304c61faaf1502-1769278410-81i441i16i5",
+        "stable_link": "https://tvcdnpotok.com/xj6Fhssjt86g8p4fknNnzg/186/1769296979/index.m3u8",
         "stream": "",
         "referer": "",
         "sources": [
@@ -143,7 +143,7 @@
         ]
     },
     "Дом кино Премиум": {
-        "stable_link": "https://tvcdnpotok.com/dom_prem/index.m3u8?wmsAuthSign=769913bc076a2c8dce27e249e1ca4402-1769278477-81i441i16i5",
+        "stable_link": "https://tvcdnpotok.com/dom_prem/index.m3u8?wmsAuthSign=4b49e3e364fec3dba68f71b61df522da-1769297046-81i441i16i5",
         "stream": "",
         "referer": "",
         "sources": [
