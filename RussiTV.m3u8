@@ -36,7 +36,7 @@ https://tvcdnpotok.com/dom_prem/index.m3u8?wmsAuthSign=4d6aee1d3cd7107ee6e4da64f
 #EXTINF:-1 tvg-id="Мосфильм" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/Мосфильм.png" group-title="Russia",МОСФИЛЬМ
 https://tv.tvcdnpotok.com/235/index.m3u8?wmsAuthSign=0ca5a35909feeca23f72c30c75fe39e2-1769245209-81i441i16i5
 #EXTINF:-1 tvg-id="Остросюжетное HD" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/Остросюжетное HD.png" group-title="Russia",ОСТРОСЮЖЕТНОЕ HD
-https://tv.tvcdnpotok.com/okD5zyYzJc4TqzZWvmeERA/578/1769243033/index.m3u8
+https://tv.tvcdnpotok.com/ostrosujetnoe/index.m3u8?wmsAuthSign=a2d5bf4fcc4923731cc67aaf333aa518-1769264034-81i441i16i5
 #EXTINF:-1 tvg-id="sony-sci-fi" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/sony-sci-fi.png" group-title="Russia",SONY SCI FI
 https://tvcdnpotok.com/sony_sci_fi/index.m3u8?wmsAuthSign=47aef78c36d92e3a83412946840c0d20-1769257809-81i441i16i5
 #EXTINF:-1 tvg-id="Звезда" tvg-logo="https://raw.githubusercontent.com/Burasch/rtv/main/logos/Звезда.png" group-title="Russia",ЗВЕЗДА
