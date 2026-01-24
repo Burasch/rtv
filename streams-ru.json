@@ -1,5 +1,6 @@
 {
     "Первый канал": {
+        "id": "perviy-kanal",
         "stable_link": "https://streaming.goodstream.icu/live/210.m3u8",
         "sources": [
             "https://tvruss.ru/iptv/pervyij-kanal.html",
@@ -19,9 +20,11 @@
         ]
     },
     "Россия 24": {
+        "id": "rossiya-24",
         "stable_link": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia24-sd/index.m3u8"
     },
     "Planeta-RTR": {
+        "id": "Planeta-RTR",
         "stable_link": "\nhttps://player.smotrim.ru/iframe/stream/live_id/1525504b-449d-432d-ab5d-1f11081f8603"
     },
     "Енисей регион": {
@@ -35,6 +38,7 @@
         ]
     },
     "НТВ": {
+        "id": "ntv",
         "stable_link": "https://tv.tvcdnpotok.com/537/index.m3u8?wmsAuthSign=300d5c09475b8fba3322d24fae716dde-1769296806-81i441i16i5",
         "sources": [
             "https://telik.live/ntv.html",
@@ -44,6 +48,7 @@
         ]
     },
     "ТНТ": {
+        "id": "tnt",
         "stable_link": "https://tvcdnpotok.com/K13ipE1aqJoAWhMFace7ng/547/1769296841/index.m3u8",
         "sources": [
             "http://oneliketv.net/tnt.html",
@@ -53,6 +58,7 @@
         ]
     },
     "CTC ": {
+        "id": "sts",
         "stable_link": "https://tvcdnpotok.com/JY8hN8xhfYKb-PmYJXEsrg/591/1769296875/index.m3u8",
         "sources": [
             "http://oneliketv.net/sts.html",
@@ -73,6 +79,7 @@
         "stable_link": "\nhttp://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8"
     },
     "Домашний": {
+        "id": "domashniy",
         "stable_link": "https://tvcdnpotok.com/domashni/index.m3u8?wmsAuthSign=940056c5dfe736b679be0410d68f0514-1769296909-81i441i16i5",
         "sources": [
             "http://oneliketv.net/domashnij.html",
@@ -101,6 +108,7 @@
         "stable_link": "https://list.iptvcat.com/my_list/s/2dc4ab53472f00b78851607e2ccae23d.m3u8"
     },
     "Дом кино": {
+        "id": "dom-kino",
         "stable_link": "https://tvcdnpotok.com/xj6Fhssjt86g8p4fknNnzg/186/1769296979/index.m3u8",
         "sources": [
             "https://telik.live/dom-kino.html",
@@ -110,6 +118,7 @@
         ]
     },
     "Дом кино Премиум": {
+        "id": "dom-kino-premium",
         "stable_link": "https://tvcdnpotok.com/dom_prem/index.m3u8?wmsAuthSign=4b49e3e364fec3dba68f71b61df522da-1769297046-81i441i16i5",
         "sources": [
             "https://telik.live/dom-kino-premium.html",
@@ -131,9 +140,9 @@
     "Остросюжетное HD": {
         "stable_link": "https://tv.tvcdnpotok.com/ostrosujetnoe/index.m3u8?wmsAuthSign=df2521bd25ede21876bd653914006db0-1769282410-81i441i16i5",
         "sources": [
-            "https://telik.live/ostrosyuzhetnoe-hd.html",
             "http://live.viks.tv/458-ostrosyuzhetnoe-hd_6.html",
-            "http://live.tivix.co/330-ostrosyuzhetnoe-hd.html"
+            "http://live.tivix.co/330-ostrosyuzhetnoe-hd.html",
+            "https://ip.ontivi.net/ostrosjuzhetnoe44.html"
         ]
     },
     "sony-sci-fi": {
