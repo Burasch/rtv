@@ -5,7 +5,7 @@ https://streaming.goodstream.icu/live/210.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-id="Россия 24" tvg-logo="http://192.168.178.38:8080/logos/Россия 24.png" group-title="Russia",РОССИЯ 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia24-sd/index.m3u8
-#EXTINF:-1 tvg-id="Planeta-RTR" tvg-logo="http://192.168.178.38:8080/logos/Planeta-RTR.png" group-title="Russia",PLANETA RTR
+#EXTINF:-1 tvg-id="Planeta-RTR" tvg-logo="http://192.168.178.38:8080/logos/Planeta-RTR.png" group-title="Russia",PLANETA-RTR
 
 https://player.smotrim.ru/iframe/stream/live_id/1525504b-449d-432d-ab5d-1f11081f8603
 #EXTINF:-1 tvg-id="Енисей регион" tvg-logo="http://192.168.178.38:8080/logos/Енисей регион.png" group-title="Russia",ЕНИСЕЙ РЕГИОН
@@ -37,7 +37,7 @@ https://tvcdnpotok.com/dom_prem/index.m3u8?wmsAuthSign=4b49e3e364fec3dba68f71b61
 https://tv.tvcdnpotok.com/235/index.m3u8?wmsAuthSign=2110d5c880679afdef9cf3a85e520b16-1769287809-81i441i16i5
 #EXTINF:-1 tvg-id="Остросюжетное HD" tvg-logo="http://192.168.178.38:8080/logos/Остросюжетное HD.png" group-title="Russia",ОСТРОСЮЖЕТНОЕ HD
 https://tv.tvcdnpotok.com/ostrosujetnoe/index.m3u8?wmsAuthSign=df2521bd25ede21876bd653914006db0-1769282410-81i441i16i5
-#EXTINF:-1 tvg-id="sony-sci-fi" tvg-logo="http://192.168.178.38:8080/logos/sony-sci-fi.png" group-title="Russia",SONY SCI FI
+#EXTINF:-1 tvg-id="sony-sci-fi" tvg-logo="http://192.168.178.38:8080/logos/sony-sci-fi.png" group-title="Russia",SONY-SCI-FI
 https://tvcdnpotok.com/sony_sci_fi/index.m3u8?wmsAuthSign=3ff7d8ae2b73e649d3521a83825bdc6a-1769295010-81i441i16i5
 #EXTINF:-1 tvg-id="Звезда" tvg-logo="http://192.168.178.38:8080/logos/Звезда.png" group-title="Russia",ЗВЕЗДА
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
