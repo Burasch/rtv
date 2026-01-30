@@ -14,7 +14,7 @@ https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 https://cdntvmedia.com/player/playerjs.html?file=https://tv.tvcdnpotok.com/537/index.m3u8?wmsAuthSign=db7d239409249477927f6c9c27f3005a-1769794881-26i441i16i5
 #EXTINF:-1 tvg-id="ТНТ" tvg-logo="" group-title="Russia",ТНТ
 https://tvcdnpotok.com/tnt/index.m3u8?wmsAuthSign=f62abd6a0c1f2675fe798716372705cd-1769794900-26i441i16i5
-#EXTINF:-1 tvg-id="CTC " tvg-logo="" group-title="Russia",CTC 
+#EXTINF:-1 tvg-id="CTC " tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-ctc.png" group-title="Russia",CTC 
 https://tvcdnpotok.com/sts_/index.m3u8?wmsAuthSign=5bbfbe439a43db2ffa1959413d5312c2-1769794918-26i441i16i5
 #EXTINF:-1 tvg-id="Мир" tvg-logo="" group-title="Russia",Мир
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/int/playlist.m3u8
@@ -28,7 +28,7 @@ https://tvcdnpotok.com/GxbnELEuZw4-2_nTsKIA7A/524/1769794957/index.m3u8
 #EXTINF:-1 tvg-id="Волга" tvg-logo="" group-title="Russia",Волга
 https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1280x720@2704/playlist.m3u8
 #EXTINF:-1 tvg-id="Телеканал 86" tvg-logo="" group-title="Russia",Телеканал 86
-https://list.iptvcat.com/my_list/s/2dc4ab53472f00b78851607e2ccae23d.m3u8
+http://192.168.178.38:2022/stoerung.mp4
 #EXTINF:-1 tvg-id="Дом кино" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-dom-kino.png" group-title="Russia",Дом кино
 https://cdntvmedia.com/player/playerjs.html?file=https://tv.tvcdnpotok.com/186/index.m3u8?wmsAuthSign=8fb03849fe80ea198e002f345b740ffe-1769794977-26i441i16i5%20or%20https://tv.tvcdnpotok.com/186/index.m3u8?wmsAuthSign=8fb03849fe80ea198e002f345b740ffe-1769794977-26i441i16i58fb03849fe80ea198e002f345b740ffe-1769794977-26i441i16i5
 #EXTINF:-1 tvg-id="Дом кино Премиум" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-dom-kino-premium.png" group-title="Russia",Дом кино Премиум
