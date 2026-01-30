@@ -30,11 +30,11 @@ https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1280x720@2704/playlist
 #EXTINF:-1 tvg-id="Телеканал 86" tvg-logo="" group-title="Russia",Телеканал 86
 http://192.168.178.38:2022/stoerung.mp4
 #EXTINF:-1 tvg-id="Дом кино" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-dom-kino.png" group-title="Russia",Дом кино
-https://cdntvmedia.com/player/playerjs.html?file=https://tv.tvcdnpotok.com/186/index.m3u8?wmsAuthSign=8fb03849fe80ea198e002f345b740ffe-1769794977-26i441i16i5%20or%20https://tv.tvcdnpotok.com/186/index.m3u8?wmsAuthSign=8fb03849fe80ea198e002f345b740ffe-1769794977-26i441i16i58fb03849fe80ea198e002f345b740ffe-1769794977-26i441i16i5
+https://cdssntvmedia.com/player/playerjs.html?file=https://tv.tvcdnpotok.com/186/index.m3u8?wmsAuthSign=8fb03849fe80ea198e002f345b740ffe-1769794977-26i441i16i5%20or%20https://tv.tvcdnpotok.com/186/index.m3u8?wmsAuthSign=8fb03849fe80ea198e002f345b740ffe-1769794977-26i441i16i58fb03849fe80ea198e002f345b740ffe-1769794977-26i441i16i5
 #EXTINF:-1 tvg-id="Дом кино Премиум" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-dom-kino-premium.png" group-title="Russia",Дом кино Премиум
 https://tvcdnpotok.com/dom_prem/index.m3u8?wmsAuthSign=c74cd77c2590dd9b6bcc2670b7113002-1769795015-26i441i16i5
 #EXTINF:-1 tvg-id="Мосфильм" tvg-logo="" group-title="Russia",Мосфильм
-https://cdntvmedia.com/player/playerjs.html?file=https://tv.tvcdnpotok.com/235/index.m3u8?wmsAuthSign=3206d1efd03140be52fd43429d312214-1769795034-26i441i16i5%20or%20https://tv.tvcdnpotok.com/235/index.m3u8?wmsAuthSign=3206d1efd03140be52fd43429d312214-1769795034-26i441i16i53206d1efd03140be52fd43429d312214-1769795034-26i441i16i5
+https://cdntvssmedia.com/player/playerjs.html?file=https://tv.tvcdnpotok.com/235/index.m3u8?wmsAuthSign=3206d1efd03140be52fd43429d312214-1769795034-26i441i16i5%20or%20https://tv.tvcdnpotok.com/235/index.m3u8?wmsAuthSign=3206d1efd03140be52fd43429d312214-1769795034-26i441i16i53206d1efd03140be52fd43429d312214-1769795034-26i441i16i5
 #EXTINF:-1 tvg-id="Остросюжетное HD" tvg-logo="" group-title="Russia",Остросюжетное HD
 https://s.ontivi.net/578/index.m3u8?k=1769795095p26i441i16i5Sb06a8af62a740f598985bb52a56be6e8
 #EXTINF:-1 tvg-id="sony-sci-fi" tvg-logo="" group-title="Russia",sony-sci-fi
