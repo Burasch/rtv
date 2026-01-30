@@ -27,7 +27,7 @@
     "id": "Planeta-RTR",
     "stable_link": "\nhttps://player.smotrim.ru/iframe/stream/live_id/1525504b-449d-432d-ab5d-1f11081f8603"
   },
-  "Енисей регион": {
+  "Енисей ": {
     "stable_link": "https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8",
     "sources": [
       "https://yootv.online/enisey-tv.html",
@@ -146,7 +146,8 @@
       "https://ip.ontivi.net/ostrosjuzhetnoe44.html"
     ]
   },
-  "sony-sci-fi": {
+  "sci-fi": {
+    "id": "syfy",
     "stable_link": "https://tvcdnpotok.com/sony_sci_fi/index.m3u8?wmsAuthSign=947df8fedf0e7bc35aad43899c566a8d-1769795116-26i441i16i5",
     "sources": [
       "http://oneliketv.net/sony-sci-fi.html",
