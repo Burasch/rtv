@@ -1,4 +1,5 @@
-#EXTM3U
+
+#EXTM3U x-tvg-url="http://www.it999.tv/xmltv.xml.gz,https://iptvx.one/epg/epg.xml.gz"
 #EXTINF:-1 tvg-id="Первый канал" group-title="Russia",Первый канал
 https://streaming.goodstream.icu/live/210.m3u8
 #EXTINF:-1 tvg-id="Россия 1" group-title="Russia",Россия 1
