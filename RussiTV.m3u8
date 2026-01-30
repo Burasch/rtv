@@ -13,18 +13,18 @@ https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="НТВ" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-ntv.png" group-title="Russia",НТВ
 https://cdntvmedia.com/player/playerjs.html?file=https://tv.tvcdnpotok.com/537/index.m3u8?wmsAuthSign=db7d239409249477927f6c9c27f3005a-1769794881-26i441i16i5
 #EXTINF:-1 tvg-id="ТНТ" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-tnt.png" group-title="Russia",ТНТ
-https://tvcdnpotok.com/tnt/index.m3u8?wmsAuthSign=f62abd6a0c1f2675fe798716372705cd-1769794900-26i441i16i5
+https://tvcdnpotok.com/tnt/index.m3u8?wmsAuthSign=44d763a2cea59da66d1c636192d31d59-1769812997-26i441i16i5
 #EXTINF:-1 tvg-id="CTC " tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-ctc.png" group-title="Russia",CTC 
-https://tvcdnpotok.com/sts_/index.m3u8?wmsAuthSign=5bbfbe439a43db2ffa1959413d5312c2-1769794918-26i441i16i5
+https://tvcdnpotok.com/sts_/index.m3u8?wmsAuthSign=9e2c865c852818e7651f60fb5ef9149b-1769813011-26i441i16i5
 #EXTINF:-1 tvg-id="Мир" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-мир.png" group-title="Russia",Мир
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/int/playlist.m3u8
 #EXTINF:-1 tvg-id="Мир 24" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-мир-24.png" group-title="Russia",Мир 24
 
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="Домашний" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-domashniy.png" group-title="Russia",Домашний
-https://tvcdnpotok.com/domashni/index.m3u8?wmsAuthSign=56f6620951f7d1632d3a0147f2058c78-1769794938-26i441i16i5
+https://tvcdnpotok.com/domashni/index.m3u8?wmsAuthSign=e0c4ea401cbaa635da974dbd16b5361b-1769813027-26i441i16i5
 #EXTINF:-1 tvg-id="5 канал" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-5-канал.png" group-title="Russia",5 канал
-https://tvcdnpotok.com/GxbnELEuZw4-2_nTsKIA7A/524/1769794957/index.m3u8
+https://tvcdnpotok.com/5kanal/index.m3u8?wmsAuthSign=33e7135021fd7d6547e49901a464ea05-1769813042-26i441i16i5
 #EXTINF:-1 tvg-id="Волга" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-волга.png" group-title="Russia",Волга
 https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1280x720@2704/playlist.m3u8
 #EXTINF:-1 tvg-id="Телеканал 86" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-телеканал-86.png" group-title="Russia",Телеканал 86
@@ -32,7 +32,7 @@ http://192.168.178.38:2022/stoerung.mp4
 #EXTINF:-1 tvg-id="Дом кино" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-dom-kino.png" group-title="Russia",Дом кино
 https://cdntvmedia.com/player/playerjs.html?file=https://tv.tvcdnpotok.com/186/index.m3u8?wmsAuthSign=8fb03849fe80ea198e002f345b740ffe-1769794977-26i441i16i5%20or%20https://tv.tvcdnpotok.com/186/index.m3u8?wmsAuthSign=8fb03849fe80ea198e002f345b740ffe-1769794977-26i441i16i58fb03849fe80ea198e002f345b740ffe-1769794977-26i441i16i5
 #EXTINF:-1 tvg-id="Дом кино Премиум" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-dom-kino-premium.png" group-title="Russia",Дом кино Премиум
-https://tvcdnpotok.com/dom_prem/index.m3u8?wmsAuthSign=c74cd77c2590dd9b6bcc2670b7113002-1769795015-26i441i16i5
+https://cdntvmedia.com/player/playerjs.html?file=https://tv.tvcdnpotok.com/187/index.m3u8?wmsAuthSign=b495d090f870131ae5420405b58b4edd-1769813059-26i441i16i5%20or%20https://tv.tvcdnpotok.com/187/index.m3u8?wmsAuthSign=b495d090f870131ae5420405b58b4edd-1769813059-26i441i16i5b495d090f870131ae5420405b58b4edd-1769813059-26i441i16i5
 #EXTINF:-1 tvg-id="Мосфильм" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-мосфильм.png" group-title="Russia",Мосфильм
 https://cdntvmedia.com/player/playerjs.html?file=https://tv.tvcdnpotok.com/235/index.m3u8?wmsAuthSign=3206d1efd03140be52fd43429d312214-1769795034-26i441i16i5%20or%20https://tv.tvcdnpotok.com/235/index.m3u8?wmsAuthSign=3206d1efd03140be52fd43429d312214-1769795034-26i441i16i53206d1efd03140be52fd43429d312214-1769795034-26i441i16i5
 #EXTINF:-1 tvg-id="Остросюжетное HD" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-остросюжетное-hd.png" group-title="Russia",Остросюжетное HD
