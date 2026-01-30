@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="http://www.it999.tv/xmltv.xml.gz,https://iptvx.one/epg/epg.xml.gz"
 #EXTINF:-1 tvg-id="Первый канал" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-perviy-kanal.png" group-title="Russia",Первый канал
-https://streaming.goodstream.icu/live/210.m3u8
+https://streaming.thestream.cyou/live/210.m3u8
 #EXTINF:-1 tvg-id="Россия 1" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-rossiya-1.png" group-title="Russia",Россия 1
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-id="Россия 24" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-rossiya-24.png" group-title="Russia",Россия 24
