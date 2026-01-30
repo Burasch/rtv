@@ -1,43 +1,43 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="Первый канал" group-title="Russia",Первый канал
+#EXTM3U x-tvg-url="http://www.it999.tv/xmltv.xml.gz,https://iptvx.one/epg/epg.xml.gz"
+#EXTINF:-1 tvg-id="Первый канал" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-perviy-kanal.png" group-title="Russia",Первый канал
 https://streaming.goodstream.icu/live/210.m3u8
-#EXTINF:-1 tvg-id="Россия 1" group-title="Russia",Россия 1
+#EXTINF:-1 tvg-id="Россия 1" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-rossiya-1.png" group-title="Russia",Россия 1
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
-#EXTINF:-1 tvg-id="Россия 24" group-title="Russia",Россия 24
+#EXTINF:-1 tvg-id="Россия 24" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-rossiya-24.png" group-title="Russia",Россия 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia24-sd/index.m3u8
-#EXTINF:-1 tvg-id="Planeta-RTR" group-title="Russia",Planeta-RTR
+#EXTINF:-1 tvg-id="Planeta-RTR" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-Planeta-RTR.png" group-title="Russia",Planeta-RTR
 
 https://player.smotrim.ru/iframe/stream/live_id/1525504b-449d-432d-ab5d-1f11081f8603
-#EXTINF:-1 tvg-id="Енисей регион" group-title="Russia",Енисей регион
+#EXTINF:-1 tvg-id="Енисей " tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-енисей-.png" group-title="Russia",Енисей 
 https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
-#EXTINF:-1 tvg-id="НТВ" group-title="Russia",НТВ
+#EXTINF:-1 tvg-id="НТВ" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-ntv.png" group-title="Russia",НТВ
 https://cdntvmedia.com/player/playerjs.html?file=https://tv.tvcdnpotok.com/537/index.m3u8?wmsAuthSign=db7d239409249477927f6c9c27f3005a-1769794881-26i441i16i5
-#EXTINF:-1 tvg-id="ТНТ" group-title="Russia",ТНТ
+#EXTINF:-1 tvg-id="ТНТ" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-tnt.png" group-title="Russia",ТНТ
 https://tvcdnpotok.com/tnt/index.m3u8?wmsAuthSign=f62abd6a0c1f2675fe798716372705cd-1769794900-26i441i16i5
-#EXTINF:-1 tvg-id="CTC " group-title="Russia",CTC 
+#EXTINF:-1 tvg-id="CTC " tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-ctc.png" group-title="Russia",CTC 
 https://tvcdnpotok.com/sts_/index.m3u8?wmsAuthSign=5bbfbe439a43db2ffa1959413d5312c2-1769794918-26i441i16i5
-#EXTINF:-1 tvg-id="Мир" group-title="Russia",Мир
+#EXTINF:-1 tvg-id="Мир" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-мир.png" group-title="Russia",Мир
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/int/playlist.m3u8
-#EXTINF:-1 tvg-id="Мир 24" group-title="Russia",Мир 24
+#EXTINF:-1 tvg-id="Мир 24" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-мир-24.png" group-title="Russia",Мир 24
 
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 tvg-id="Домашний" group-title="Russia",Домашний
+#EXTINF:-1 tvg-id="Домашний" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-domashniy.png" group-title="Russia",Домашний
 https://tvcdnpotok.com/domashni/index.m3u8?wmsAuthSign=56f6620951f7d1632d3a0147f2058c78-1769794938-26i441i16i5
-#EXTINF:-1 tvg-id="5 канал" group-title="Russia",5 канал
+#EXTINF:-1 tvg-id="5 канал" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-5-канал.png" group-title="Russia",5 канал
 https://tvcdnpotok.com/GxbnELEuZw4-2_nTsKIA7A/524/1769794957/index.m3u8
-#EXTINF:-1 tvg-id="Волга" group-title="Russia",Волга
+#EXTINF:-1 tvg-id="Волга" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-волга.png" group-title="Russia",Волга
 https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1280x720@2704/playlist.m3u8
-#EXTINF:-1 tvg-id="Телеканал 86" group-title="Russia",Телеканал 86
+#EXTINF:-1 tvg-id="Телеканал 86" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-телеканал-86.png" group-title="Russia",Телеканал 86
 http://192.168.178.38:2022/stoerung.mp4
-#EXTINF:-1 tvg-id="Дом кино" group-title="Russia",Дом кино
+#EXTINF:-1 tvg-id="Дом кино" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-dom-kino.png" group-title="Russia",Дом кино
 https://cdntvmedia.com/player/playerjs.html?file=https://tv.tvcdnpotok.com/186/index.m3u8?wmsAuthSign=8fb03849fe80ea198e002f345b740ffe-1769794977-26i441i16i5%20or%20https://tv.tvcdnpotok.com/186/index.m3u8?wmsAuthSign=8fb03849fe80ea198e002f345b740ffe-1769794977-26i441i16i58fb03849fe80ea198e002f345b740ffe-1769794977-26i441i16i5
-#EXTINF:-1 tvg-id="Дом кино Премиум" group-title="Russia",Дом кино Премиум
+#EXTINF:-1 tvg-id="Дом кино Премиум" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-dom-kino-premium.png" group-title="Russia",Дом кино Премиум
 https://tvcdnpotok.com/dom_prem/index.m3u8?wmsAuthSign=c74cd77c2590dd9b6bcc2670b7113002-1769795015-26i441i16i5
-#EXTINF:-1 tvg-id="Мосфильм" group-title="Russia",Мосфильм
+#EXTINF:-1 tvg-id="Мосфильм" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-мосфильм.png" group-title="Russia",Мосфильм
 https://cdntvmedia.com/player/playerjs.html?file=https://tv.tvcdnpotok.com/235/index.m3u8?wmsAuthSign=3206d1efd03140be52fd43429d312214-1769795034-26i441i16i5%20or%20https://tv.tvcdnpotok.com/235/index.m3u8?wmsAuthSign=3206d1efd03140be52fd43429d312214-1769795034-26i441i16i53206d1efd03140be52fd43429d312214-1769795034-26i441i16i5
-#EXTINF:-1 tvg-id="Остросюжетное HD" group-title="Russia",Остросюжетное HD
+#EXTINF:-1 tvg-id="Остросюжетное HD" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-остросюжетное-hd.png" group-title="Russia",Остросюжетное HD
 https://s.ontivi.net/578/index.m3u8?k=1769795095p26i441i16i5Sb06a8af62a740f598985bb52a56be6e8
-#EXTINF:-1 tvg-id="sony-sci-fi" group-title="Russia",sony-sci-fi
+#EXTINF:-1 tvg-id="sci-fi" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-syfy.png" group-title="Russia",sci-fi
 https://tvcdnpotok.com/sony_sci_fi/index.m3u8?wmsAuthSign=947df8fedf0e7bc35aad43899c566a8d-1769795116-26i441i16i5
-#EXTINF:-1 tvg-id="Звезда" group-title="Russia",Звезда
+#EXTINF:-1 tvg-id="Звезда" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-звезда.png" group-title="Russia",Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
