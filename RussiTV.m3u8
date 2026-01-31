@@ -18,7 +18,6 @@ https://tvcdnpotok.com/sts_/index.m3u8?wmsAuthSign=18cc93cf53b65ae1d3d945936ea65
 #EXTINF:-1 tvg-id="mir" tvg-name="Мир" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-мир.png" group-title="Russia",Мир
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/int/playlist.m3u8
 #EXTINF:-1 tvg-id="mir-24" tvg-name="Мир 24" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-мир-24.png" group-title="Russia",Мир 24
-
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="domashny" tvg-name="Домашний" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-domashniy.png" group-title="Russia",Домашний
 https://tvcdnpotok.com/domashni/index.m3u8?wmsAuthSign=3b1b6fb44760e9e139c0f4cf6a9a6ea4-1769867717-26i441i16i5
@@ -31,9 +30,9 @@ https://sitv.ru/hls/s86512.m3u8
 #EXTINF:-1 tvg-id="domkino" tvg-name="Дом кино" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-dom-kino.png" group-title="Russia",Дом кино
 https://tv.tvcdnpotok.com/186/index.m3u8?wmsAuthSign=dc14928bea21d38e7648cfb29ddeee98-1769877943-26i441i16i5
 #EXTINF:-1 tvg-id="domkino-premium" tvg-name="Дом кино Премиум" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-dom-kino-premium.png" group-title="Russia",Дом кино Премиум
-http://192.168.178.38:2022/stoerung.mp4
+https://cdntvmedia.com/player/playerjs.html?file=https://tv.tvcdnpotok.com/187/index.m3u8?wmsAuthSign=ab61cab49cfefac09a1b2425d0affa2c-1769878265-26i441i16i5
 #EXTINF:-1 tvg-id="Мосфильм" tvg-name="Мосфильм" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-мосфильм.png" group-title="Russia",Мосфильм
-http://192.168.178.38:2022/stoerung.mp4
+https://cdntvmedia.com/player/playerjs.html?file=https://tv.tvcdnpotok.com/235/index.m3u8?wmsAuthSign=75d6d5bafa5605397fb3a767b2087487-1769878275-26i441i16i5
 #EXTINF:-1 tvg-id="ostrosiuzhetnoe-hd" tvg-name="Остросюжетное HD" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-остросюжетное-hd.png" group-title="Russia",Остросюжетное HD
 https://s.ontivi.net/578/index.m3u8?k=1769869584p26i441i16i5Sfd42c3518e87f90affd54516ff548066
 #EXTINF:-1 tvg-id="sci-fi" tvg-name="sci-fi" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-syfy.png" group-title="Russia",sci-fi
