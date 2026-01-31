@@ -1,41 +1,41 @@
 #EXTM3U x-tvg-url="http://192.168.178.38:2022/epg.xml.gz"
 #EXTINF:-1 tvg-id="pervy" tvg-name="Первый канал" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-perviy-kanal.png" group-title="Russia",Первый канал
-https://streaming.thestream.cyou/live/210.m3u8
+http://192.168.178.38:2022/proxy/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB
 #EXTINF:-1 tvg-id="rossia1" tvg-name="Россия 1" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-rossiya-1.png" group-title="Russia",Россия 1
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+http://192.168.178.38:2022/proxy/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%201
 #EXTINF:-1 tvg-id="rossia-24" tvg-name="Россия 24" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-rossiya-24.png" group-title="Russia",Россия 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia24-sd/index.m3u8
+http://192.168.178.38:2022/proxy/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%2024
 #EXTINF:-1 tvg-id="Planeta-RTR" tvg-name="Planeta-RTR" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-Planeta-RTR.png" group-title="Russia",Planeta-RTR
-http://192.168.178.38:2022/stoerung.mp4
+http://192.168.178.38:2022/proxy/Planeta-RTR
 #EXTINF:-1 tvg-id="Енисей" tvg-name="Енисей" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-енисей-.png" group-title="Russia",Енисей
-https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
+http://192.168.178.38:2022/proxy/%D0%95%D0%BD%D0%B8%D1%81%D0%B5%D0%B9%20
 #EXTINF:-1 tvg-id="ntv" tvg-name="НТВ" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-ntv.png" group-title="Russia",НТВ
-https://tv.tvcdnpotok.com/537/index.m3u8?wmsAuthSign=bfb2f16bd72d80dbfe0ff372e1cfc85b-1769877929-26i441i16i5
+http://192.168.178.38:2022/proxy/%D0%9D%D0%A2%D0%92
 #EXTINF:-1 tvg-id="tnt" tvg-name="ТНТ" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-tnt.png" group-title="Russia",ТНТ
-https://tvcdnpotok.com/tnt/index.m3u8?wmsAuthSign=10dc090bc166f0a962ca4794b76014ba-1769867685-26i441i16i5
+http://192.168.178.38:2022/proxy/%D0%A2%D0%9D%D0%A2
 #EXTINF:-1 tvg-id="CTC" tvg-name="CTC" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-ctc.png" group-title="Russia",CTC
-https://tvcdnpotok.com/sts_/index.m3u8?wmsAuthSign=18cc93cf53b65ae1d3d945936ea650c6-1769867701-26i441i16i5
+http://192.168.178.38:2022/proxy/CTC%20
 #EXTINF:-1 tvg-id="mir" tvg-name="Мир" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-мир.png" group-title="Russia",Мир
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/int/playlist.m3u8
+http://192.168.178.38:2022/proxy/%D0%9C%D0%B8%D1%80
 #EXTINF:-1 tvg-id="mir-24" tvg-name="Мир 24" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-мир-24.png" group-title="Russia",Мир 24
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+http://192.168.178.38:2022/proxy/%D0%9C%D0%B8%D1%80%2024
 #EXTINF:-1 tvg-id="domashny" tvg-name="Домашний" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-domashniy.png" group-title="Russia",Домашний
-https://tvcdnpotok.com/domashni/index.m3u8?wmsAuthSign=3b1b6fb44760e9e139c0f4cf6a9a6ea4-1769867717-26i441i16i5
+http://192.168.178.38:2022/proxy/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B8%D0%B9
 #EXTINF:-1 tvg-id="5kanal-ua" tvg-name="5 канал" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-5-канал.png" group-title="Russia",5 канал
-https://tvcdnpotok.com/5kanal/index.m3u8?wmsAuthSign=e937273b14cb239f1855e542bed0a2ef-1769867731-26i441i16i5
+http://192.168.178.38:2022/proxy/5%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB
 #EXTINF:-1 tvg-id="volga" tvg-name="Волга" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-волга.png" group-title="Russia",Волга
-https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1280x720@2704/playlist.m3u8
+http://192.168.178.38:2022/proxy/%D0%92%D0%BE%D0%BB%D0%B3%D0%B0
 #EXTINF:-1 tvg-id="86-surgut" tvg-name="Телеканал 86" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-телеканал-86.png" group-title="Russia",Телеканал 86
-https://sitv.ru/hls/s86512.m3u8
+http://192.168.178.38:2022/proxy/%D0%A2%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%2086
 #EXTINF:-1 tvg-id="domkino" tvg-name="Дом кино" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-dom-kino.png" group-title="Russia",Дом кино
-https://tv.tvcdnpotok.com/186/index.m3u8?wmsAuthSign=dc14928bea21d38e7648cfb29ddeee98-1769877943-26i441i16i5
+http://192.168.178.38:2022/proxy/%D0%94%D0%BE%D0%BC%20%D0%BA%D0%B8%D0%BD%D0%BE
 #EXTINF:-1 tvg-id="domkino-premium" tvg-name="Дом кино Премиум" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-dom-kino-premium.png" group-title="Russia",Дом кино Премиум
-https://tv.tvcdnpotok.com/187/index.m3u8?wmsAuthSign=ab61cab49cfefac09a1b2425d0affa2c-1769878265-26i441i16i5
+http://192.168.178.38:2022/proxy/%D0%94%D0%BE%D0%BC%20%D0%BA%D0%B8%D0%BD%D0%BE%20%D0%9F%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC
 #EXTINF:-1 tvg-id="Мосфильм" tvg-name="Мосфильм" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-мосфильм.png" group-title="Russia",Мосфильм
-https://tv.tvcdnpotok.com/235/index.m3u8?wmsAuthSign=75d6d5bafa5605397fb3a767b2087487-1769878275-26i441i16i5
+http://192.168.178.38:2022/proxy/%D0%9C%D0%BE%D1%81%D1%84%D0%B8%D0%BB%D1%8C%D0%BC
 #EXTINF:-1 tvg-id="ostrosiuzhetnoe-hd" tvg-name="Остросюжетное HD" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-остросюжетное-hd.png" group-title="Russia",Остросюжетное HD
-https://s.ontivi.net/578/index.m3u8?k=1769869584p26i441i16i5Sfd42c3518e87f90affd54516ff548066
+http://192.168.178.38:2022/proxy/%D0%9E%D1%81%D1%82%D1%80%D0%BE%D1%81%D1%8E%D0%B6%D0%B5%D1%82%D0%BD%D0%BE%D0%B5%20HD
 #EXTINF:-1 tvg-id="sci-fi" tvg-name="sci-fi" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-syfy.png" group-title="Russia",sci-fi
-https://tvcdnpotok.com/sony_sci_fi/index.m3u8?wmsAuthSign=24138c2d684f952162accd2a955875ea-1769869602-26i441i16i5
+http://192.168.178.38:2022/proxy/sci-fi
 #EXTINF:-1 tvg-id="zvezda" tvg-name="Звезда" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-звезда.png" group-title="Russia",Звезда
-https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
+http://192.168.178.38:2022/proxy/%D0%97%D0%B2%D0%B5%D0%B7%D0%B4%D0%B0
