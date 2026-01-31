@@ -12,18 +12,18 @@ https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="НТВ" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-ntv.png" group-title="Russia",НТВ
 https://cdntvmedia.com/player/playerjs.html?file=https://tv.tvcdnpotok.com/537/index.m3u8?wmsAuthSign=db7d239409249477927f6c9c27f3005a-1769794881-26i441i16i5
 #EXTINF:-1 tvg-id="ТНТ" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-tnt.png" group-title="Russia",ТНТ
-https://tvcdnpotok.com/tnt/index.m3u8?wmsAuthSign=892a13e299f41b120cbbf6acc76b020c-1769849485-26i441i16i5
+https://tvcdnpotok.com/tnt/index.m3u8?wmsAuthSign=10dc090bc166f0a962ca4794b76014ba-1769867685-26i441i16i5
 #EXTINF:-1 tvg-id="CTC " tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-ctc.png" group-title="Russia",CTC 
-https://tvcdnpotok.com/sts_/index.m3u8?wmsAuthSign=3a77b29a3542708af93416665d773f90-1769849499-26i441i16i5
+https://tvcdnpotok.com/sts_/index.m3u8?wmsAuthSign=18cc93cf53b65ae1d3d945936ea650c6-1769867701-26i441i16i5
 #EXTINF:-1 tvg-id="Мир" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-мир.png" group-title="Russia",Мир
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/int/playlist.m3u8
 #EXTINF:-1 tvg-id="Мир 24" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-мир-24.png" group-title="Russia",Мир 24
 
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="Домашний" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-domashniy.png" group-title="Russia",Домашний
-https://tvcdnpotok.com/domashni/index.m3u8?wmsAuthSign=6afe24a391f343389e8f3150a50bf7d2-1769849515-26i441i16i5
+https://tvcdnpotok.com/domashni/index.m3u8?wmsAuthSign=3b1b6fb44760e9e139c0f4cf6a9a6ea4-1769867717-26i441i16i5
 #EXTINF:-1 tvg-id="5 канал" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-5-канал.png" group-title="Russia",5 канал
-https://tvcdnpotok.com/5kanal/index.m3u8?wmsAuthSign=33124049d791672271be63706e1d427d-1769849529-26i441i16i5
+https://tvcdnpotok.com/5kanal/index.m3u8?wmsAuthSign=e937273b14cb239f1855e542bed0a2ef-1769867731-26i441i16i5
 #EXTINF:-1 tvg-id="Волга" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-волга.png" group-title="Russia",Волга
 https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1280x720@2704/playlist.m3u8
 #EXTINF:-1 tvg-id="Телеканал 86" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-телеканал-86.png" group-title="Russia",Телеканал 86
