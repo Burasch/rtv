@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptvx.one/epg/epg.xml.gz"
+#EXTM3U x-tvg-url="http://192.168.178.38:2022/epg.xml.gz"
 #EXTINF:-1 tvg-id="pervy" tvg-name="Первый канал" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-perviy-kanal.png" group-title="Russia",Первый канал
 https://streaming.thestream.cyou/live/210.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-name="Россия 1" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-rossiya-1.png" group-title="Russia",Россия 1
@@ -7,13 +7,13 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia24-sd/index.m3u8
 #EXTINF:-1 tvg-id="Planeta-RTR" tvg-name="Planeta-RTR" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-Planeta-RTR.png" group-title="Russia",Planeta-RTR
 http://192.168.178.38:2022/stoerung.mp4
-#EXTINF:-1 tvg-id="Енисей " tvg-name="Енисей " tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-енисей-.png" group-title="Russia",Енисей 
+#EXTINF:-1 tvg-id="Енисей" tvg-name="Енисей" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-енисей-.png" group-title="Russia",Енисей
 https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="ntv" tvg-name="НТВ" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-ntv.png" group-title="Russia",НТВ
 https://cdntvmedia.com/player/playerjs.html?file=https://tv.tvcdnpotok.com/537/index.m3u8?wmsAuthSign=db7d239409249477927f6c9c27f3005a-1769794881-26i441i16i5
 #EXTINF:-1 tvg-id="tnt" tvg-name="ТНТ" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-tnt.png" group-title="Russia",ТНТ
 https://tvcdnpotok.com/tnt/index.m3u8?wmsAuthSign=10dc090bc166f0a962ca4794b76014ba-1769867685-26i441i16i5
-#EXTINF:-1 tvg-id="CTC " tvg-name="CTC " tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-ctc.png" group-title="Russia",CTC 
+#EXTINF:-1 tvg-id="CTC" tvg-name="CTC" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-ctc.png" group-title="Russia",CTC
 https://tvcdnpotok.com/sts_/index.m3u8?wmsAuthSign=18cc93cf53b65ae1d3d945936ea650c6-1769867701-26i441i16i5
 #EXTINF:-1 tvg-id="mir" tvg-name="Мир" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-мир.png" group-title="Russia",Мир
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/int/playlist.m3u8
