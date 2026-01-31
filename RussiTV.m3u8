@@ -1,42 +1,42 @@
 #EXTM3U x-tvg-url="http://www.it999.tv/xmltv.xml.gz,https://iptvx.one/epg/epg.xml.gz"
-#EXTINF:-1 tvg-id="Первый канал" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-perviy-kanal.png" group-title="Russia",Первый канал
+#EXTINF:-1 tvg-id="Первый канал" tvg-name="Первый канал" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-perviy-kanal.png" group-title="Russia",Первый канал
 https://streaming.thestream.cyou/live/210.m3u8
-#EXTINF:-1 tvg-id="Россия 1" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-rossiya-1.png" group-title="Russia",Россия 1
+#EXTINF:-1 tvg-id="Россия 1" tvg-name="Россия 1" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-rossiya-1.png" group-title="Russia",Россия 1
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
-#EXTINF:-1 tvg-id="Россия 24" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-rossiya-24.png" group-title="Russia",Россия 24
+#EXTINF:-1 tvg-id="Россия 24" tvg-name="Россия 24" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-rossiya-24.png" group-title="Russia",Россия 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia24-sd/index.m3u8
-#EXTINF:-1 tvg-id="Planeta-RTR" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-Planeta-RTR.png" group-title="Russia",Planeta-RTR
+#EXTINF:-1 tvg-id="Planeta-RTR" tvg-name="Planeta-RTR" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-Planeta-RTR.png" group-title="Russia",Planeta-RTR
 http://192.168.178.38:2022/stoerung.mp4
-#EXTINF:-1 tvg-id="Енисей " tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-енисей-.png" group-title="Russia",Енисей 
+#EXTINF:-1 tvg-id="Енисей " tvg-name="Енисей " tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-енисей-.png" group-title="Russia",Енисей 
 https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
-#EXTINF:-1 tvg-id="НТВ" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-ntv.png" group-title="Russia",НТВ
+#EXTINF:-1 tvg-id="НТВ" tvg-name="НТВ" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-ntv.png" group-title="Russia",НТВ
 https://cdntvmedia.com/player/playerjs.html?file=https://tv.tvcdnpotok.com/537/index.m3u8?wmsAuthSign=db7d239409249477927f6c9c27f3005a-1769794881-26i441i16i5
-#EXTINF:-1 tvg-id="ТНТ" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-tnt.png" group-title="Russia",ТНТ
+#EXTINF:-1 tvg-id="ТНТ" tvg-name="ТНТ" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-tnt.png" group-title="Russia",ТНТ
 https://tvcdnpotok.com/tnt/index.m3u8?wmsAuthSign=10dc090bc166f0a962ca4794b76014ba-1769867685-26i441i16i5
-#EXTINF:-1 tvg-id="CTC " tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-ctc.png" group-title="Russia",CTC 
+#EXTINF:-1 tvg-id="CTC " tvg-name="CTC " tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-ctc.png" group-title="Russia",CTC 
 https://tvcdnpotok.com/sts_/index.m3u8?wmsAuthSign=18cc93cf53b65ae1d3d945936ea650c6-1769867701-26i441i16i5
-#EXTINF:-1 tvg-id="Мир" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-мир.png" group-title="Russia",Мир
+#EXTINF:-1 tvg-id="Мир" tvg-name="Мир" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-мир.png" group-title="Russia",Мир
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/int/playlist.m3u8
-#EXTINF:-1 tvg-id="Мир 24" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-мир-24.png" group-title="Russia",Мир 24
+#EXTINF:-1 tvg-id="Мир 24" tvg-name="Мир 24" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-мир-24.png" group-title="Russia",Мир 24
 
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 tvg-id="Домашний" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-domashniy.png" group-title="Russia",Домашний
+#EXTINF:-1 tvg-id="Домашний" tvg-name="Домашний" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-domashniy.png" group-title="Russia",Домашний
 https://tvcdnpotok.com/domashni/index.m3u8?wmsAuthSign=3b1b6fb44760e9e139c0f4cf6a9a6ea4-1769867717-26i441i16i5
-#EXTINF:-1 tvg-id="5 канал" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-5-канал.png" group-title="Russia",5 канал
+#EXTINF:-1 tvg-id="5 канал" tvg-name="5 канал" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-5-канал.png" group-title="Russia",5 канал
 https://tvcdnpotok.com/5kanal/index.m3u8?wmsAuthSign=e937273b14cb239f1855e542bed0a2ef-1769867731-26i441i16i5
-#EXTINF:-1 tvg-id="Волга" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-волга.png" group-title="Russia",Волга
+#EXTINF:-1 tvg-id="Волга" tvg-name="Волга" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-волга.png" group-title="Russia",Волга
 https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1280x720@2704/playlist.m3u8
-#EXTINF:-1 tvg-id="Телеканал 86" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-телеканал-86.png" group-title="Russia",Телеканал 86
+#EXTINF:-1 tvg-id="Телеканал 86" tvg-name="Телеканал 86" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-телеканал-86.png" group-title="Russia",Телеканал 86
 http://192.168.178.38:2022/stoerung.mp4
-#EXTINF:-1 tvg-id="Дом кино" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-dom-kino.png" group-title="Russia",Дом кино
+#EXTINF:-1 tvg-id="Дом кино" tvg-name="Дом кино" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-dom-kino.png" group-title="Russia",Дом кино
 https://cdntvmedia.com/player/playerjs.html?file=https://tv.tvcdnpotok.com/186/index.m3u8?wmsAuthSign=8fb03849fe80ea198e002f345b740ffe-1769794977-26i441i16i5%20or%20https://tv.tvcdnpotok.com/186/index.m3u8?wmsAuthSign=8fb03849fe80ea198e002f345b740ffe-1769794977-26i441i16i58fb03849fe80ea198e002f345b740ffe-1769794977-26i441i16i5
-#EXTINF:-1 tvg-id="Дом кино Премиум" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-dom-kino-premium.png" group-title="Russia",Дом кино Премиум
+#EXTINF:-1 tvg-id="Дом кино Премиум" tvg-name="Дом кино Премиум" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-dom-kino-premium.png" group-title="Russia",Дом кино Премиум
 https://cdntvmedia.com/player/playerjs.html?file=https://tv.tvcdnpotok.com/187/index.m3u8?wmsAuthSign=b495d090f870131ae5420405b58b4edd-1769813059-26i441i16i5%20or%20https://tv.tvcdnpotok.com/187/index.m3u8?wmsAuthSign=b495d090f870131ae5420405b58b4edd-1769813059-26i441i16i5b495d090f870131ae5420405b58b4edd-1769813059-26i441i16i5
-#EXTINF:-1 tvg-id="Мосфильм" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-мосфильм.png" group-title="Russia",Мосфильм
+#EXTINF:-1 tvg-id="Мосфильм" tvg-name="Мосфильм" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-мосфильм.png" group-title="Russia",Мосфильм
 https://cdntvmedia.com/player/playerjs.html?file=https://tv.tvcdnpotok.com/235/index.m3u8?wmsAuthSign=3206d1efd03140be52fd43429d312214-1769795034-26i441i16i5%20or%20https://tv.tvcdnpotok.com/235/index.m3u8?wmsAuthSign=3206d1efd03140be52fd43429d312214-1769795034-26i441i16i53206d1efd03140be52fd43429d312214-1769795034-26i441i16i5
-#EXTINF:-1 tvg-id="Остросюжетное HD" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-остросюжетное-hd.png" group-title="Russia",Остросюжетное HD
+#EXTINF:-1 tvg-id="Остросюжетное HD" tvg-name="Остросюжетное HD" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-остросюжетное-hd.png" group-title="Russia",Остросюжетное HD
 https://s.ontivi.net/578/index.m3u8?k=1769869584p26i441i16i5Sfd42c3518e87f90affd54516ff548066
-#EXTINF:-1 tvg-id="sci-fi" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-syfy.png" group-title="Russia",sci-fi
+#EXTINF:-1 tvg-id="sci-fi" tvg-name="sci-fi" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-syfy.png" group-title="Russia",sci-fi
 https://tvcdnpotok.com/sony_sci_fi/index.m3u8?wmsAuthSign=24138c2d684f952162accd2a955875ea-1769869602-26i441i16i5
-#EXTINF:-1 tvg-id="Звезда" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-звезда.png" group-title="Russia",Звезда
+#EXTINF:-1 tvg-id="Звезда" tvg-name="Звезда" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-звезда.png" group-title="Russia",Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
