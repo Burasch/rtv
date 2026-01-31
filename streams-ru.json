@@ -40,7 +40,7 @@
     },
     "НТВ": {
         "id": "ntv",
-        "stable_link": "https://cdntvmedia.com/player/playerjs.html?file=https://tv.tvcdnpotok.com/537/index.m3u8?wmsAuthSign=db7d239409249477927f6c9c27f3005a-1769794881-26i441i16i5",
+        "stable_link": "https://tv.tvcdnpotok.com/537/index.m3u8?wmsAuthSign=bfb2f16bd72d80dbfe0ff372e1cfc85b-1769877929-26i441i16i5",
         "sources": [
             "https://telik.live/ntv.html",
             "http://oneliketv.net/ntv.html",
@@ -114,7 +114,7 @@
     },
     "Дом кино": {
         "id": "dom-kino",
-        "stable_link": "https://cdntvmedia.com/player/playerjs.html?file=https://tv.tvcdnpotok.com/186/index.m3u8?wmsAuthSign=8fb03849fe80ea198e002f345b740ffe-1769794977-26i441i16i5%20or%20https://tv.tvcdnpotok.com/186/index.m3u8?wmsAuthSign=8fb03849fe80ea198e002f345b740ffe-1769794977-26i441i16i58fb03849fe80ea198e002f345b740ffe-1769794977-26i441i16i5",
+        "stable_link": "https://tv.tvcdnpotok.com/186/index.m3u8?wmsAuthSign=dc14928bea21d38e7648cfb29ddeee98-1769877943-26i441i16i5",
         "sources": [
             "https://telik.live/dom-kino.html",
             "http://oneliketv.net/dom-kino.html",
@@ -124,7 +124,7 @@
     },
     "Дом кино Премиум": {
         "id": "dom-kino-premium",
-        "stable_link": "https://cdntvmedia.com/player/playerjs.html?file=https://tv.tvcdnpotok.com/187/index.m3u8?wmsAuthSign=b495d090f870131ae5420405b58b4edd-1769813059-26i441i16i5%20or%20https://tv.tvcdnpotok.com/187/index.m3u8?wmsAuthSign=b495d090f870131ae5420405b58b4edd-1769813059-26i441i16i5b495d090f870131ae5420405b58b4edd-1769813059-26i441i16i5",
+        "stable_link": "http://192.168.178.38:2022/stoerung.mp4",
         "sources": [
             "https://telik.live/dom-kino-premium.html",
             "http://oneliketv.net/dom-kino-premium.html",
@@ -134,7 +134,7 @@
         ]
     },
     "Мосфильм": {
-        "stable_link": "https://cdntvmedia.com/player/playerjs.html?file=https://tv.tvcdnpotok.com/235/index.m3u8?wmsAuthSign=3206d1efd03140be52fd43429d312214-1769795034-26i441i16i5%20or%20https://tv.tvcdnpotok.com/235/index.m3u8?wmsAuthSign=3206d1efd03140be52fd43429d312214-1769795034-26i441i16i53206d1efd03140be52fd43429d312214-1769795034-26i441i16i5",
+        "stable_link": "http://192.168.178.38:2022/stoerung.mp4",
         "sources": [
             "https://telik.live/mosfilm-zolotaya-kolleksiya.html",
             "https://smotrettv.com/tv/kino/737-mosfilm-zolotaja-kollekcija.html",

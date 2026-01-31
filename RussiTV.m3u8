@@ -10,7 +10,7 @@ http://192.168.178.38:2022/stoerung.mp4
 #EXTINF:-1 tvg-id="Енисей" tvg-name="Енисей" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-енисей-.png" group-title="Russia",Енисей
 https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="ntv" tvg-name="НТВ" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-ntv.png" group-title="Russia",НТВ
-https://cdntvmedia.com/player/playerjs.html?file=https://tv.tvcdnpotok.com/537/index.m3u8?wmsAuthSign=db7d239409249477927f6c9c27f3005a-1769794881-26i441i16i5
+https://tv.tvcdnpotok.com/537/index.m3u8?wmsAuthSign=bfb2f16bd72d80dbfe0ff372e1cfc85b-1769877929-26i441i16i5
 #EXTINF:-1 tvg-id="tnt" tvg-name="ТНТ" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-tnt.png" group-title="Russia",ТНТ
 https://tvcdnpotok.com/tnt/index.m3u8?wmsAuthSign=10dc090bc166f0a962ca4794b76014ba-1769867685-26i441i16i5
 #EXTINF:-1 tvg-id="CTC" tvg-name="CTC" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-ctc.png" group-title="Russia",CTC
@@ -29,11 +29,11 @@ https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1280x720@2704/playlist
 #EXTINF:-1 tvg-id="86-surgut" tvg-name="Телеканал 86" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-телеканал-86.png" group-title="Russia",Телеканал 86
 https://sitv.ru/hls/s86512.m3u8
 #EXTINF:-1 tvg-id="domkino" tvg-name="Дом кино" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-dom-kino.png" group-title="Russia",Дом кино
-https://cdntvmedia.com/player/playerjs.html?file=https://tv.tvcdnpotok.com/186/index.m3u8?wmsAuthSign=8fb03849fe80ea198e002f345b740ffe-1769794977-26i441i16i5%20or%20https://tv.tvcdnpotok.com/186/index.m3u8?wmsAuthSign=8fb03849fe80ea198e002f345b740ffe-1769794977-26i441i16i58fb03849fe80ea198e002f345b740ffe-1769794977-26i441i16i5
+https://tv.tvcdnpotok.com/186/index.m3u8?wmsAuthSign=dc14928bea21d38e7648cfb29ddeee98-1769877943-26i441i16i5
 #EXTINF:-1 tvg-id="domkino-premium" tvg-name="Дом кино Премиум" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-dom-kino-premium.png" group-title="Russia",Дом кино Премиум
-https://cdntvmedia.com/player/playerjs.html?file=https://tv.tvcdnpotok.com/187/index.m3u8?wmsAuthSign=b495d090f870131ae5420405b58b4edd-1769813059-26i441i16i5%20or%20https://tv.tvcdnpotok.com/187/index.m3u8?wmsAuthSign=b495d090f870131ae5420405b58b4edd-1769813059-26i441i16i5b495d090f870131ae5420405b58b4edd-1769813059-26i441i16i5
+http://192.168.178.38:2022/stoerung.mp4
 #EXTINF:-1 tvg-id="Мосфильм" tvg-name="Мосфильм" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-мосфильм.png" group-title="Russia",Мосфильм
-https://cdntvmedia.com/player/playerjs.html?file=https://tv.tvcdnpotok.com/235/index.m3u8?wmsAuthSign=3206d1efd03140be52fd43429d312214-1769795034-26i441i16i5%20or%20https://tv.tvcdnpotok.com/235/index.m3u8?wmsAuthSign=3206d1efd03140be52fd43429d312214-1769795034-26i441i16i53206d1efd03140be52fd43429d312214-1769795034-26i441i16i5
+http://192.168.178.38:2022/stoerung.mp4
 #EXTINF:-1 tvg-id="ostrosiuzhetnoe-hd" tvg-name="Остросюжетное HD" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-остросюжетное-hd.png" group-title="Russia",Остросюжетное HD
 https://s.ontivi.net/578/index.m3u8?k=1769869584p26i441i16i5Sfd42c3518e87f90affd54516ff548066
 #EXTINF:-1 tvg-id="sci-fi" tvg-name="sci-fi" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-syfy.png" group-title="Russia",sci-fi
