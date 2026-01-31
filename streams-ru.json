@@ -1,169 +1,169 @@
 {
-  "Первый канал": {
-    "id": "perviy-kanal",
-    "epg_id": "pervy",
-    "stable_link": "https://streaming.thestream.cyou/live/210.m3u8",
-    "sources": [
-      "https://tvruss.ru/iptv/pervyij-kanal.html",
-      "http://oneliketv.net/pervyj-kanal.html",
-      "http://live.viks.tv/054107-pervyy-kanal.html",
-      "https://telik.live/pervyj-kanal.html"
-    ]
-  },
-  "Россия 1": {
-    "id": "rossiya-1",
-    "stable_link": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8",
-    "sources": [
-      "http://live.viks.tv/031327-rossiya1_tv.html",
-      "https://telik.live/rossiya-1.html",
-      "http://oneliketv.net/russia-1.html",
-      "http://live.tivix.co/61-rossiya-1-tv.html"
-    ]
-  },
-  "Россия 24": {
-    "id": "rossiya-24",
-    "stable_link": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia24-sd/index.m3u8"
-  },
-  "Planeta-RTR": {
-    "id": "Planeta-RTR",
-    "stable_link": "http://192.168.178.38:2022/stoerung.mp4"
-  },
-  "Енисей ": {
-    "stable_link": "https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8",
-    "sources": [
-      "https://yootv.online/enisey-tv.html",
-      "https://online-red.com/tv/enisey.html",
-      "https://www.enisey.tv/live/",
-      "https://rutube.ru/channel/23537205/",
-      "https://teleon-tv.com/ru/live-tv/enisey-ru/"
-    ]
-  },
-  "НТВ": {
-    "id": "ntv",
-    "stable_link": "https://cdntvmedia.com/player/playerjs.html?file=https://tv.tvcdnpotok.com/537/index.m3u8?wmsAuthSign=db7d239409249477927f6c9c27f3005a-1769794881-26i441i16i5",
-    "sources": [
-      "https://telik.live/ntv.html",
-      "http://oneliketv.net/ntv.html",
-      "http://live.viks.tv/401-ntv_v1.html",
-      "http://live.tivix.co/115506-telekanal-ntv.html"
-    ]
-  },
-  "ТНТ": {
-    "id": "tnt",
-    "stable_link": "https://tvcdnpotok.com/tnt/index.m3u8?wmsAuthSign=10dc090bc166f0a962ca4794b76014ba-1769867685-26i441i16i5",
-    "sources": [
-      "http://oneliketv.net/tnt.html",
-      "http://live.viks.tv/333-tnt_tv_v1.html",
-      "https://telik.live/tnt.html",
-      "http://live.tivix.co/115506-tv-tnt.html"
-    ]
-  },
-  "CTC ": {
-    "id": "ctc",
-    "stable_link": "https://tvcdnpotok.com/sts_/index.m3u8?wmsAuthSign=18cc93cf53b65ae1d3d945936ea650c6-1769867701-26i441i16i5",
-    "sources": [
-      "http://oneliketv.net/sts.html",
-      "http://live.viks.tv/023117-sts.html"
-    ]
-  },
-  "Мир": {
-    "stable_link": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/int/playlist.m3u8",
-    "sources": [
-      "https://mir24.tv/live",
-      "http://live.viks.tv/568-mir_v2.html",
-      "https://telik.live/mir.html",
-      "http://oneliketv.net/mir.html",
-      "http://live.tivix.co/43-mir-tv.html"
-    ]
-  },
-  "Мир 24": {
-    "stable_link": "\nhttp://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8"
-  },
-  "Домашний": {
-    "id": "domashniy",
-    "stable_link": "https://tvcdnpotok.com/domashni/index.m3u8?wmsAuthSign=3b1b6fb44760e9e139c0f4cf6a9a6ea4-1769867717-26i441i16i5",
-    "sources": [
-      "http://oneliketv.net/domashnij.html",
-      "https://smotrettv.com/tv/public/1132-domashnij.html",
-      "http://live.viks.tv/337-domashniy.html",
-      "https://telik.live/domashnij.html",
-      "http://live.tivix.co/100-domashniy.html"
-    ]
-  },
-  "5 канал": {
-    "stable_link": "https://tvcdnpotok.com/5kanal/index.m3u8?wmsAuthSign=e937273b14cb239f1855e542bed0a2ef-1769867731-26i441i16i5",
-    "sources": [
-      "http://oneliketv.net/5-kanal-russia.html",
-      "http://live.viks.tv/105326-pyatyy.html",
-      "https://telik.live/pyatyj-kanal.html",
-      "http://live.tivix.co/93-pyatyy-kanal_sankt_peterburg_2.html"
-    ]
-  },
-  "Волга": {
-    "stable_link": "https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1280x720@2704/playlist.m3u8",
-    "sources": [
-      "https://www.volga-tv.ru/live/"
-    ]
-  },
-  "Телеканал 86": {
-    "stable_link": "https://sitv.ru/hls/s86512.m3u8",
-    "sources": [
-      "https://sitv.ru/efir/86/",
-      "https://player.teleon.tv/ru/channel/86-tv"
-    ]
-  },
-  "Дом кино": {
-    "id": "dom-kino",
-    "stable_link": "https://cdntvmedia.com/player/playerjs.html?file=https://tv.tvcdnpotok.com/186/index.m3u8?wmsAuthSign=8fb03849fe80ea198e002f345b740ffe-1769794977-26i441i16i5%20or%20https://tv.tvcdnpotok.com/186/index.m3u8?wmsAuthSign=8fb03849fe80ea198e002f345b740ffe-1769794977-26i441i16i58fb03849fe80ea198e002f345b740ffe-1769794977-26i441i16i5",
-    "sources": [
-      "https://telik.live/dom-kino.html",
-      "http://oneliketv.net/dom-kino.html",
-      "http://live.viks.tv/438-dom-kino_19.html",
-      "http://live.tivix.co/035212-telekanal-dom-kino.html"
-    ]
-  },
-  "Дом кино Премиум": {
-    "id": "dom-kino-premium",
-    "stable_link": "https://cdntvmedia.com/player/playerjs.html?file=https://tv.tvcdnpotok.com/187/index.m3u8?wmsAuthSign=b495d090f870131ae5420405b58b4edd-1769813059-26i441i16i5%20or%20https://tv.tvcdnpotok.com/187/index.m3u8?wmsAuthSign=b495d090f870131ae5420405b58b4edd-1769813059-26i441i16i5b495d090f870131ae5420405b58b4edd-1769813059-26i441i16i5",
-    "sources": [
-      "https://telik.live/dom-kino-premium.html",
-      "http://oneliketv.net/dom-kino-premium.html",
-      "https://smotrettv.com/tv/kino/112-dom-kino-premium.html",
-      "http://live.tivix.co/031812-dom-kino-premium.html",
-      "http://live.viks.tv/512-dom-kino-premium_12.html"
-    ]
-  },
-  "Мосфильм": {
-    "stable_link": "https://cdntvmedia.com/player/playerjs.html?file=https://tv.tvcdnpotok.com/235/index.m3u8?wmsAuthSign=3206d1efd03140be52fd43429d312214-1769795034-26i441i16i5%20or%20https://tv.tvcdnpotok.com/235/index.m3u8?wmsAuthSign=3206d1efd03140be52fd43429d312214-1769795034-26i441i16i53206d1efd03140be52fd43429d312214-1769795034-26i441i16i5",
-    "sources": [
-      "https://telik.live/mosfilm-zolotaya-kolleksiya.html",
-      "https://smotrettv.com/tv/kino/737-mosfilm-zolotaja-kollekcija.html",
-      "http://live.viks.tv/106326-mosfilm.html",
-      "http://live.tivix.co/450-mosfilm.html"
-    ]
-  },
-  "Остросюжетное HD": {
-    "stable_link": "https://s.ontivi.net/578/index.m3u8?k=1769869584p26i441i16i5Sfd42c3518e87f90affd54516ff548066",
-    "sources": [
-      "http://live.viks.tv/458-ostrosyuzhetnoe-hd_6.html",
-      "http://live.tivix.co/330-ostrosyuzhetnoe-hd.html",
-      "https://ip.ontivi.net/ostrosjuzhetnoe44.html"
-    ]
-  },
-  "sci-fi": {
-    "id": "syfy",
-    "stable_link": "https://tvcdnpotok.com/sony_sci_fi/index.m3u8?wmsAuthSign=24138c2d684f952162accd2a955875ea-1769869602-26i441i16i5",
-    "sources": [
-      "http://oneliketv.net/sony-sci-fi.html",
-      "https://telik.live/sony-sci-fi.html",
-      "http://live.viks.tv/466-sony-sci-fi.html",
-      "http://live.tivix.co/17-axn-scifi-sony-sci-fi.html"
-    ]
-  },
-  "Звезда": {
-    "stable_link": "https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8",
-    "sources": [
-      "http://live.viks.tv/349-zvezda_1.html"
-    ]
-  }
+    "\u041f\u0435\u0440\u0432\u044b\u0439 \u043a\u0430\u043d\u0430\u043b": {
+        "id": "perviy-kanal",
+        "epg_id": "pervy",
+        "stable_link": "https://streaming.thestream.cyou/live/210.m3u8",
+        "sources": [
+            "https://tvruss.ru/iptv/pervyij-kanal.html",
+            "http://oneliketv.net/pervyj-kanal.html",
+            "http://live.viks.tv/054107-pervyy-kanal.html",
+            "https://telik.live/pervyj-kanal.html"
+        ]
+    },
+    "\u0420\u043e\u0441\u0441\u0438\u044f 1": {
+        "id": "rossiya-1",
+        "stable_link": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8",
+        "sources": [
+            "http://live.viks.tv/031327-rossiya1_tv.html",
+            "https://telik.live/rossiya-1.html",
+            "http://oneliketv.net/russia-1.html",
+            "http://live.tivix.co/61-rossiya-1-tv.html"
+        ]
+    },
+    "\u0420\u043e\u0441\u0441\u0438\u044f 24": {
+        "id": "rossiya-24",
+        "stable_link": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia24-sd/index.m3u8"
+    },
+    "Planeta-RTR": {
+        "id": "Planeta-RTR",
+        "stable_link": "http://192.168.178.38:2022/stoerung.mp4"
+    },
+    "\u0415\u043d\u0438\u0441\u0435\u0439 ": {
+        "stable_link": "https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8",
+        "sources": [
+            "https://yootv.online/enisey-tv.html",
+            "https://online-red.com/tv/enisey.html",
+            "https://www.enisey.tv/live/",
+            "https://rutube.ru/channel/23537205/",
+            "https://teleon-tv.com/ru/live-tv/enisey-ru/"
+        ]
+    },
+    "\u041d\u0422\u0412": {
+        "id": "ntv",
+        "stable_link": "https://cdntvmedia.com/player/playerjs.html?file=https://tv.tvcdnpotok.com/537/index.m3u8?wmsAuthSign=db7d239409249477927f6c9c27f3005a-1769794881-26i441i16i5",
+        "sources": [
+            "https://telik.live/ntv.html",
+            "http://oneliketv.net/ntv.html",
+            "http://live.viks.tv/401-ntv_v1.html",
+            "http://live.tivix.co/115506-telekanal-ntv.html"
+        ]
+    },
+    "\u0422\u041d\u0422": {
+        "id": "tnt",
+        "stable_link": "https://tvcdnpotok.com/tnt/index.m3u8?wmsAuthSign=10dc090bc166f0a962ca4794b76014ba-1769867685-26i441i16i5",
+        "sources": [
+            "http://oneliketv.net/tnt.html",
+            "http://live.viks.tv/333-tnt_tv_v1.html",
+            "https://telik.live/tnt.html",
+            "http://live.tivix.co/115506-tv-tnt.html"
+        ]
+    },
+    "CTC ": {
+        "id": "ctc",
+        "stable_link": "https://tvcdnpotok.com/sts_/index.m3u8?wmsAuthSign=18cc93cf53b65ae1d3d945936ea650c6-1769867701-26i441i16i5",
+        "sources": [
+            "http://oneliketv.net/sts.html",
+            "http://live.viks.tv/023117-sts.html"
+        ]
+    },
+    "\u041c\u0438\u0440": {
+        "stable_link": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/int/playlist.m3u8",
+        "sources": [
+            "https://mir24.tv/live",
+            "http://live.viks.tv/568-mir_v2.html",
+            "https://telik.live/mir.html",
+            "http://oneliketv.net/mir.html",
+            "http://live.tivix.co/43-mir-tv.html"
+        ]
+    },
+    "\u041c\u0438\u0440 24": {
+        "stable_link": "\nhttp://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8"
+    },
+    "\u0414\u043e\u043c\u0430\u0448\u043d\u0438\u0439": {
+        "id": "domashniy",
+        "stable_link": "https://tvcdnpotok.com/domashni/index.m3u8?wmsAuthSign=3b1b6fb44760e9e139c0f4cf6a9a6ea4-1769867717-26i441i16i5",
+        "sources": [
+            "http://oneliketv.net/domashnij.html",
+            "https://smotrettv.com/tv/public/1132-domashnij.html",
+            "http://live.viks.tv/337-domashniy.html",
+            "https://telik.live/domashnij.html",
+            "http://live.tivix.co/100-domashniy.html"
+        ]
+    },
+    "5 \u043a\u0430\u043d\u0430\u043b": {
+        "stable_link": "https://tvcdnpotok.com/5kanal/index.m3u8?wmsAuthSign=e937273b14cb239f1855e542bed0a2ef-1769867731-26i441i16i5",
+        "sources": [
+            "http://oneliketv.net/5-kanal-russia.html",
+            "http://live.viks.tv/105326-pyatyy.html",
+            "https://telik.live/pyatyj-kanal.html",
+            "http://live.tivix.co/93-pyatyy-kanal_sankt_peterburg_2.html"
+        ]
+    },
+    "\u0412\u043e\u043b\u0433\u0430": {
+        "stable_link": "https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1280x720@2704/playlist.m3u8",
+        "sources": [
+            "https://www.volga-tv.ru/live/"
+        ]
+    },
+    "\u0422\u0435\u043b\u0435\u043a\u0430\u043d\u0430\u043b 86": {
+        "stable_link": "https://sitv.ru/hls/s86512.m3u8",
+        "sources": [
+            "https://sitv.ru/efir/86/",
+            "https://player.teleon.tv/ru/channel/86-tv"
+        ]
+    },
+    "\u0414\u043e\u043c \u043a\u0438\u043d\u043e": {
+        "id": "dom-kino",
+        "stable_link": "https://cdntvmedia.com/player/playerjs.html?file=https://tv.tvcdnpotok.com/186/index.m3u8?wmsAuthSign=8fb03849fe80ea198e002f345b740ffe-1769794977-26i441i16i5%20or%20https://tv.tvcdnpotok.com/186/index.m3u8?wmsAuthSign=8fb03849fe80ea198e002f345b740ffe-1769794977-26i441i16i58fb03849fe80ea198e002f345b740ffe-1769794977-26i441i16i5",
+        "sources": [
+            "https://telik.live/dom-kino.html",
+            "http://oneliketv.net/dom-kino.html",
+            "http://live.viks.tv/438-dom-kino_19.html",
+            "http://live.tivix.co/035212-telekanal-dom-kino.html"
+        ]
+    },
+    "\u0414\u043e\u043c \u043a\u0438\u043d\u043e \u041f\u0440\u0435\u043c\u0438\u0443\u043c": {
+        "id": "dom-kino-premium",
+        "stable_link": "https://cdntvmedia.com/player/playerjs.html?file=https://tv.tvcdnpotok.com/187/index.m3u8?wmsAuthSign=b495d090f870131ae5420405b58b4edd-1769813059-26i441i16i5%20or%20https://tv.tvcdnpotok.com/187/index.m3u8?wmsAuthSign=b495d090f870131ae5420405b58b4edd-1769813059-26i441i16i5b495d090f870131ae5420405b58b4edd-1769813059-26i441i16i5",
+        "sources": [
+            "https://telik.live/dom-kino-premium.html",
+            "http://oneliketv.net/dom-kino-premium.html",
+            "https://smotrettv.com/tv/kino/112-dom-kino-premium.html",
+            "http://live.tivix.co/031812-dom-kino-premium.html",
+            "http://live.viks.tv/512-dom-kino-premium_12.html"
+        ]
+    },
+    "\u041c\u043e\u0441\u0444\u0438\u043b\u044c\u043c": {
+        "stable_link": "https://cdntvmedia.com/player/playerjs.html?file=https://tv.tvcdnpotok.com/235/index.m3u8?wmsAuthSign=3206d1efd03140be52fd43429d312214-1769795034-26i441i16i5%20or%20https://tv.tvcdnpotok.com/235/index.m3u8?wmsAuthSign=3206d1efd03140be52fd43429d312214-1769795034-26i441i16i53206d1efd03140be52fd43429d312214-1769795034-26i441i16i5",
+        "sources": [
+            "https://telik.live/mosfilm-zolotaya-kolleksiya.html",
+            "https://smotrettv.com/tv/kino/737-mosfilm-zolotaja-kollekcija.html",
+            "http://live.viks.tv/106326-mosfilm.html",
+            "http://live.tivix.co/450-mosfilm.html"
+        ]
+    },
+    "\u041e\u0441\u0442\u0440\u043e\u0441\u044e\u0436\u0435\u0442\u043d\u043e\u0435 HD": {
+        "stable_link": "https://s.ontivi.net/578/index.m3u8?k=1769869584p26i441i16i5Sfd42c3518e87f90affd54516ff548066",
+        "sources": [
+            "http://live.viks.tv/458-ostrosyuzhetnoe-hd_6.html",
+            "http://live.tivix.co/330-ostrosyuzhetnoe-hd.html",
+            "https://ip.ontivi.net/ostrosjuzhetnoe44.html"
+        ]
+    },
+    "sci-fi": {
+        "id": "syfy",
+        "stable_link": "https://tvcdnpotok.com/sony_sci_fi/index.m3u8?wmsAuthSign=24138c2d684f952162accd2a955875ea-1769869602-26i441i16i5",
+        "sources": [
+            "http://oneliketv.net/sony-sci-fi.html",
+            "https://telik.live/sony-sci-fi.html",
+            "http://live.viks.tv/466-sony-sci-fi.html",
+            "http://live.tivix.co/17-axn-scifi-sony-sci-fi.html"
+        ]
+    },
+    "\u0417\u0432\u0435\u0437\u0434\u0430": {
+        "stable_link": "https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8",
+        "sources": [
+            "http://live.viks.tv/349-zvezda_1.html"
+        ]
+    }
 }
