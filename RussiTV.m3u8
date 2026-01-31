@@ -27,7 +27,7 @@ https://tvcdnpotok.com/5kanal/index.m3u8?wmsAuthSign=e937273b14cb239f1855e542bed
 #EXTINF:-1 tvg-id="Волга" tvg-name="Волга" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-волга.png" group-title="Russia",Волга
 https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1280x720@2704/playlist.m3u8
 #EXTINF:-1 tvg-id="Телеканал 86" tvg-name="Телеканал 86" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-телеканал-86.png" group-title="Russia",Телеканал 86
-http://192.168.178.38:2022/stoerung.mp4
+https://sitv.ru/hls/s86512.m3u8
 #EXTINF:-1 tvg-id="Дом кино" tvg-name="Дом кино" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-dom-kino.png" group-title="Russia",Дом кино
 https://cdntvmedia.com/player/playerjs.html?file=https://tv.tvcdnpotok.com/186/index.m3u8?wmsAuthSign=8fb03849fe80ea198e002f345b740ffe-1769794977-26i441i16i5%20or%20https://tv.tvcdnpotok.com/186/index.m3u8?wmsAuthSign=8fb03849fe80ea198e002f345b740ffe-1769794977-26i441i16i58fb03849fe80ea198e002f345b740ffe-1769794977-26i441i16i5
 #EXTINF:-1 tvg-id="Дом кино Премиум" tvg-name="Дом кино Премиум" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-dom-kino-premium.png" group-title="Russia",Дом кино Премиум
