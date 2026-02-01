@@ -28,7 +28,7 @@
         "id": "Planeta-RTR",
         "stable_link": "http://192.168.178.38:2022/stoerung.mp4"
     },
-    "Енисей ": {
+    "Енисей": {
         "stable_link": "https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8",
         "sources": [
             "https://yootv.online/enisey-tv.html",
@@ -58,7 +58,7 @@
             "http://live.tivix.co/115506-tv-tnt.html"
         ]
     },
-    "CTC ": {
+    "CTC": {
         "id": "ctc",
         "stable_link": "https://tvcdnpotok.com/sts_/index.m3u8?wmsAuthSign=60a5fab866eadd2c0d768b9f74ddf4b4-1769965126-26i441i16i5",
         "sources": [
