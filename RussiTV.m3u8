@@ -1,41 +1,41 @@
 #EXTM3U x-tvg-url="http://192.168.178.38:2022/epg.xml.gz"
 #EXTINF:-1 tvg-id="pervy" tvg-name="Первый канал" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-perviy-kanal.png" group-title="Russia",Первый канал
-http://192.168.178.38:2022/proxy/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB
+http://192.168.178.38:2022/proxy/Первый канал
 #EXTINF:-1 tvg-id="rossia1" tvg-name="Россия 1" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-rossiya-1.png" group-title="Russia",Россия 1
-http://192.168.178.38:2022/proxy/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%201
+http://192.168.178.38:2022/proxy/Россия 1
 #EXTINF:-1 tvg-id="rossia-24" tvg-name="Россия 24" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-rossiya-24.png" group-title="Russia",Россия 24
-http://192.168.178.38:2022/proxy/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%2024
+http://192.168.178.38:2022/proxy/Россия 24
 #EXTINF:-1 tvg-id="Planeta-RTR" tvg-name="Planeta-RTR" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-Planeta-RTR.png" group-title="Russia",Planeta-RTR
 http://192.168.178.38:2022/proxy/Planeta-RTR
 #EXTINF:-1 tvg-id="Енисей" tvg-name="Енисей" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-tv.png" group-title="Russia",Енисей
-http://192.168.178.38:2022/proxy/%D0%95%D0%BD%D0%B8%D1%81%D0%B5%D0%B9
+http://192.168.178.38:2022/proxy/Енисей
 #EXTINF:-1 tvg-id="ntv" tvg-name="НТВ" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-ntv.png" group-title="Russia",НТВ
-http://192.168.178.38:2022/proxy/%D0%9D%D0%A2%D0%92
+http://192.168.178.38:2022/proxy/НТВ
 #EXTINF:-1 tvg-id="tnt" tvg-name="ТНТ" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-tnt.png" group-title="Russia",ТНТ
-http://192.168.178.38:2022/proxy/%D0%A2%D0%9D%D0%A2
+http://192.168.178.38:2022/proxy/ТНТ
 #EXTINF:-1 tvg-id="CTC" tvg-name="CTC" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-ctc.png" group-title="Russia",CTC
 http://192.168.178.38:2022/proxy/CTC
 #EXTINF:-1 tvg-id="mir" tvg-name="Мир" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-tv.png" group-title="Russia",Мир
-http://192.168.178.38:2022/proxy/%D0%9C%D0%B8%D1%80
+http://192.168.178.38:2022/proxy/Мир
 #EXTINF:-1 tvg-id="mir-24" tvg-name="Мир 24" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-tv.png" group-title="Russia",Мир 24
-http://192.168.178.38:2022/proxy/%D0%9C%D0%B8%D1%80%2024
+http://192.168.178.38:2022/proxy/Мир 24
 #EXTINF:-1 tvg-id="domashny" tvg-name="Домашний" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-domashniy.png" group-title="Russia",Домашний
-http://192.168.178.38:2022/proxy/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B8%D0%B9
+http://192.168.178.38:2022/proxy/Домашний
 #EXTINF:-1 tvg-id="5kanal-ua" tvg-name="5 канал" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-tv.png" group-title="Russia",5 канал
-http://192.168.178.38:2022/proxy/5%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB
+http://192.168.178.38:2022/proxy/5 канал
 #EXTINF:-1 tvg-id="volga" tvg-name="Волга" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-tv.png" group-title="Russia",Волга
-http://192.168.178.38:2022/proxy/%D0%92%D0%BE%D0%BB%D0%B3%D0%B0
+http://192.168.178.38:2022/proxy/Волга
 #EXTINF:-1 tvg-id="86-surgut" tvg-name="Телеканал 86" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-tv.png" group-title="Russia",Телеканал 86
-http://192.168.178.38:2022/proxy/%D0%A2%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%2086
+http://192.168.178.38:2022/proxy/Телеканал 86
 #EXTINF:-1 tvg-id="domkino" tvg-name="Дом кино" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-dom-kino.png" group-title="Russia",Дом кино
-http://192.168.178.38:2022/proxy/%D0%94%D0%BE%D0%BC%20%D0%BA%D0%B8%D0%BD%D0%BE
+http://192.168.178.38:2022/proxy/Дом кино
 #EXTINF:-1 tvg-id="domkino-premium" tvg-name="Дом кино Премиум" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-dom-kino-premium.png" group-title="Russia",Дом кино Премиум
-http://192.168.178.38:2022/proxy/%D0%94%D0%BE%D0%BC%20%D0%BA%D0%B8%D0%BD%D0%BE%20%D0%9F%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC
+http://192.168.178.38:2022/proxy/Дом кино Премиум
 #EXTINF:-1 tvg-id="mosfilm" tvg-name="Мосфильм" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-mosfilm.png" group-title="Russia",Мосфильм
-http://192.168.178.38:2022/proxy/%D0%9C%D0%BE%D1%81%D1%84%D0%B8%D0%BB%D1%8C%D0%BC
+http://192.168.178.38:2022/proxy/Мосфильм
 #EXTINF:-1 tvg-id="ostrosiuzhetnoe-hd" tvg-name="Остросюжетное HD" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-tv.png" group-title="Russia",Остросюжетное HD
-http://192.168.178.38:2022/proxy/%D0%9E%D1%81%D1%82%D1%80%D0%BE%D1%81%D1%8E%D0%B6%D0%B5%D1%82%D0%BD%D0%BE%D0%B5%20HD
+http://192.168.178.38:2022/proxy/Остросюжетное HD
 #EXTINF:-1 tvg-id="sci-fi" tvg-name="sci-fi" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-syfy.png" group-title="Russia",sci-fi
 http://192.168.178.38:2022/proxy/sci-fi
 #EXTINF:-1 tvg-id="zvezda" tvg-name="Звезда" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-tv.png" group-title="Russia",Звезда
-http://192.168.178.38:2022/proxy/%D0%97%D0%B2%D0%B5%D0%B7%D0%B4%D0%B0
+http://192.168.178.38:2022/proxy/Звезда
