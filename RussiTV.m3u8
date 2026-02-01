@@ -7,14 +7,14 @@ http://192.168.178.38:2022/proxy/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%201
 http://192.168.178.38:2022/proxy/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%2024
 #EXTINF:-1 tvg-id="Planeta-RTR" tvg-name="Planeta-RTR" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-Planeta-RTR.png" group-title="Russia",Planeta-RTR
 http://192.168.178.38:2022/proxy/Planeta-RTR
-#EXTINF:-1 tvg-id="Енисей" tvg-name="Енисей " tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-tv.png" group-title="Russia",Енисей 
-http://192.168.178.38:2022/proxy/%D0%95%D0%BD%D0%B8%D1%81%D0%B5%D0%B9%20
+#EXTINF:-1 tvg-id="Енисей" tvg-name="Енисей" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-tv.png" group-title="Russia",Енисей
+http://192.168.178.38:2022/proxy/%D0%95%D0%BD%D0%B8%D1%81%D0%B5%D0%B9
 #EXTINF:-1 tvg-id="ntv" tvg-name="НТВ" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-ntv.png" group-title="Russia",НТВ
 http://192.168.178.38:2022/proxy/%D0%9D%D0%A2%D0%92
 #EXTINF:-1 tvg-id="tnt" tvg-name="ТНТ" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-tnt.png" group-title="Russia",ТНТ
 http://192.168.178.38:2022/proxy/%D0%A2%D0%9D%D0%A2
-#EXTINF:-1 tvg-id="CTC" tvg-name="CTC " tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-ctc.png" group-title="Russia",CTC 
-http://192.168.178.38:2022/proxy/CTC%20
+#EXTINF:-1 tvg-id="CTC" tvg-name="CTC" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-ctc.png" group-title="Russia",CTC
+http://192.168.178.38:2022/proxy/CTC
 #EXTINF:-1 tvg-id="mir" tvg-name="Мир" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-tv.png" group-title="Russia",Мир
 http://192.168.178.38:2022/proxy/%D0%9C%D0%B8%D1%80
 #EXTINF:-1 tvg-id="mir-24" tvg-name="Мир 24" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-tv.png" group-title="Russia",Мир 24

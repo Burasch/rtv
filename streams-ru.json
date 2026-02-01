@@ -91,7 +91,7 @@
         ]
     },
     "5 канал": {
-        "stable_link": "https://tvcdnpotok.com/5kanal/index.m3u8?wmsAuthSign=e937273b14cb239f1855e542bed0a2ef-1769867731-26i441i16i5",
+        "stable_link": "https://tvcdnpotok.com/5kanal/index.m3u8?wmsAuthSign=c3c0685fd701b631e90d77efef9afefe-1769965871-26i441i16i5",
         "sources": [
             "http://oneliketv.net/5-kanal-russia.html",
             "http://live.viks.tv/105326-pyatyy.html",
@@ -155,7 +155,7 @@
     },
     "sci-fi": {
         "id": "syfy",
-        "stable_link": "https://tvcdnpotok.com/sony_sci_fi/index.m3u8?wmsAuthSign=24138c2d684f952162accd2a955875ea-1769869602-26i441i16i5",
+        "stable_link": "https://tvcdnpotok.com/sony_sci_fi/index.m3u8?wmsAuthSign=cecd7bb468d64914c11c98c9359652a4-1769965895-26i441i16i5",
         "sources": [
             "http://oneliketv.net/sony-sci-fi.html",
             "https://telik.live/sony-sci-fi.html",
