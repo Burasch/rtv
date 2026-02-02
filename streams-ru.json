@@ -61,7 +61,7 @@
     "CTC": {
         "id": "ctc",
         "epg_id": "sts-int-m7",
-        "stable_link": "https://tvcdnpotok.com/sts_/index.m3u8?wmsAuthSign=902bab2f72e6fcc2091fb87f6718b500-1770024316-26i441i16i5",
+        "stable_link": "https://tvcdnpotok.com/sts_/index.m3u8?wmsAuthSign=e0614d46562d52ccedc072aa6db68d03-1770042716-26i441i16i5",
         "sources": [
             "http://oneliketv.net/sts.html",
             "http://live.viks.tv/023117-sts.html"
