@@ -40,7 +40,7 @@
     },
     "НТВ": {
         "id": "ntv",
-        "stable_link": "https://tv.tvcdnpotok.com/537/index.m3u8?wmsAuthSign=2cae7e74c4f19707712c4e7c8439ee13-1770094480-26i441i16i5",
+        "stable_link": "https://tv.tvcdnpotok.com/537/index.m3u8?wmsAuthSign=48480d06b827907b666983b1ff22dff7-1770112956-26i441i16i5",
         "sources": [
             "https://telik.live/ntv.html",
             "http://oneliketv.net/ntv.html",
@@ -50,7 +50,7 @@
     },
     "ТНТ": {
         "id": "tnt",
-        "stable_link": "https://tvcdnpotok.com/tnt/index.m3u8?wmsAuthSign=c61810411f55d170820982951438de16-1770094490-26i441i16i5",
+        "stable_link": "https://tvcdnpotok.com/tnt/index.m3u8?wmsAuthSign=13ca7772350b5c4dffb286c128350372-1770112967-26i441i16i5",
         "sources": [
             "http://oneliketv.net/tnt.html",
             "http://live.viks.tv/333-tnt_tv_v1.html",
@@ -82,7 +82,7 @@
     },
     "Домашний": {
         "id": "domashniy",
-        "stable_link": "https://tvcdnpotok.com/domashni/index.m3u8?wmsAuthSign=78b9eb8c41e3c228e326e378289bb7c7-1770094501-26i441i16i5",
+        "stable_link": "https://tvcdnpotok.com/domashni/index.m3u8?wmsAuthSign=301a0e38752a345e039735d68a7cb2c2-1770112978-26i441i16i5",
         "sources": [
             "http://oneliketv.net/domashnij.html",
             "https://smotrettv.com/tv/public/1132-domashnij.html",
@@ -116,7 +116,7 @@
     },
     "Дом кино": {
         "id": "dom-kino",
-        "stable_link": "https://tv.tvcdnpotok.com/186/index.m3u8?wmsAuthSign=1367c7471ac441246be8ad8731bed324-1770094513-26i441i16i5",
+        "stable_link": "https://tv.tvcdnpotok.com/186/index.m3u8?wmsAuthSign=662f35798293f1cc126dcc7711010440-1770112990-26i441i16i5",
         "sources": [
             "https://telik.live/dom-kino.html",
             "http://oneliketv.net/dom-kino.html",
@@ -126,7 +126,7 @@
     },
     "Дом кино Премиум": {
         "id": "dom-kino-premium",
-        "stable_link": "https://tv.tvcdnpotok.com/187/index.m3u8?wmsAuthSign=f20f9499b0ff783ac13800f5a1c77867-1770094524-26i441i16i5",
+        "stable_link": "https://tv.tvcdnpotok.com/187/index.m3u8?wmsAuthSign=558c79f7ff82c1420e3951923b13f331-1770113001-26i441i16i5",
         "sources": [
             "https://telik.live/dom-kino-premium.html",
             "http://oneliketv.net/dom-kino-premium.html",
@@ -138,7 +138,7 @@
     "Мосфильм": {
         "id": "mosfilm",
         "epg_id": "mosfilm",
-        "stable_link": "https://tv.tvcdnpotok.com/235/index.m3u8?wmsAuthSign=ab98627c954fd4447099c71545937e8f-1770094535-26i441i16i5",
+        "stable_link": "https://tv.tvcdnpotok.com/235/index.m3u8?wmsAuthSign=173eac74883e4ffb32a3a4c3a7832de3-1770113012-26i441i16i5",
         "sources": [
             "https://telik.live/mosfilm-zolotaya-kolleksiya.html",
             "https://smotrettv.com/tv/kino/737-mosfilm-zolotaja-kollekcija.html",
