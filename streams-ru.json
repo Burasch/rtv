@@ -24,10 +24,13 @@
     "id": "rossiya-24",
     "stable_link": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia24-sd/index.m3u8"
   },
-  "Planeta-RTR": {
+  "РТР Планета": {
     "id": "Planeta-RTR",
-    "permanent_link": "https://vgtrksmotrim.cdnvideo.ru/hls/planeta_rtr_euro/playlist.m3u8?md5=prf8eAA7BdIx08UzEugMaQ&e=1770163142",
-    "stable_link": "https://vgtrksmotrim.cdnvideo.ru/hls/planeta_rtr_euro/playlist.m3u8?md5=prf8eAA7BdIx08UzEugMaQ&e=1770163142"
+    "permanent_link": "\nhttps://player.smotrim.ru/iframe/stream/live_id/1525504b-449d-432d-ab5d-1f11081f8603",
+    "stable_link": "https://vgtrksmotrim.cdnvideo.ru/hls/planeta_rtr_euro/playlist.m3u8?md5=prf8eAA7BdIx08UzEugMaQ&e=1770163142",
+    "sources": [
+      "https://a-russia.ru/rtr-planeta-russia/"
+    ]
   },
   "Енисей": {
     "stable_link": "https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8",
@@ -63,6 +66,7 @@
     "id": "ctc",
     "stable_link": "https://tvcdnpotok.com/sts_/index.m3u8?wmsAuthSign=faec03c68e815748256975c6102f9962-1770153694-26i441i16i5",
     "epg_id": "sts-int-m7",
+    "tvg_shift": "1",
     "sources": [
       "http://oneliketv.net/sts.html",
       "http://live.viks.tv/023117-sts.html"
