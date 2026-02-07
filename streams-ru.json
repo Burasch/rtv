@@ -66,7 +66,6 @@
     "id": "ctc",
     "stable_link": "https://tvcdnpotok.com/sts_/index.m3u8?wmsAuthSign=faec03c68e815748256975c6102f9962-1770153694-26i441i16i5",
     "epg_id": "sts-int-m7",
-    "tvg_shift": "1",
     "sources": [
       "http://oneliketv.net/sts.html",
       "http://live.viks.tv/023117-sts.html"
@@ -175,6 +174,4 @@
       "http://live.viks.tv/349-zvezda_1.html"
     ]
   }
-
 }
-
