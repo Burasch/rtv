@@ -20,24 +20,17 @@ class ProxyHandler(http.server.SimpleHTTPRequestHandler):
             channel_data = channels.get(name_with_spaces) or channels.get(raw_name)
 
             if channel_data:
-                # A) Smotrim Live-Check
                 p_link = channel_data.get('permanent_link', "")
+                # Smotrim Logik...
                 if "smotrim.ru" in p_link and "m3u8" not in p_link:
-                    logger.info(f"🔄 Smotrim Live-Scrape für {raw_name}...")
                     found = ScraperModule.find_stream(p_link)
                     if found: target = found[0]
-
-                # B) Normaler Check
                 elif Tools.is_link_playable(channel_data.get('stable_link')):
                     target = channel_data.get('stable_link')
-                
-                # C) Reparatur
                 else:
-                    logger.info(f"🚨 Link tot für {raw_name}. Starte Suche...")
-                    sources = []
-                    if p_link: sources.append(p_link)
+                    # Reparatur Logik...
+                    sources = [p_link] if p_link else []
                     sources.extend(channel_data.get('sources', []))
-                    
                     with scrape_lock:
                         for src in sources:
                             found = ScraperModule.find_stream(src)
@@ -51,13 +44,31 @@ class ProxyHandler(http.server.SimpleHTTPRequestHandler):
             self.send_header('Location', target)
             self.end_headers()
         
-        # 2. Fall: Alles andere (EPG, Stoerung.mp4, Logos falls lokal)
+        # 2. Fall: M3U oder EPG direkt ausliefern
+        elif self.path.endswith('.m3u8') or self.path.endswith('.xml.gz'):
+            file_path = os.path.join("/app", self.path.lstrip('/'))
+            if os.path.exists(file_path):
+                self.send_response(200)
+                # Richtige Header für IPTV Player
+                if self.path.endswith('.m3u8'):
+                    self.send_header('Content-type', 'application/x-mpegurl')
+                else:
+                    self.send_header('Content-type', 'application/x-gzip')
+                
+                self.end_headers()
+                with open(file_path, 'rb') as f:
+                    self.wfile.write(f.read())
+            else:
+                self.send_error(404, "Datei nicht gefunden")
+        
+        # 3. Fall: Alles andere (Logos, mp4)
         else:
             super().do_GET()
 
 def start_server():
-    os.chdir("/app") # Wichtig für SimpleHTTPRequestHandler
+    # Wir erzwingen das Verzeichnis /app
+    os.chdir("/app")
     socketserver.TCPServer.allow_reuse_address = True
-    server = socketserver.TCPServer(("", Config.PORT), ProxyHandler)
-    logger.info(f"🚀 Proxy läuft auf Port {Config.PORT}")
-    server.serve_forever()
+    with socketserver.TCPServer(("", Config.PORT), ProxyHandler) as httpd:
+        logger.info(f"🚀 Proxy & File-Server läuft auf Port {Config.PORT}")
+        httpd.serve_forever()
