@@ -26,11 +26,7 @@
   },
   "РТР Планета": {
     "id": "Planeta-RTR",
-    "permanent_link": "https://player.smotrim.ru/iframe/stream/live_id/1525504b-449d-432d-ab5d-1f11081f8603",
-    "stable_link": "https://vgtrksmotrim.cdnvideo.ru/hls/planeta_rtr_euro/playlist.m3u8?md5=prf8eAA7BdIx08UzEugMaQ&e=1770163142",
-    "sources": [
-      "https://a-russia.ru/rtr-planeta-russia/"
-    ]
+    "permanent_link": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia24-sd/index.m3u8"
   },
   "Енисей": {
     "stable_link": "https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8",
