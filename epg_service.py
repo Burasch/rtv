@@ -1,21 +1,27 @@
-import os, requests, logging
-from config import Config
+import xml.etree.ElementTree as ET
+import gzip
+import os
 
-logger = logging.getLogger("EPG")
+def filter_epg(input_file, output_file, allowed_ids):
+    # Öffne die große GZ-Datei
+    with gzip.open(input_file, 'rb') as f:
+        tree = ET.parse(f)
+        root = tree.getroot()
 
-class EPGModule:
-    @staticmethod
-    def update_epg():
-        """Lädt die EPG-Datei herunter, wenn sie fehlt oder alt ist."""
-        try:
-            logger.info("📅 Prüfe EPG Update...")
-            r = requests.get(Config.EPG_SOURCE_URL, stream=True, timeout=20)
-            if r.status_code == 200:
-                with open(Config.EPG_FILE, 'wb') as f:
-                    for chunk in r.iter_content(chunk_size=1024):
-                        f.write(chunk)
-                logger.info("✅ EPG erfolgreich aktualisiert.")
-            else:
-                logger.warning("⚠️ EPG Download fehlgeschlagen.")
-        except Exception as e:
-            logger.error(f"EPG Fehler: {e}")
+    # Neues Root-Element erstellen
+    new_root = ET.Element("tv")
+    
+    # Nur Channels kopieren, die wir wirklich haben
+    for channel in root.findall('channel'):
+        if channel.get('id') in allowed_ids:
+            new_root.append(channel)
+
+    # Nur Programme kopieren, die zu unseren Channels gehören
+    for programme in root.findall('programme'):
+        if programme.get('channel') in allowed_ids:
+            new_root.append(programme)
+
+    # Als kleine GZ-Datei speichern
+    with gzip.open(output_file, 'wb') as f:
+        tree = ET.ElementTree(new_root)
+        tree.write(f, encoding='utf-8', xml_declaration=True)
