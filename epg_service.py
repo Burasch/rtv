@@ -57,4 +57,3 @@ class EPGModule:
         except Exception as e:
             logger.error(f"❌ EPG Fehler: {e}")
             return False
-EOF
