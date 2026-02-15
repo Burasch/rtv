@@ -4,7 +4,6 @@
     "stable_link": "https://streaming.thestream.cyou/live/210.m3u8",
     "epg_id": "pervy",
     "sources": [
-      "https://tvruss.ru/iptv/pervyij-kanal.html",
       "http://oneliketv.net/pervyj-kanal.html",
       "http://live.viks.tv/054107-pervyy-kanal.html",
       "https://telik.live/pervyj-kanal.html"
@@ -23,10 +22,6 @@
   "Россия 24": {
     "id": "rossiya-24",
     "stable_link": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia24-sd/index.m3u8"
-  },
-  "РТР ": {
-    "id": "Planeta-RTR",
-    "permanent_link": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia24-sd/index.m3u8"
   },
   "Енисей": {
     "stable_link": "https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8",
@@ -61,7 +56,7 @@
   "CTC": {
     "id": "ctc",
     "stable_link": "https://tvcdnpotok.com/sts_/index.m3u8?wmsAuthSign=faec03c68e815748256975c6102f9962-1770153694-26i441i16i5",
-    "epg_id": "sts-int-m7",
+    "epg_id": "sts",
     "sources": [
       "http://oneliketv.net/sts.html",
       "http://live.viks.tv/023117-sts.html"
@@ -168,6 +163,40 @@
     "stable_link": "https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8",
     "sources": [
       "http://live.viks.tv/349-zvezda_1.html"
+    ]
+  },
+  "2+2": {
+    "id": "2+2",
+    "sources": [
+      "http://live.viks.tv/114427-22-tv.html",
+      "http://oneliketv.net/2-plus-2.html",
+      "http://live.tivix.co/430-2plus2_t1.html"
+    ]
+  },
+  "2х2": {
+    "id": "2х2",
+    "sources": [
+      "http://live.viks.tv/376-2h2_v1.html",
+      "https://telik.live/2x2.html",
+      "http://oneliketv.net/2x2.html",
+      "http://live.tivix.co/25-tv-2x2.html"
+    ]
+  },
+  "Nickelodeon": {
+    "id": "Nickelodeon",
+    "sources": [
+      "\nhttp://live.viks.tv/397-nickelodeon_v1.html",
+      "https://telik.live/nickelodeon.html",
+      "http://oneliketv.net/nickelodeon.html",
+      "http://live.tivix.co/9-nickelodeon.html\n"
+    ]
+  },
+  "Disney": {
+    "id": "Disney",
+    "sources": [
+      "http://live.viks.tv/344-disney_v1.html",
+      "http://oneliketv.net/disney.html",
+      "http://live.tivix.co/13-kanal-disney.html"
     ]
   }
 }
