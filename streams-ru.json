@@ -56,7 +56,7 @@
   "CTC": {
     "id": "ctc",
     "stable_link": "https://tvcdnpotok.com/sts_/index.m3u8?wmsAuthSign=faec03c68e815748256975c6102f9962-1770153694-26i441i16i5",
-    "epg_id": "sts",
+    "epg_id": "sts-int-m7",
     "sources": [
       "http://oneliketv.net/sts.html",
       "http://live.viks.tv/023117-sts.html"
@@ -88,6 +88,7 @@
   },
   "5 канал": {
     "stable_link": "https://tvcdnpotok.com/5kanal/index.m3u8?wmsAuthSign=1f0de43b75cc51ed6f6e622a0759b30b-1770151808-26i441i16i5",
+    "epg_id": "5kanal-ru",
     "sources": [
       "http://oneliketv.net/5-kanal-russia.html",
       "http://live.viks.tv/105326-pyatyy.html",
@@ -133,7 +134,7 @@
   "Мосфильм": {
     "id": "mosfilm",
     "stable_link": "https://tv.tvcdnpotok.com/235/index.m3u8?wmsAuthSign=57139af998d7d3b54df2f0ef45b650e6-1770149965-26i441i16i5",
-    "epg_id": "mosfilm",
+    "epg_id": "mosfilm-int",
     "sources": [
       "https://telik.live/mosfilm-zolotaya-kolleksiya.html",
       "https://smotrettv.com/tv/kino/737-mosfilm-zolotaja-kollekcija.html",
@@ -168,18 +169,7 @@
   "2+2": {
     "id": "2+2",
     "sources": [
-      "http://live.viks.tv/114427-22-tv.html",
-      "http://oneliketv.net/2-plus-2.html",
       "http://live.tivix.co/430-2plus2_t1.html"
-    ]
-  },
-  "2х2": {
-    "id": "2х2",
-    "sources": [
-      "http://live.viks.tv/376-2h2_v1.html",
-      "https://telik.live/2x2.html",
-      "http://oneliketv.net/2x2.html",
-      "http://live.tivix.co/25-tv-2x2.html"
     ]
   },
   "Nickelodeon": {
@@ -193,6 +183,7 @@
   },
   "Disney": {
     "id": "Disney",
+    "tvg_shift": "2",
     "sources": [
       "http://live.viks.tv/344-disney_v1.html",
       "http://oneliketv.net/disney.html",
