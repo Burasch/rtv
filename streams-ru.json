@@ -1,12 +1,9 @@
 {
   "Первый канал": {
     "id": "perviy-kanal",
-    "stable_link": "https://streaming.thestream.cyou/live/210.m3u8",
     "epg_id": "pervy",
     "sources": [
-      "http://oneliketv.net/pervyj-kanal.html",
-      "http://live.viks.tv/054107-pervyy-kanal.html",
-      "https://telik.live/pervyj-kanal.html"
+      "http://live.viks.tv/054107-pervyy-kanal.html"
     ]
   },
   "Россия 1": {
