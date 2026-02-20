@@ -53,6 +53,7 @@
   "CTC": {
     "id": "ctc",
     "stable_link": "https://tvcdnpotok.com/sts_/index.m3u8?wmsAuthSign=faec03c68e815748256975c6102f9962-1770153694-26i441i16i5",
+    "epg_id": "sts-int-m7",
     "sources": [
       "http://oneliketv.net/sts.html",
       "http://live.viks.tv/023117-sts.html"
@@ -159,12 +160,6 @@
     "stable_link": "https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8",
     "sources": [
       "http://live.viks.tv/349-zvezda_1.html"
-    ]
-  },
-  "2+2": {
-    "id": "2+2",
-    "sources": [
-      "http://live.tivix.co/430-2plus2_t1.html"
     ]
   },
   "Nickelodeon": {
