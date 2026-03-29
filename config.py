@@ -17,4 +17,4 @@ class Config:
     EPG_SOURCE_URL = "https://iptvx.one/epg/epg.xml.gz"
     EPG_FILE = "epg.xml.gz"
     ERROR_VIDEO = f"http://{MY_IP}:{PORT}/stoerung.mp4"
-    CHECK_INTERVAL = 1800 
+    CHECK_INTERVAL = 43200 # Prüft alle 12 Stunden statt alle 30 Minuten 
