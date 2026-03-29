@@ -10,3 +10,9 @@ services:
       - .:/app
     environment:
       - PYTHONUNBUFFERED=1
+    # --- NEU: Logging Limits hinzugefügt ---
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"   # Maximal 10 MB pro Log-Datei
+        max-file: "3"     # Maximal 3 alte Dateien behalten
