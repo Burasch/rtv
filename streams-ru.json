@@ -23,6 +23,7 @@
   },
   "Енисей": {
     "stable_link": "https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8",
+    "epg_id": "enisey-region",
     "sources": [
       "https://yootv.online/enisey-tv.html",
       "https://online-red.com/tv/enisey.html",
@@ -132,6 +133,7 @@
   "Мосфильм": {
     "id": "mosfilm",
     "stable_link": "https://tv.tvcdnpotok.com/235/index.m3u8?wmsAuthSign=57139af998d7d3b54df2f0ef45b650e6-1770149965-26i441i16i5",
+    "epg_id": "mosfilm",
     "sources": [
       "https://telik.live/mosfilm-zolotaya-kolleksiya.html",
       "https://smotrettv.com/tv/kino/737-mosfilm-zolotaja-kollekcija.html",
