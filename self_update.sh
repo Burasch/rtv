@@ -14,6 +14,7 @@ if [ "$LOCAL" != "$REMOTE" ]; then
     
     # NUR Python Dateien und Docker-Files holen, streams-ru.json ignorieren
     git checkout origin/main -- *.py Dockerfile docker-compose.yml
+    git checkout HEAD -- logo_service.py  # logo_service nie überschreiben
     
     # Den neuen Commit-Stand lokal markieren
     git merge origin/main --ff-only
