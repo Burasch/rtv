@@ -69,20 +69,40 @@ def _url_ok(session, url):
     except Exception:
         return False
 
+def _extract_name_from_url(url):
+    """Versucht einen sinnvollen Namen aus einer URL zu extrahieren"""
+    try:
+        # z.B. aus "http://live.viks.tv/568-mir_v2.html" → "mir"
+        # oder aus sources-Liste
+        path = url.rstrip('/').split('/')[-1]
+        path = re.sub(r'\.(m3u8|html|php|asp).*$', '', path)
+        path = re.sub(r'[\-_]?(v\d+|hd|sd|2500|1280|720|playlist)$', '', path)
+        path = re.sub(r'^\d+[\-_]', '', path)  # führende Nummern entfernen
+        path = re.sub(r'[^a-z0-9]+', '-', path.lower())
+        return path.strip('-')
+    except Exception:
+        return ''
+
 class LogoModule:
     @staticmethod
     def get_logo_url(channel_data):
         try:
             name = ''
             channel_id = ''
+            stable_link = ''
+            sources = []
 
             if isinstance(channel_data, tuple) and len(channel_data) == 2:
                 name = str(channel_data[0])
                 data = channel_data[1] if isinstance(channel_data[1], dict) else {}
                 channel_id = data.get('id', data.get('epg_id', ''))
+                stable_link = data.get('stable_link', '')
+                sources = data.get('sources', [])
             elif isinstance(channel_data, dict):
                 name = channel_data.get('name', '')
                 channel_id = channel_data.get('id', channel_data.get('epg_id', ''))
+                stable_link = channel_data.get('stable_link', '')
+                sources = channel_data.get('sources', [])
             elif isinstance(channel_data, str):
                 name = channel_data
 
@@ -93,8 +113,22 @@ class LogoModule:
                         if v and v not in candidates:
                             candidates.append(v)
 
+            # Kein Name/ID → aus URLs extrahieren
             if not candidates:
-                logger.warning(f"LogoModule: Kein Name/ID fuer: {channel_data}")
+                urls_to_try = []
+                if stable_link:
+                    urls_to_try.append(stable_link)
+                urls_to_try.extend(sources)
+
+                for url in urls_to_try:
+                    extracted = _extract_name_from_url(url)
+                    if extracted and len(extracted) > 2:
+                        for v in _variants(extracted):
+                            if v and v not in candidates:
+                                candidates.append(v)
+
+            if not candidates:
+                logger.debug(f"LogoModule: Kein Name/ID fuer: {channel_data}")
                 return ""
 
             for cid in candidates:
@@ -107,7 +141,7 @@ class LogoModule:
                         logger.info(f"Logo (lyngsat): {lurl}")
                         return lurl
 
-            logger.info(f"Kein Logo fuer '{name}'")
+            logger.debug(f"Kein Logo fuer '{name or stable_link}'")
             return ""
 
         except Exception as e:
