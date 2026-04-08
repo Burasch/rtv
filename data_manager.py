@@ -9,24 +9,28 @@ class DataModule:
     def update_from_github():
         try:
             subprocess.run(["git", "config", "--global", "--add", "safe.directory", "/app"], check=False)
-            
+
             if os.path.exists(".git"):
                 logger.info("🔄 Synchronisiere mit GitHub...")
-                # 1. Alles wegsichern
-                subprocess.run(["git", "stash"], check=False)
-                # 2. Hard Reset auf GitHub Stand (löscht Marker, falls vorhanden)
+                
+                # JSON sichern
+                json_backup = None
+                if os.path.exists("streams-ru.json"):
+                    with open("streams-ru.json", "r", encoding='utf-8') as f:
+                        json_backup = f.read()
+
+                # Hard Reset - alles sauber von GitHub
                 subprocess.run(["git", "fetch", "--all"], check=False)
                 subprocess.run(["git", "reset", "--hard", "origin/main"], check=False)
-                # 3. Versuchen, lokale Reparaturen anzuwenden
-                result = subprocess.run(["git", "stash", "pop"], capture_output=True, text=True)
-                
-                if "CONFLICT" in result.stdout or "CONFLICT" in result.stderr:
-                    logger.warning("⚠️ Konflikt erkannt. Bereinige JSON...")
-                    # Bei Konflikt: Wir nehmen die GitHub Version als Master
-                    subprocess.run(["git", "checkout", "--ours", "streams-ru.json"], check=False)
-                    subprocess.run(["git", "add", "streams-ru.json"], check=False)
+
+                # JSON wiederherstellen
+                if json_backup:
+                    with open("streams-ru.json", "w", encoding='utf-8') as f:
+                        f.write(json_backup)
+                    logger.info("✅ Update sauber. JSON wiederhergestellt.")
                 else:
-                    logger.info("✅ Update sauber verschmolzen.")
+                    logger.info("✅ Update sauber.")
+                    
         except Exception as e:
             logger.error(f"Git Fehler: {e}")
 
