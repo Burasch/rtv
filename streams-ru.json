@@ -142,7 +142,14 @@
       "https://ip.ontivi.net/026721-mosfilm.html"
     ]
   },
+  "Москва 24": {
+    "id": "moskva-24",
+    "sources": [
+      "https://ip.ontivi.net/023321-moskva-24tv.html"
+    ]
+  },
   "Остросюжетное HD": {
+    "id": "ostrosyuzhetnoe-hd",
     "stable_link": "https://s.ontivi.net/578/index.m3u8?k=1770155562p26i441i16i5S65471e0ba2b7fcf57cf4255127fac6e7",
     "sources": [
       "http://live.viks.tv/458-ostrosyuzhetnoe-hd_6.html",
@@ -161,9 +168,16 @@
     ]
   },
   "Звезда": {
+    "id": "zvezda",
     "stable_link": "https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8",
     "sources": [
       "http://live.viks.tv/349-zvezda_1.html"
+    ]
+  },
+  " Страшное HD": {
+    "id": "strashnoe",
+    "sources": [
+      "https://ip.ontivi.net/028121-strashnoe-hd.html"
     ]
   },
   "Nickelodeon": {
