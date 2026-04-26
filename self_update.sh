@@ -14,7 +14,7 @@ if [ "$LOCAL" != "$REMOTE" ]; then
     echo "🆕 Update gefunden! Aktualisiere Code..."
     
     # NUR Python Dateien und Docker-Files holen, streams-ru.json ignorieren
-    git checkout origin/main -- *.py Dockerfile docker-compose.yml
+    git checkout origin/main -- *.py Dockerfile docker-compose.yml streams-ru.json
      
     # Den neuen Commit-Stand lokal markieren
     git merge origin/main --ff-only
